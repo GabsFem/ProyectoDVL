@@ -1786,3 +1786,712 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.06-01.49.12:788][240]AssetCheck: New page: Asset Save: multiple assets
 [2022.09.06-01.49.12:788][240]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
 [2022.09.06-01.49.12:788][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-01.59.23:653][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.09.06-01.59.52:282][798]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.06-02.00.18:305][899]Cmd: DELETE
+[2022.09.06-02.00.18:306][899]Cmd: ACTOR DELETE
+[2022.09.06-02.00.18:308][899]LogEditorActor: Deleted Actor: Brush
+[2022.09.06-02.00.18:316][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.06-02.00.18:321][899]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.09.06-02.00.23:516][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.09.06-02.00.32:946][649]Cmd: TRANSACTION UNDO
+[2022.09.06-02.00.32:946][649]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.00.33:573][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.09.06-02.00.34:686][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.09.06-02.00.35:358][891]Cmd: EDIT COPY
+[2022.09.06-02.00.35:759][939]Cmd: EDIT PASTE
+[2022.09.06-02.00.44:664][  3]Cmd: EDIT COPY
+[2022.09.06-02.00.45:050][ 49]Cmd: EDIT PASTE
+[2022.09.06-02.00.54:016][119]LogEditorViewport: Clicking Background
+[2022.09.06-02.01.14:295][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor54)
+[2022.09.06-02.01.20:377][257]LogEditorViewport: Clicking Background
+[2022.09.06-02.01.50:849][892]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.09.06-02.02.15:305][806]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.15:305][806]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.02.15:704][817]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.15:704][817]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.02.16:153][859]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.16:154][859]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.02.16:568][902]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.16:568][902]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.02.16:940][944]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.16:940][944]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.02.17:379][994]Cmd: TRANSACTION UNDO
+[2022.09.06-02.02.17:379][994]LogEditorTransaction: Undo Brush Add
+[2022.09.06-02.02.18:710][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor54)
+[2022.09.06-02.02.20:181][324]Cmd: EDIT COPY
+[2022.09.06-02.02.20:769][394]Cmd: EDIT PASTE
+[2022.09.06-02.02.56:550][621]LogEditorViewport: Clicking Background
+[2022.09.06-02.03.02:903][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.03.04:028][513]Cmd: EDIT COPY
+[2022.09.06-02.03.04:404][558]Cmd: EDIT PASTE
+[2022.09.06-02.03.23:306][808]LogEditorViewport: Clicking Background
+[2022.09.06-02.03.33:667][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.03.39:795][774]LogEditorViewport: Clicking Background
+[2022.09.06-02.03.43:512][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.03.44:963][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.03.46:638][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.03.48:964][857]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.48:964][857]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.03.49:418][870]LogEditorViewport: Clicking Background
+[2022.09.06-02.03.52:251][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.03.57:570][833]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.57:570][833]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.03.57:834][840]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.57:834][840]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.03.58:084][847]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.58:084][847]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.03.58:353][868]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.58:353][868]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.03.58:662][900]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.58:662][900]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.03.58:977][934]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.58:977][934]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.03.59:303][973]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.59:303][973]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.03.59:642][  8]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.59:642][  8]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.03.59:980][ 47]Cmd: TRANSACTION UNDO
+[2022.09.06-02.03.59:980][ 47]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.04.00:335][ 87]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.00:335][ 87]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.04.00:651][119]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.00:651][119]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.04.01:006][159]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.01:006][159]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.04.01:407][206]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.01:407][206]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.04.01:877][262]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.01:877][262]LogEditorTransaction: Undo Rotate Actors
+[2022.09.06-02.04.02:371][317]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.02:371][317]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.04.02:721][356]Cmd: TRANSACTION UNDO
+[2022.09.06-02.04.02:721][356]LogEditorTransaction: Undo Paste
+[2022.09.06-02.04.13:910][631]LogEditorViewport: Clicking Background
+[2022.09.06-02.04.58:886][779]Cmd: DELETE
+[2022.09.06-02.04.58:886][779]Cmd: ACTOR DELETE
+[2022.09.06-02.04.58:898][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.06-02.04.58:903][779]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2022.09.06-02.05.01:196][ 54]Cmd: DELETE
+[2022.09.06-02.05.01:196][ 54]Cmd: ACTOR DELETE
+[2022.09.06-02.05.01:204][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.06-02.05.01:204][ 54]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.09.06-02.06.27:349][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.06-02.06.27:353][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Maps/Untitled_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.09.06-02.06.27:370][279]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_Auto112E5F9DE4545F8463B747995C48EDF9E.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Maps/Untitled_Auto1.umap'
+[2022.09.06-02.06.27:371][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Untitled' took 0.029
+[2022.09.06-02.06.27:371][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2022.09.06-02.07.21:193][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared)
+[2022.09.06-02.07.22:147][833]Cmd: EDIT COPY
+[2022.09.06-02.07.22:743][904]Cmd: EDIT PASTE
+[2022.09.06-02.07.52:717][476]Cmd: TRANSACTION UNDO
+[2022.09.06-02.07.52:717][476]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.07.55:482][759]Cmd: TRANSACTION UNDO
+[2022.09.06-02.07.55:482][759]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.08.07:331][163]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.07:331][163]LogEditorTransaction: Undo Scale Actors
+[2022.09.06-02.08.16:538][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.08.17:951][384]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.17:951][384]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.08.18:840][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.08.56:989][987]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.56:989][987]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.08.57:313][997]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.57:313][997]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.08.57:681][ 24]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.57:681][ 24]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.08.58:050][ 67]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.58:050][ 67]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.08.58:434][112]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.58:434][112]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.08.58:838][160]Cmd: TRANSACTION UNDO
+[2022.09.06-02.08.58:838][160]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.09.07:879][243]LogEditorViewport: Clicking Background
+[2022.09.06-02.09.16:262][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.09.23:141][ 59]LogEditorViewport: Clicking Background
+[2022.09.06-02.09.35:976][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.09.37:513][773]Cmd: EDIT COPY
+[2022.09.06-02.09.37:944][824]Cmd: EDIT PASTE
+[2022.09.06-02.10.05:294][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared3)
+[2022.09.06-02.10.13:622][ 77]LogEditorViewport: Clicking Background
+[2022.09.06-02.10.22:716][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.06-02.10.24:268][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared3)
+[2022.09.06-02.10.34:179][530]LogEditorViewport: Clicking Background
+[2022.09.06-02.10.49:320][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared3)
+[2022.09.06-02.10.59:501][535]LogEditorViewport: Clicking Background
+[2022.09.06-02.11.19:617][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared)
+[2022.09.06-02.11.20:559][ 48]Cmd: EDIT COPY
+[2022.09.06-02.11.21:051][107]Cmd: EDIT PASTE
+[2022.09.06-02.12.00:029][751]LogEditorViewport: Clicking Background
+[2022.09.06-02.12.28:521][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.12.28:530][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.06-02.12.28:553][409]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled51604FA248BB16E4E7FFB79BB5E723EA.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.12.28:563][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.12.28:576][409]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataB959A07944E86AA944834B981A957CAF.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.12.28:585][409]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.12.28:585][409]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.12.28:585][409]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.12.44:731][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.12.45:307][390]Cmd: EDIT COPY
+[2022.09.06-02.12.45:745][442]Cmd: EDIT PASTE
+[2022.09.06-02.13.15:977][ 57]LogEditorViewport: Clicking Background
+[2022.09.06-02.13.21:809][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared3)
+[2022.09.06-02.13.22:557][842]Cmd: EDIT COPY
+[2022.09.06-02.13.23:057][902]Cmd: EDIT PASTE
+[2022.09.06-02.13.38:832][786]LogEditorViewport: Clicking Background
+[2022.09.06-02.13.40:517][984]LogEditorViewport: Clicking Background
+[2022.09.06-02.13.41:139][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared5)
+[2022.09.06-02.13.41:860][141]Cmd: EDIT COPY
+[2022.09.06-02.13.42:327][197]Cmd: EDIT PASTE
+[2022.09.06-02.13.51:036][236]LogEditorViewport: Clicking Background
+[2022.09.06-02.13.55:597][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared6)
+[2022.09.06-02.13.56:318][865]Cmd: EDIT PASTE
+[2022.09.06-02.14.00:994][411]Cmd: DELETE
+[2022.09.06-02.14.00:994][411]Cmd: ACTOR DELETE
+[2022.09.06-02.14.00:997][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.14.01:005][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.09.06-02.14.01:009][411]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.09.06-02.14.02:725][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared6)
+[2022.09.06-02.14.03:331][686]Cmd: EDIT COPY
+[2022.09.06-02.14.03:781][740]Cmd: EDIT PASTE
+[2022.09.06-02.14.15:043][ 81]LogEditorViewport: Clicking Background
+[2022.09.06-02.14.18:059][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared)
+[2022.09.06-02.14.18:989][550]Cmd: EDIT COPY
+[2022.09.06-02.14.19:477][608]Cmd: EDIT PASTE
+[2022.09.06-02.14.29:266][776]LogEditorViewport: Clicking Background
+[2022.09.06-02.15.26:115][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared2)
+[2022.09.06-02.15.28:223][784]Cmd: EDIT COPY
+[2022.09.06-02.15.28:692][840]Cmd: EDIT PASTE
+[2022.09.06-02.15.43:876][655]Cmd: EDIT COPY
+[2022.09.06-02.15.44:301][706]Cmd: EDIT PASTE
+[2022.09.06-02.15.58:566][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared10)
+[2022.09.06-02.16.06:968][413]LogEditorViewport: Clicking Background
+[2022.09.06-02.16.27:627][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared9)
+[2022.09.06-02.16.28:397][957]Cmd: EDIT COPY
+[2022.09.06-02.16.29:138][ 46]Cmd: EDIT PASTE
+[2022.09.06-02.17.12:561][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared12)
+[2022.09.06-02.17.13:250][311]Cmd: TRANSACTION UNDO
+[2022.09.06-02.17.13:250][311]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.17.13:738][325]Cmd: TRANSACTION UNDO
+[2022.09.06-02.17.13:738][325]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.17.41:001][572]Cmd: EDIT COPY
+[2022.09.06-02.17.41:418][622]Cmd: EDIT PASTE
+[2022.09.06-02.17.48:831][506]LogEditorViewport: Clicking Background
+[2022.09.06-02.17.59:956][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared12)
+[2022.09.06-02.18.06:339][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared13)
+[2022.09.06-02.18.14:166][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared12)
+[2022.09.06-02.18.18:756][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared13)
+[2022.09.06-02.18.26:793][949]LogEditorViewport: Clicking Background
+[2022.09.06-02.18.37:521][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared13)
+[2022.09.06-02.18.42:891][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared10)
+[2022.09.06-02.18.43:532][944]Cmd: EDIT COPY
+[2022.09.06-02.18.44:014][  1]Cmd: EDIT PASTE
+[2022.09.06-02.18.54:284][224]Cmd: TRANSACTION UNDO
+[2022.09.06-02.18.54:284][224]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.19.01:034][982]Cmd: EDIT COPY
+[2022.09.06-02.19.04:352][379]Cmd: TRANSACTION UNDO
+[2022.09.06-02.19.04:352][379]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.19.05:136][425]LogEditorViewport: Clicking Background
+[2022.09.06-02.19.06:356][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared11)
+[2022.09.06-02.19.24:910][779]LogEditorViewport: Clicking Background
+[2022.09.06-02.19.26:527][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.19.26:535][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.06-02.19.26:560][969]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledECF5A7E34ECA29563FFCC19EC6B5E873.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.19.26:570][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.19.26:584][969]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataA8D8E28B42B5FB4D99B6189CCC4F9D4C.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.19.26:593][969]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.19.26:593][969]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.19.26:593][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.19.31:087][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared8)
+[2022.09.06-02.19.31:893][600]Cmd: EDIT COPY
+[2022.09.06-02.19.32:303][649]Cmd: EDIT PASTE
+[2022.09.06-02.19.43:371][968]LogEditorViewport: Clicking Background
+[2022.09.06-02.19.50:269][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared15)
+[2022.09.06-02.19.50:977][876]Cmd: EDIT COPY
+[2022.09.06-02.19.51:494][938]Cmd: EDIT PASTE
+[2022.09.06-02.19.58:147][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared16)
+[2022.09.06-02.19.59:651][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.09.06-02.20.00:525][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.09.06-02.20.01:108][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared16)
+[2022.09.06-02.20.05:871][640]LogEditorViewport: Clicking Background
+[2022.09.06-02.20.52:133][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared8)
+[2022.09.06-02.21.20:262][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared15)
+[2022.09.06-02.21.21:294][ 44]Cmd: EDIT COPY
+[2022.09.06-02.21.21:711][ 94]Cmd: EDIT PASTE
+[2022.09.06-02.21.32:199][344]LogEditorViewport: Clicking Background
+[2022.09.06-02.21.37:123][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared15)
+[2022.09.06-02.21.37:813][ 13]Cmd: EDIT COPY
+[2022.09.06-02.21.38:215][ 61]Cmd: EDIT PASTE
+[2022.09.06-02.21.45:687][952]Cmd: EDIT COPY
+[2022.09.06-02.21.46:105][  2]Cmd: EDIT PASTE
+[2022.09.06-02.21.58:255][451]LogEditorViewport: Clicking Background
+[2022.09.06-02.22.00:226][687]Cmd: TRANSACTION UNDO
+[2022.09.06-02.22.00:226][687]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.22.06:917][441]LogEditorViewport: Clicking Background
+[2022.09.06-02.22.11:175][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared18)
+[2022.09.06-02.22.12:226][ 73]Cmd: EDIT COPY
+[2022.09.06-02.22.12:632][121]Cmd: EDIT PASTE
+[2022.09.06-02.22.17:508][699]LogEditorViewport: Clicking Background
+[2022.09.06-02.22.20:240][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared14)
+[2022.09.06-02.22.21:047][119]Cmd: EDIT COPY
+[2022.09.06-02.22.21:440][166]Cmd: EDIT PASTE
+[2022.09.06-02.22.35:526][846]LogEditorViewport: Clicking Background
+[2022.09.06-02.22.44:371][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared21)
+[2022.09.06-02.22.45:043][983]Cmd: EDIT COPY
+[2022.09.06-02.22.45:518][ 40]Cmd: EDIT PASTE
+[2022.09.06-02.22.52:229][838]Cmd: EDIT COPY
+[2022.09.06-02.22.52:689][893]Cmd: EDIT PASTE
+[2022.09.06-02.23.02:225][ 30]Cmd: EDIT COPY
+[2022.09.06-02.23.02:635][ 79]Cmd: EDIT PASTE
+[2022.09.06-02.23.28:015][102]LogEditorViewport: Clicking Background
+[2022.09.06-02.23.45:685][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared21)
+[2022.09.06-02.23.48:670][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared21)
+[2022.09.06-02.23.53:093][ 77]Cmd: EDIT COPY
+[2022.09.06-02.23.53:528][129]Cmd: EDIT PASTE
+[2022.09.06-02.24.09:299][ 13]LogEditorViewport: Clicking Background
+[2022.09.06-02.24.15:647][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.09.06-02.24.17:149][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared19)
+[2022.09.06-02.24.18:017][ 49]Cmd: EDIT COPY
+[2022.09.06-02.24.18:437][ 99]Cmd: EDIT PASTE
+[2022.09.06-02.24.26:069][  7]LogEditorViewport: Clicking Background
+[2022.09.06-02.24.45:964][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared18)
+[2022.09.06-02.24.57:709][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.25.01:687][183]LogEditorViewport: Clicking Background
+[2022.09.06-02.25.11:329][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.09.06-02.25.12:074][423]Cmd: EDIT COPY
+[2022.09.06-02.25.12:508][475]Cmd: EDIT PASTE
+[2022.09.06-02.25.19:278][283]Cmd: EDIT COPY
+[2022.09.06-02.25.19:704][334]Cmd: EDIT PASTE
+[2022.09.06-02.25.32:191][827]Cmd: EDIT COPY
+[2022.09.06-02.25.32:567][872]Cmd: EDIT PASTE
+[2022.09.06-02.25.38:640][596]LogEditorViewport: Clicking Background
+[2022.09.06-02.25.40:352][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.09.06-02.26.11:931][559]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.11:931][559]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.26.12:211][567]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.12:211][567]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.26.12:528][582]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.12:528][582]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.26.12:843][616]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.12:843][616]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.26.13:167][653]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.13:167][653]LogEditorTransaction: Undo Set Scale
+[2022.09.06-02.26.13:497][692]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.13:497][692]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.26.13:859][732]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.13:859][732]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.26.14:200][765]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.14:200][765]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.26.14:713][825]Cmd: TRANSACTION UNDO
+[2022.09.06-02.26.14:713][825]LogEditorTransaction: Undo Paste
+[2022.09.06-02.26.15:737][943]LogEditorViewport: Clicking Background
+[2022.09.06-02.26.26:392][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared25)
+[2022.09.06-02.26.27:175][311]Cmd: EDIT COPY
+[2022.09.06-02.26.27:609][363]Cmd: EDIT PASTE
+[2022.09.06-02.26.45:983][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.27.15:009][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.27.15:307][490]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-02.27.21:034][174]LogEditorViewport: Clicking Background
+[2022.09.06-02.27.58:368][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.28.00:498][846]Cmd: EDIT COPY
+[2022.09.06-02.28.00:856][889]Cmd: EDIT PASTE
+[2022.09.06-02.28.08:836][841]LogEditorViewport: Clicking Background
+[2022.09.06-02.28.16:016][702]Cmd: TRANSACTION UNDO
+[2022.09.06-02.28.16:016][702]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.28.16:484][715]Cmd: TRANSACTION UNDO
+[2022.09.06-02.28.16:484][715]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.28.16:904][764]Cmd: TRANSACTION UNDO
+[2022.09.06-02.28.16:904][764]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.28.59:647][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.29.21:615][507]LogEditorViewport: Clicking Background
+[2022.09.06-02.29.35:440][ 88]Cmd: TRANSACTION UNDO
+[2022.09.06-02.29.35:440][ 88]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.29.35:922][101]Cmd: TRANSACTION UNDO
+[2022.09.06-02.29.35:922][101]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.29.36:367][151]Cmd: TRANSACTION UNDO
+[2022.09.06-02.29.36:367][151]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.06-02.29.47:839][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor58)
+[2022.09.06-02.29.54:686][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared28)
+[2022.09.06-02.29.56:345][526]Cmd: DELETE
+[2022.09.06-02.29.56:345][526]Cmd: ACTOR DELETE
+[2022.09.06-02.29.56:348][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.29.56:357][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.06-02.29.56:362][526]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.09.06-02.29.58:502][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared29)
+[2022.09.06-02.29.59:423][890]Cmd: DELETE
+[2022.09.06-02.29.59:423][890]Cmd: ACTOR DELETE
+[2022.09.06-02.29.59:426][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.29.59:433][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.06-02.29.59:434][890]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.09.06-02.30.02:091][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor58)
+[2022.09.06-02.30.02:807][291]LogEditorViewport: Clicking Background
+[2022.09.06-02.30.04:040][435]LogEditorViewport: Clicking Background
+[2022.09.06-02.30.13:222][529]LogEditorViewport: Clicking Background
+[2022.09.06-02.30.18:335][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.30.20:842][433]LogEditorViewport: Clicking Background
+[2022.09.06-02.30.25:433][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.30.25:440][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.06-02.30.25:467][978]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled383BADE54A757A46EEB460951E6485AA.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.30.25:477][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.30.25:491][978]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData77E6F2FB452828DC1D687A8244155428.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.30.25:501][978]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.30.25:501][978]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.30.25:501][978]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.33.09:877][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.33.10:644][237]LogEditorViewport: Clicking Background
+[2022.09.06-02.33.21:096][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.33.34:870][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.33.40:591][774]LogEditorViewport: Clicking Background
+[2022.09.06-02.34.03:562][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.34.04:980][654]Cmd: DELETE
+[2022.09.06-02.34.04:980][654]Cmd: ACTOR DELETE
+[2022.09.06-02.34.04:983][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.34.04:991][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.06-02.34.04:995][654]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.09.06-02.34.06:810][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared18)
+[2022.09.06-02.34.07:779][985]Cmd: EDIT COPY
+[2022.09.06-02.34.08:180][ 33]Cmd: EDIT PASTE
+[2022.09.06-02.34.11:492][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.34.13:043][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared20)
+[2022.09.06-02.34.21:378][603]Cmd: EDIT COPY
+[2022.09.06-02.34.21:804][654]Cmd: EDIT PASTE
+[2022.09.06-02.34.28:344][434]LogEditorViewport: Clicking Background
+[2022.09.06-02.34.32:889][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared25)
+[2022.09.06-02.34.33:683][ 69]Cmd: EDIT COPY
+[2022.09.06-02.34.34:944][220]Cmd: EDIT PASTE
+[2022.09.06-02.35.32:309][ 68]LogEditorViewport: Clicking Background
+[2022.09.06-02.35.33:518][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared29)
+[2022.09.06-02.35.34:982][385]LogEditorViewport: Clicking Background
+[2022.09.06-02.35.36:901][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared28)
+[2022.09.06-02.35.37:895][731]Cmd: EDIT COPY
+[2022.09.06-02.35.38:420][794]Cmd: EDIT PASTE
+[2022.09.06-02.35.53:623][610]Cmd: EDIT COPY
+[2022.09.06-02.35.54:083][665]Cmd: EDIT PASTE
+[2022.09.06-02.36.03:089][740]LogEditorViewport: Clicking Background
+[2022.09.06-02.36.04:722][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared31)
+[2022.09.06-02.36.05:485][ 23]Cmd: EDIT COPY
+[2022.09.06-02.36.06:036][ 89]Cmd: EDIT PASTE
+[2022.09.06-02.36.26:839][572]LogEditorViewport: Clicking Background
+[2022.09.06-02.36.32:122][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared31)
+[2022.09.06-02.36.33:262][338]Cmd: EDIT COPY
+[2022.09.06-02.36.33:721][393]Cmd: EDIT PASTE
+[2022.09.06-02.37.48:935][372]LogEditorViewport: Clicking Background
+[2022.09.06-02.38.05:560][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.38.06:906][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared28)
+[2022.09.06-02.38.09:449][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.09.06-02.38.24:912][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared33)
+[2022.09.06-02.38.33:522][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.38.34:413][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.09.06-02.38.34:920][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared31)
+[2022.09.06-02.38.35:572][564]Cmd: EDIT COPY
+[2022.09.06-02.38.36:014][617]Cmd: EDIT PASTE
+[2022.09.06-02.39.10:521][671]LogEditorViewport: Clicking Background
+[2022.09.06-02.39.34:280][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared33)
+[2022.09.06-02.39.46:737][825]Cmd: TRANSACTION UNDO
+[2022.09.06-02.39.46:737][825]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.39.49:812][145]Cmd: TRANSACTION UNDO
+[2022.09.06-02.39.49:812][145]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.39.50:175][155]Cmd: TRANSACTION UNDO
+[2022.09.06-02.39.50:175][155]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.39.50:574][187]Cmd: TRANSACTION UNDO
+[2022.09.06-02.39.50:574][187]LogEditorTransaction: Undo Rotate Actors
+[2022.09.06-02.39.51:845][335]Cmd: TRANSACTION UNDO
+[2022.09.06-02.39.51:845][335]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.39.52:819][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.09.06-02.40.19:621][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared34)
+[2022.09.06-02.40.20:335][648]Cmd: DELETE
+[2022.09.06-02.40.20:335][648]Cmd: ACTOR DELETE
+[2022.09.06-02.40.20:339][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.40.20:350][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.06-02.40.20:355][648]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.09.06-02.40.25:146][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared33)
+[2022.09.06-02.40.32:946][101]LogEditorViewport: Clicking Background
+[2022.09.06-02.40.50:630][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared32)
+[2022.09.06-02.40.54:364][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.40.54:370][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.06-02.40.54:398][643]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled057B8AE04D3021850510C6A1121B6843.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.40.54:408][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.40.54:422][643]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData4A20FF784360F97CB076D496AC3C169E.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.40.54:431][643]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.40.54:431][643]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.40.54:431][643]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.40.59:503][251]Cmd: EDIT COPY
+[2022.09.06-02.40.59:962][306]Cmd: EDIT PASTE
+[2022.09.06-02.41.13:314][900]Cmd: EDIT COPY
+[2022.09.06-02.41.13:741][951]Cmd: EDIT PASTE
+[2022.09.06-02.41.20:153][713]LogEditorViewport: Clicking Background
+[2022.09.06-02.41.24:768][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared28)
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: Scale for /Game/Maps/Untitled.Untitled:PersistentLevel.pared28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: Scale for /Game/Maps/Untitled.Untitled:PersistentLevel.pared28.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.09.06-02.41.32:524][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.09.06-02.41.47:602][979]LogEditorViewport: Clicking Background
+[2022.09.06-02.41.55:394][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared28)
+[2022.09.06-02.42.55:965][119]LogEditorViewport: Clicking Background
+[2022.09.06-02.43.03:067][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared30)
+[2022.09.06-02.43.05:134][161]Cmd: EDIT COPY
+[2022.09.06-02.43.06:210][269]Cmd: EDIT PASTE
+[2022.09.06-02.43.22:525][173]LogEditorViewport: Clicking Background
+[2022.09.06-02.43.24:410][395]LogEditorViewport: Clicking Background
+[2022.09.06-02.43.28:064][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared19)
+[2022.09.06-02.43.32:258][332]Cmd: EDIT COPY
+[2022.09.06-02.43.32:701][385]Cmd: EDIT PASTE
+[2022.09.06-02.44.04:987][222]LogEditorViewport: Clicking Background
+[2022.09.06-02.44.08:872][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.44.08:879][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.06-02.44.08:910][685]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledA30AB87A49591EA3B0AFA9833B20D500.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.44.08:920][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.44.08:934][685]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData9DE6EFB845D6CB696300B7B3F1CC1615.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.44.08:942][685]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.44.08:942][685]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.44.08:943][685]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.45.03:128][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.45.03:135][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.06-02.45.03:163][349]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled1E5C75A4470E84D69566F9B2D5A6C113.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.45.03:172][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.45.03:186][349]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataBB0AD8424BAF9FA30B2495BC0DE6AD79.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.45.03:196][349]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.45.03:196][349]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.45.03:196][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.46.49:952][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared31)
+[2022.09.06-02.46.50:856][411]Cmd: EDIT COPY
+[2022.09.06-02.46.51:317][466]Cmd: EDIT PASTE
+[2022.09.06-02.46.59:842][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.09.06-02.47.00:760][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared39)
+[2022.09.06-02.47.05:890][194]Cmd: TRANSACTION UNDO
+[2022.09.06-02.47.05:890][194]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.47.06:253][204]Cmd: TRANSACTION UNDO
+[2022.09.06-02.47.06:253][204]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.47.06:588][228]Cmd: TRANSACTION UNDO
+[2022.09.06-02.47.06:588][228]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.47.47:640][ 45]LogEditorViewport: Clicking Background
+[2022.09.06-02.48.00:792][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared39)
+[2022.09.06-02.48.06:909][109]LogEditorViewport: Clicking Background
+[2022.09.06-02.48.10:949][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared39)
+[2022.09.06-02.48.19:165][569]LogEditorViewport: Clicking Background
+[2022.09.06-02.48.27:322][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared39)
+[2022.09.06-02.48.45:237][110]LogEditorViewport: Clicking Background
+[2022.09.06-02.49.00:436][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.49.00:444][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.06-02.49.00:475][841]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled01F56BE040FA2D8B4A3FF387FB595571.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.49.00:485][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.49.00:499][841]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData8FA0551444EC70F1310BD291AF0F7D26.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.49.00:507][841]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.49.00:507][841]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.49.00:507][841]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.49.05:543][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared34)
+[2022.09.06-02.49.06:393][451]Cmd: EDIT COPY
+[2022.09.06-02.49.06:927][497]Cmd: EDIT PASTE
+[2022.09.06-02.49.55:357][963]LogEditorViewport: Clicking Background
+[2022.09.06-02.50.12:510][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.50.12:517][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.06-02.50.12:546][884]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledE753B705486FEEF5876BE0A6FBC14A63.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.50.12:556][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.50.12:569][884]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataDC8A5CBC43DBD76A47EA94B0E13AF094.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.50.12:578][884]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.50.12:578][884]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.50.12:578][884]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.50.29:096][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.09.06-02.50.30:152][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared40)
+[2022.09.06-02.50.31:935][928]LogEditorViewport: Clicking Background
+[2022.09.06-02.51.03:017][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.09.06-02.51.03:568][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared40)
+[2022.09.06-02.51.14:307][126]Cmd: EDIT COPY
+[2022.09.06-02.51.14:783][183]Cmd: EDIT PASTE
+[2022.09.06-02.51.20:337][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared41)
+[2022.09.06-02.52.00:223][610]LogEditorViewport: Clicking Background
+[2022.09.06-02.52.19:022][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared40)
+[2022.09.06-02.52.21:605][984]Cmd: EDIT COPY
+[2022.09.06-02.52.22:033][ 35]Cmd: EDIT PASTE
+[2022.09.06-02.52.40:442][169]LogEditorViewport: Clicking Background
+[2022.09.06-02.52.56:169][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.52.57:222][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.09.06-02.53.18:180][235]LogEditorViewport: Clicking Background
+[2022.09.06-02.53.25:562][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.54.10:665][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.54.14:619][589]LogEditorViewport: Clicking Background
+[2022.09.06-02.54.24:854][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.54.25:860][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.09.06-02.54.26:609][808]Cmd: EDIT COPY
+[2022.09.06-02.54.27:107][850]Cmd: EDIT PASTE
+[2022.09.06-02.54.57:532][113]LogEditorViewport: Clicking Background
+[2022.09.06-02.55.04:013][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.55.04:838][813]Cmd: DELETE
+[2022.09.06-02.55.04:838][813]Cmd: ACTOR DELETE
+[2022.09.06-02.55.04:843][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.55.04:852][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.09.06-02.55.04:857][813]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.09.06-02.55.06:905][ 17]Cmd: TRANSACTION UNDO
+[2022.09.06-02.55.06:905][ 17]LogEditorTransaction: Undo Delete Actors
+[2022.09.06-02.55.07:902][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.09.06-02.55.09:433][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.55.10:613][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.09.06-02.55.12:127][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.55.21:650][527]LogEditorViewport: Clicking Background
+[2022.09.06-02.55.23:260][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.09.06-02.55.24:059][812]LogEditorViewport: Clicking Background
+[2022.09.06-02.55.24:567][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.55.55:009][509]LogEditorViewport: Clicking Background
+[2022.09.06-02.55.56:610][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.09.06-02.55.57:234][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.56.03:014][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.56.13:615][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.09.06-02.56.14:338][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.56.16:340][ 47]LogEditorViewport: Clicking Background
+[2022.09.06-02.56.31:388][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.56.33:926][830]Cmd: TRANSACTION UNDO
+[2022.09.06-02.56.33:926][830]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.56.34:347][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.56.36:292][ 62]Cmd: TRANSACTION UNDO
+[2022.09.06-02.56.36:292][ 62]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.56.45:898][  6]LogEditorViewport: Clicking Background
+[2022.09.06-02.56.50:068][503]Cmd: TRANSACTION UNDO
+[2022.09.06-02.56.50:068][503]LogEditorTransaction: Undo Clicking Background
+[2022.09.06-02.56.50:428][512]Cmd: TRANSACTION UNDO
+[2022.09.06-02.56.50:428][512]LogEditorTransaction: Undo Move Actors
+[2022.09.06-02.56.51:246][592]LogEditorViewport: Clicking Background
+[2022.09.06-02.56.56:832][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.57.08:316][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.57.12:778][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.57.44:951][478]LogEditorViewport: Clicking Background
+[2022.09.06-02.57.45:719][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.57.50:384][126]LogEditorViewport: Clicking Background
+[2022.09.06-02.57.59:641][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.09.06-02.58.03:156][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.58.08:843][217]LogEditorViewport: Clicking Background
+[2022.09.06-02.58.09:618][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-02.58.40:570][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.58.46:247][643]LogEditorViewport: Clicking Background
+[2022.09.06-02.58.56:621][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-02.58.56:629][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.06-02.58.56:661][739]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledAB24FE1D46CF990FAC951391D3571A97.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-02.58.56:672][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-02.58.56:685][739]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataDD2A05E5491D16D7D9B3A482AA13E619.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-02.58.56:694][739]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-02.58.56:694][739]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-02.58.56:694][739]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-02.59.12:444][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor50)
+[2022.09.06-02.59.13:164][554]Cmd: EDIT COPY
+[2022.09.06-02.59.13:722][621]Cmd: EDIT PASTE
+[2022.09.06-02.59.24:038][852]Cmd: EDIT COPY
+[2022.09.06-02.59.24:539][912]Cmd: EDIT PASTE
+[2022.09.06-02.59.36:801][376]LogEditorViewport: Clicking Background
+[2022.09.06-02.59.52:056][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor60)
+[2022.09.06-02.59.56:929][785]Cmd: DELETE
+[2022.09.06-02.59.56:929][785]Cmd: ACTOR DELETE
+[2022.09.06-02.59.56:932][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-02.59.56:940][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.06-02.59.56:944][785]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.09.06-02.59.58:727][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-02.59.59:513][ 89]Cmd: EDIT COPY
+[2022.09.06-03.00.00:401][195]Cmd: EDIT PASTE
+[2022.09.06-03.00.08:158][119]Cmd: EDIT COPY
+[2022.09.06-03.00.08:619][174]Cmd: EDIT PASTE
+[2022.09.06-03.00.17:105][187]Cmd: EDIT COPY
+[2022.09.06-03.00.17:572][243]Cmd: EDIT PASTE
+[2022.09.06-03.00.23:668][969]Cmd: EDIT COPY
+[2022.09.06-03.00.24:111][ 22]Cmd: EDIT PASTE
+[2022.09.06-03.00.30:968][840]Cmd: EDIT COPY
+[2022.09.06-03.00.31:370][888]Cmd: EDIT PASTE
+[2022.09.06-03.00.59:338][943]Cmd: DELETE
+[2022.09.06-03.00.59:339][943]Cmd: ACTOR DELETE
+[2022.09.06-03.00.59:342][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-03.00.59:350][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.06-03.00.59:354][943]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.09.06-03.01.00:886][127]Cmd: TRANSACTION UNDO
+[2022.09.06-03.01.00:886][127]LogEditorTransaction: Undo Delete Actors
+[2022.09.06-03.01.09:604][ 99]LogEditorViewport: Clicking Background
+[2022.09.06-03.01.12:613][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-03.01.15:149][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2022.09.06-03.01.16:315][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared44)
+[2022.09.06-03.01.20:008][322]LogEditorViewport: Clicking Background
+[2022.09.06-03.01.20:594][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor49)
+[2022.09.06-03.01.21:401][485]LogEditorViewport: Clicking Background
+[2022.09.06-03.01.23:213][699]LogEditorViewport: Clicking Background
+[2022.09.06-03.01.23:748][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared48)
+[2022.09.06-03.01.29:122][391]LogEditorViewport: Clicking Background
+[2022.09.06-03.01.29:856][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared48)
+[2022.09.06-03.01.35:794][174]Cmd: EDIT COPY
+[2022.09.06-03.01.36:285][233]Cmd: EDIT PASTE
+[2022.09.06-03.01.50:470][928]LogEditorViewport: Clicking Background
+[2022.09.06-03.02.04:343][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared50)
+[2022.09.06-03.02.08:853][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor49)
+[2022.09.06-03.02.09:494][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared54)
+[2022.09.06-03.02.11:845][215]Cmd: EDIT COPY
+[2022.09.06-03.02.14:721][560]Cmd: EDIT PASTE
+[2022.09.06-03.02.33:610][820]Cmd: EDIT COPY
+[2022.09.06-03.02.34:044][872]Cmd: EDIT PASTE
+[2022.09.06-03.02.43:973][ 57]Cmd: EDIT COPY
+[2022.09.06-03.02.44:384][106]Cmd: EDIT PASTE
+[2022.09.06-03.02.57:438][663]LogEditorViewport: Clicking Background
+[2022.09.06-03.03.00:309][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared56)
+[2022.09.06-03.03.01:190][109]Cmd: EDIT COPY
+[2022.09.06-03.03.01:640][163]Cmd: EDIT PASTE
+[2022.09.06-03.03.07:954][916]LogEditorViewport: Clicking Background
+[2022.09.06-03.03.32:090][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-03.03.34:597][874]Cmd: EDIT COPY
+[2022.09.06-03.03.35:008][923]Cmd: EDIT PASTE
+[2022.09.06-03.03.45:475][169]LogEditorViewport: Clicking Background
+[2022.09.06-03.04.35:996][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.09.06-03.04.36:658][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.09.06-03.04.37:165][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.09.06-03.04.38:076][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.09.06-03.04.40:465][432]Cmd: EDIT COPY
+[2022.09.06-03.04.40:923][487]Cmd: EDIT PASTE
+[2022.09.06-03.04.49:415][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared61)
+[2022.09.06-03.05.14:899][537]LogEditorViewport: Clicking Background
+[2022.09.06-03.05.35:308][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-03.05.35:316][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.06-03.05.35:352][882]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledEAF3F1DA42D77872556969B055FC6B0B.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-03.05.35:363][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-03.05.35:377][882]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltDataC966571C48300739CDA039BE97F55885.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-03.05.35:387][882]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-03.05.35:387][882]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-03.05.35:387][882]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-03.05.38:859][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared60)
+[2022.09.06-03.05.39:995][432]Cmd: EDIT COPY
+[2022.09.06-03.05.40:429][484]Cmd: EDIT PASTE
+[2022.09.06-03.05.56:871][448]LogEditorViewport: Clicking Background
+[2022.09.06-03.06.04:806][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared62)
+[2022.09.06-03.06.09:124][878]Cmd: TRANSACTION UNDO
+[2022.09.06-03.06.09:124][878]LogEditorTransaction: Undo Move Actors
+[2022.09.06-03.06.15:048][536]LogEditorViewport: Clicking Background
+[2022.09.06-03.06.16:073][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared62)
+[2022.09.06-03.06.20:051][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared62)
+[2022.09.06-03.06.29:053][194]LogEditorViewport: Clicking Background
+[2022.09.06-03.06.41:469][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-03.06.41:477][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.06-03.06.41:512][648]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UntitledE965231D4AFE299E48987280D93E5B17.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-03.06.41:522][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-03.06.41:535][648]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData7E6EEF4C4ECFADAD909EFBA8F85638BF.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-03.06.41:543][648]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-03.06.41:543][648]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-03.06.41:543][648]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-03.08.35:705][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-03.08.35:712][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.06-03.08.35:746][537]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled819EED0B4A23FE7ADDCCE8AAF7943339.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-03.08.35:755][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-03.08.35:768][537]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData7CFC65464341FF46CE885C8C2D8A3887.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-03.08.35:777][537]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-03.08.35:777][537]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-03.08.35:777][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-03.09.27:707][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-03.09.27:714][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.06-03.09.27:746][907]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled4A721F694E01798EB0626FBAE4055B2A.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-03.09.27:756][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-03.09.27:769][907]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData994AD2BB4D0FA9AF9514DABC54944ABD.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-03.09.27:779][907]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-03.09.27:779][907]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-03.09.27:779][907]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
+[2022.09.06-03.09.41:112][659]LogEditorViewport: Clicking Background
+[2022.09.06-03.09.54:040][788]LogEditorViewport: Clicking Background
+[2022.09.06-03.10.43:070][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-03.10.43:077][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.06-03.10.43:111][231]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled9714DB314079E19C1F91FCA2347E597E.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled.umap'
+[2022.09.06-03.10.43:122][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2022.09.06-03.10.43:136][231]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Untitled_BuiltData80D595E44386366E4CB416A0B879F789.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Untitled_BuiltData.uasset'
+[2022.09.06-03.10.43:146][231]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-03.10.43:146][231]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2022.09.06-03.10.43:146][231]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Untitled_BuiltData.Untitled_BuiltData
