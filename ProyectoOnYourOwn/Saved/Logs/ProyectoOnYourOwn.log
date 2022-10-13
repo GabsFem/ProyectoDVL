@@ -3260,3 +3260,1430 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.13-21.19.51:209][971]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetEB58DA8F473FDC1110C128996606992A.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
 [2022.10.13-21.19.51:219][971]AssetCheck: New page: Asset Save: InserName-Widget
 [2022.10.13-21.19.51:219][971]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.23.39:352][530]LogEditorTransaction: Undo Move Anchor
+[2022.10.13-21.23.47:630][475]LogEditorTransaction: Undo Move Anchor
+[2022.10.13-21.23.48:472][528]LogEditorTransaction: Undo Move Anchor
+[2022.10.13-21.23.48:882][574]LogEditorTransaction: Undo Changed Anchors
+[2022.10.13-21.25.04:729][272]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-21.28.12:386][ 70]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-21.28.20:016][916]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.28.22:600][211]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2022.10.13-21.28.22:659][211]LogSlate: Took 0.057847 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.10.13-21.28.33:173][410]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.28.36:967][853]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.28.46:501][969]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.29.38:136][862]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-21.31.36:594][544]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-21.32.34:298][347]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.33.20:649][845]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.33.29:549][891]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.33.29:593][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.10.13-21.33.30:074][909]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget741A745F4C2A81C4A0A914A7B8025D9D.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.33.30:086][909]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.33.30:086][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.33.35:291][522]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.33.35:297][522]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.13-21.33.35:298][522]LogPlayLevel: [PlayLevel] Compiling InserName-Widget before play...
+[2022.10.13-21.33.35:518][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.10.13-21.33.35:518][522]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2022.10.13-21.33.35:518][522]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:33:35 AM)
+[2022.10.13-21.33.35:518][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.33.35:519][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001006s)
+[2022.10.13-21.33.35:520][522]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.33.35:520][522]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2022.10.13-21.33.35:520][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001935s)
+[2022.10.13-21.33.35:543][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.10.13-21.33.35:543][522]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.33.35:544][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.33.35:544][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.33.35:544][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.33.35:544][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.33.35:544][522]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.33.35:546][522]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.33.35:546][522]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.33.35:553][522]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.33.35:553][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.33.35:553][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.33.35:553][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.33.35:554][522]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.33.35:554][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.33.35:554][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.33.35:555][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.33.35:555][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.33.35:555][522]LogInit: FAudioDevice initialized.
+[2022.10.13-21.33.35:555][522]LogAudio: Display: Audio Device (ID: 36) registered with world 'MenuPrincipal'.
+[2022.10.13-21.33.35:600][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.33.35:601][522]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.33.35:601][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.33.35
+[2022.10.13-21.33.35:602][522]LogWorld: Bringing up level for play took: 0.000385
+[2022.10.13-21.33.35:602][522]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.10.13-21.33.35:603][522]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.33.35:606][522]PIE: Server logged in
+[2022.10.13-21.33.35:606][522]PIE: Play in editor total start time 0.311 seconds.
+[2022.10.13-21.33.41:965][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.33.41:965][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.33.41:966][271]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.33.41:970][271]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.33.41:970][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.33.41:976][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.33.41:981][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.33.42:003][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.33.42:004][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.33.42:008][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.10.13-21.33.42:030][273]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.10.13-21.33.46:317][779]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.33.46:344][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.10.13-21.33.56:878][  2]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.33.56:905][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.10.13-21.33.57:707][ 60]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget4D19CBBD49D838F3A8A5279AA668FF21.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.33.57:717][ 60]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.33.57:717][ 60]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.34.05:410][970]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.34.05:449][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.10.13-21.34.25:337][283]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.34.46:237][764]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.34.46:264][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.10.13-21.34.47:511][876]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.34.47:516][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.34.47:516][876]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:34:47 AM)
+[2022.10.13-21.34.47:516][876]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.34.47:517][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000991s)
+[2022.10.13-21.34.47:518][876]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.34.47:518][876]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.10.13-21.34.47:518][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001932s)
+[2022.10.13-21.34.47:542][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.13-21.34.47:542][876]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.34.47:542][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.34.47:542][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.34.47:543][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.34.47:543][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.34.47:543][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.34.47:543][876]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.34.47:545][876]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.34.47:545][876]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.34.47:552][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.34.47:552][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.34.47:553][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.34.47:553][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.34.47:553][876]LogInit: FAudioDevice initialized.
+[2022.10.13-21.34.47:553][876]LogAudio: Display: Audio Device (ID: 37) registered with world 'MenuPrincipal'.
+[2022.10.13-21.34.47:605][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.34.47:605][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.34.47:606][876]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.34.47
+[2022.10.13-21.34.47:606][876]LogWorld: Bringing up level for play took: 0.000309
+[2022.10.13-21.34.47:606][876]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.10.13-21.34.47:607][876]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.34.47:610][876]PIE: Server logged in
+[2022.10.13-21.34.47:611][876]PIE: Play in editor total start time 0.095 seconds.
+[2022.10.13-21.35.02:846][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.35.02:846][693]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.35.02:846][693]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.35.02:850][693]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.35.02:851][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.35.02:858][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.35.02:863][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.35.02:884][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.35.02:884][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.35.02:885][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.35.02:890][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.10.13-21.35.02:904][694]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.10.13-21.35.36:088][643]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.35.36:115][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.13-21.35.36:862][693]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetEAAA1BA1405C0E91196A5488D9A0527D.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.35.36:874][693]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.35.36:874][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.35.37:246][736]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.35.37:251][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.35.37:251][736]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:35:37 AM)
+[2022.10.13-21.35.37:251][736]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.35.37:253][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001024s)
+[2022.10.13-21.35.37:253][736]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.35.37:253][736]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.10.13-21.35.37:253][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001973s)
+[2022.10.13-21.35.37:279][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.10.13-21.35.37:279][736]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.35.37:279][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.35.37:279][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.35.37:280][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.35.37:280][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.35.37:280][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.35.37:280][736]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.35.37:282][736]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.35.37:282][736]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.35.37:289][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.35.37:289][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.35.37:290][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.35.37:290][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.35.37:290][736]LogInit: FAudioDevice initialized.
+[2022.10.13-21.35.37:290][736]LogAudio: Display: Audio Device (ID: 38) registered with world 'MenuPrincipal'.
+[2022.10.13-21.35.37:340][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.35.37:340][736]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.35.37:341][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.35.37
+[2022.10.13-21.35.37:341][736]LogWorld: Bringing up level for play took: 0.000374
+[2022.10.13-21.35.37:341][736]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.10.13-21.35.37:342][736]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.35.37:345][736]PIE: Server logged in
+[2022.10.13-21.35.37:346][736]PIE: Play in editor total start time 0.095 seconds.
+[2022.10.13-21.35.42:356][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.35.42:356][321]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.35.42:356][321]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.35.42:360][321]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.35.42:360][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.35.42:367][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.35.42:372][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.35.42:394][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.35.42:395][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.35.42:396][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.35.42:400][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.13-21.35.42:413][322]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.13-21.35.54:538][754]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.35.54:565][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.10.13-21.35.55:261][801]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetBC85E6D44566E8AC68CA948B150A2A4C.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.35.55:271][801]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.35.55:271][801]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.35.55:773][861]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.35.55:778][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.35.55:778][861]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:35:55 AM)
+[2022.10.13-21.35.55:778][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.35.55:779][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2022.10.13-21.35.55:780][861]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.35.55:780][861]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2022.10.13-21.35.55:780][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001808s)
+[2022.10.13-21.35.55:806][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.13-21.35.55:806][861]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.35.55:806][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.35.55:806][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.35.55:807][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.35.55:807][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.35.55:807][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.35.55:807][861]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.35.55:809][861]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.35.55:809][861]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.35.55:815][861]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.35.55:815][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.35.55:815][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.35.55:815][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.35.55:816][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.35.55:816][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.35.55:816][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.35.55:817][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.35.55:817][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.35.55:817][861]LogInit: FAudioDevice initialized.
+[2022.10.13-21.35.55:817][861]LogAudio: Display: Audio Device (ID: 39) registered with world 'MenuPrincipal'.
+[2022.10.13-21.35.55:856][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.35.55:857][861]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.35.55:857][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.35.55
+[2022.10.13-21.35.55:857][861]LogWorld: Bringing up level for play took: 0.000356
+[2022.10.13-21.35.55:858][861]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.10.13-21.35.55:859][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.35.55:862][861]PIE: Server logged in
+[2022.10.13-21.35.55:862][861]PIE: Play in editor total start time 0.085 seconds.
+[2022.10.13-21.36.01:354][517]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.36.01:373][517]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.01:402][517]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.36.01:402][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.01:408][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.36.01:413][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.01:434][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.36.01:434][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.01:435][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.01:440][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.10.13-21.36.01:461][519]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.10.13-21.36.05:881][ 31]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.36.05:908][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.10.13-21.36.06:630][ 80]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget4A90BC624FD62C8288ACAF9D9DCF6332.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.36.06:640][ 80]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.36.06:640][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.36.07:198][146]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.36.07:202][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.36.07:203][146]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:36:07 AM)
+[2022.10.13-21.36.07:203][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.07:204][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000990s)
+[2022.10.13-21.36.07:204][146]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.36.07:205][146]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.10.13-21.36.07:205][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001907s)
+[2022.10.13-21.36.07:230][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.10.13-21.36.07:230][146]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.10.13-21.36.07:230][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.36.07:231][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.36.07:231][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.36.07:231][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.36.07:231][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.36.07:231][146]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.36.07:233][146]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.36.07:233][146]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.36.07:240][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.36.07:240][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.36.07:241][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.36.07:241][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.36.07:241][146]LogInit: FAudioDevice initialized.
+[2022.10.13-21.36.07:241][146]LogAudio: Display: Audio Device (ID: 40) registered with world 'MenuPrincipal'.
+[2022.10.13-21.36.07:290][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.36.07:291][146]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.36.07:291][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.36.07
+[2022.10.13-21.36.07:292][146]LogWorld: Bringing up level for play took: 0.000324
+[2022.10.13-21.36.07:292][146]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.10.13-21.36.07:293][146]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.36.07:296][146]PIE: Server logged in
+[2022.10.13-21.36.07:296][146]PIE: Play in editor total start time 0.094 seconds.
+[2022.10.13-21.36.16:852][290]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.36.16:871][290]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.16:903][290]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.36.16:903][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.16:908][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.36.16:913][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.16:934][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.36.16:934][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.16:935][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.16:940][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.13-21.36.16:953][291]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.13-21.36.22:649][947]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.36.22:675][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.10.13-21.36.23:396][997]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget2B3F2422448525B5B807FDA0AA813EF2.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.36.23:407][997]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.36.23:407][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.36.24:082][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.36.24:087][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.36.24:087][ 77]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:36:24 AM)
+[2022.10.13-21.36.24:087][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.24:088][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000965s)
+[2022.10.13-21.36.24:088][ 77]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.36.24:089][ 77]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2022.10.13-21.36.24:089][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001837s)
+[2022.10.13-21.36.24:114][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.10.13-21.36.24:114][ 77]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.36.24:114][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.36.24:114][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.36.24:115][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.36.24:115][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.36.24:115][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.36.24:115][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.36.24:117][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.36.24:117][ 77]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.36.24:123][ 77]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.36.24:124][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.36.24:125][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.36.24:125][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.36.24:125][ 77]LogInit: FAudioDevice initialized.
+[2022.10.13-21.36.24:125][ 77]LogAudio: Display: Audio Device (ID: 41) registered with world 'MenuPrincipal'.
+[2022.10.13-21.36.24:158][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.36.24:158][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.36.24:159][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.36.24
+[2022.10.13-21.36.24:159][ 77]LogWorld: Bringing up level for play took: 0.000369
+[2022.10.13-21.36.24:160][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.10.13-21.36.24:161][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.36.24:164][ 77]PIE: Server logged in
+[2022.10.13-21.36.24:164][ 77]PIE: Play in editor total start time 0.078 seconds.
+[2022.10.13-21.36.26:525][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.36.26:525][352]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.26:525][352]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.36.26:529][352]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.36.26:530][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.26:536][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.36.26:541][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.36.26:564][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.36.26:564][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.26:565][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.36.26:570][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.13-21.36.26:590][354]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.10.13-21.36.37:369][374]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-21.36.44:225][138]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-21.36.44:253][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.10.13-21.36.44:797][166]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetF0A1036D43D405F6D8F6738CE340170D.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-21.36.44:807][166]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-21.36.44:807][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-21.36.45:291][217]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.36.45:296][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.36.45:296][217]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:36:45 AM)
+[2022.10.13-21.36.45:296][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.36.45:297][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000927s)
+[2022.10.13-21.36.45:297][217]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.36.45:298][217]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.10.13-21.36.45:298][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001823s)
+[2022.10.13-21.36.45:323][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.10.13-21.36.45:324][217]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.36.45:324][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.36.45:324][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.36.45:324][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.36.45:324][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.36.45:324][217]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.36.45:327][217]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.36.45:327][217]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.36.45:333][217]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.36.45:334][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.36.45:334][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.36.45:334][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.36.45:334][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.36.45:334][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.36.45:334][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.36.45:335][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.36.45:335][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.36.45:335][217]LogInit: FAudioDevice initialized.
+[2022.10.13-21.36.45:335][217]LogAudio: Display: Audio Device (ID: 42) registered with world 'MenuPrincipal'.
+[2022.10.13-21.36.45:374][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.36.45:375][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.36.45:376][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.36.45
+[2022.10.13-21.36.45:376][217]LogWorld: Bringing up level for play took: 0.000396
+[2022.10.13-21.36.45:376][217]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.10.13-21.36.45:377][217]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.36.45:380][217]PIE: Server logged in
+[2022.10.13-21.36.45:380][217]PIE: Play in editor total start time 0.086 seconds.
+[2022.10.13-21.37.03:699][410]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.37.03:718][410]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.37.03:753][410]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.37.03:753][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.37.03:757][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.37.03:762][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.37.03:784][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-21.37.03:784][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.37.03:785][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.37.03:790][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.10.13-21.37.03:803][411]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.10.13-21.38.28:027][477]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.38.28:032][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.38.28:032][477]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:38:28 AM)
+[2022.10.13-21.38.28:032][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.38.28:033][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000918s)
+[2022.10.13-21.38.28:034][477]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.38.28:034][477]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2022.10.13-21.38.28:034][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001768s)
+[2022.10.13-21.38.28:057][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.10.13-21.38.28:059][477]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.38.28:059][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.38.28:059][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.38.28:059][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.38.28:059][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.38.28:059][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.38.28:060][477]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.38.28:062][477]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.38.28:062][477]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.38.28:068][477]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.38.28:068][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.38.28:068][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.38.28:068][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.38.28:069][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.38.28:069][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.38.28:069][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.38.28:070][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.38.28:070][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.38.28:070][477]LogInit: FAudioDevice initialized.
+[2022.10.13-21.38.28:070][477]LogAudio: Display: Audio Device (ID: 43) registered with world 'MenuPrincipal'.
+[2022.10.13-21.38.28:113][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.38.28:113][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.38.28:113][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.38.28
+[2022.10.13-21.38.28:114][477]LogWorld: Bringing up level for play took: 0.000290
+[2022.10.13-21.38.28:114][477]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.10.13-21.38.28:115][477]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.38.28:118][477]PIE: Server logged in
+[2022.10.13-21.38.28:118][477]PIE: Play in editor total start time 0.086 seconds.
+[2022.10.13-21.38.37:283][572]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.38.37:302][572]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.38.37:343][572]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.38.37:343][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.38.37:351][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.38.37:356][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.38.37:377][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.38.37:378][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.38.37:383][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.10.13-21.38.37:395][573]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.10.13-21.38.38:494][703]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.38.38:499][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.38.38:499][703]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:38:38 AM)
+[2022.10.13-21.38.38:499][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.38.38:500][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000930s)
+[2022.10.13-21.38.38:501][703]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.38.38:501][703]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2022.10.13-21.38.38:501][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001785s)
+[2022.10.13-21.38.38:523][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.10.13-21.38.38:524][703]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.38.38:524][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.38.38:524][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.38.38:524][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.38.38:524][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.38.38:524][703]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.38.38:526][703]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.38.38:526][703]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.38.38:533][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.38.38:533][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.38.38:534][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.38.38:534][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.38.38:534][703]LogInit: FAudioDevice initialized.
+[2022.10.13-21.38.38:534][703]LogAudio: Display: Audio Device (ID: 44) registered with world 'MenuPrincipal'.
+[2022.10.13-21.38.38:579][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.38.38:580][703]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.38.38:580][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.38.38
+[2022.10.13-21.38.38:580][703]LogWorld: Bringing up level for play took: 0.000295
+[2022.10.13-21.38.38:580][703]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.10.13-21.38.38:582][703]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.38.38:584][703]PIE: Server logged in
+[2022.10.13-21.38.38:585][703]PIE: Play in editor total start time 0.087 seconds.
+[2022.10.13-21.38.57:236][939]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.38.57:256][939]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.38.57:293][939]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.38.57:293][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.38.57:300][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.38.57:305][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.38.57:327][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.38.57:328][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.38.57:332][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.10.13-21.38.57:344][940]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.10.13-21.38.58:111][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-21.38.58:116][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-21.38.58:116][ 32]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 11:38:58 AM)
+[2022.10.13-21.38.58:116][ 32]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.38.58:117][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2022.10.13-21.38.58:118][ 32]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-21.38.58:118][ 32]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2022.10.13-21.38.58:118][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001836s)
+[2022.10.13-21.38.58:141][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.13-21.38.58:141][ 32]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-21.38.58:141][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-21.38.58:141][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-21.38.58:141][ 32]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-21.38.58:142][ 32]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-21.38.58:142][ 32]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-21.38.58:142][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-21.38.58:144][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-21.38.58:144][ 32]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-21.38.58:150][ 32]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-21.38.58:151][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-21.38.58:152][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-21.38.58:152][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-21.38.58:152][ 32]LogInit: FAudioDevice initialized.
+[2022.10.13-21.38.58:152][ 32]LogAudio: Display: Audio Device (ID: 45) registered with world 'MenuPrincipal'.
+[2022.10.13-21.38.58:181][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-21.38.58:181][ 32]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-21.38.58:182][ 32]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-16.38.58
+[2022.10.13-21.38.58:182][ 32]LogWorld: Bringing up level for play took: 0.000398
+[2022.10.13-21.38.58:182][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.10.13-21.38.58:184][ 32]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-21.38.58:186][ 32]PIE: Server logged in
+[2022.10.13-21.38.58:186][ 32]PIE: Play in editor total start time 0.071 seconds.
+[2022.10.13-21.39.43:432][457]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-21.39.43:452][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-21.39.43:483][457]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-21.39.43:483][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.39.43:487][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-21.39.43:492][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-21.39.43:513][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.39.43:514][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-21.39.43:519][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.10.13-21.39.43:539][459]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.10.13-21.40.27:707][687]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.40.45:544][795]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.13-21.41.13:929][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.10.13-21.41.13:931][403]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MenuPrincipal' took 0.025
+[2022.10.13-21.41.13:931][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Menus/MainMenu_Widget] ([4] browsable assets)...
+[2022.10.13-21.41.13:931][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Menus/MainMenu_Widget]
+[2022.10.13-21.41.13:947][403]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/MainMenu_Widget_Auto4AD53B98C4207E0DA2253E1A28FFF4E7F.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Widgets/Menus/MainMenu_Widget_Auto4.uasset'
+[2022.10.13-21.41.13:948][403]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.10.13-22.13.48:835][383]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\continuar_btn-Pressed.png)
+[2022.10.13-22.13.48:861][383]LogTexture: Display: Building textures: continuar_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.48:885][383]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.13.48:952][383]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\continuar_btn.png)
+[2022.10.13-22.13.48:980][383]LogTexture: Display: Building textures: continuar_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.49:004][383]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.13.49:086][383]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\continuar_btn-Hover.png)
+[2022.10.13-22.13.49:110][383]LogTexture: Display: Building textures: continuar_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.49:150][383]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.13.53:102][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\crear_btn-Hover.png)
+[2022.10.13-22.13.53:131][444]LogTexture: Display: Building textures: crear_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.53:157][444]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.13.53:218][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\crear_btn-Pressed.png)
+[2022.10.13-22.13.53:246][444]LogTexture: Display: Building textures: crear_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.53:269][444]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.13.53:336][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\crear_btn.png)
+[2022.10.13-22.13.53:365][444]LogTexture: Display: Building textures: crear_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.13.53:406][444]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:186][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\elegirPersonaje_btn-Hover.png)
+[2022.10.13-22.14.08:224][516]LogTexture: Display: Building textures: elegirPersonaje_btn-Hover (OODLE_AutoDXT, 2500X968)
+[2022.10.13-22.14.08:257][516]LogTextureFormatOodle: Display: non-RDO encode 2500 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:337][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\elegirPersonaje_btn-Pressed.png)
+[2022.10.13-22.14.08:367][516]LogTexture: Display: Building textures: elegirPersonaje_btn-Pressed (OODLE_AutoDXT, 2500X968)
+[2022.10.13-22.14.08:396][516]LogTextureFormatOodle: Display: non-RDO encode 2500 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:469][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\enter_btn.png)
+[2022.10.13-22.14.08:498][516]LogTexture: Display: Building textures: enter_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.08:523][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:586][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\enter_btn-Hover.png)
+[2022.10.13-22.14.08:614][516]LogTexture: Display: Building textures: enter_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.08:640][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:704][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\enter_btn-Pressed.png)
+[2022.10.13-22.14.08:730][516]LogTexture: Display: Building textures: enter_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.08:755][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:820][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\no_btn.png)
+[2022.10.13-22.14.08:848][516]LogTexture: Display: Building textures: no_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.08:871][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.08:936][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\no_btn-Hover.png)
+[2022.10.13-22.14.08:966][516]LogTexture: Display: Building textures: no_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.08:992][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:053][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\no_btn-Pressed.png)
+[2022.10.13-22.14.09:083][516]LogTexture: Display: Building textures: no_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:104][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:170][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\regresar_btn.png)
+[2022.10.13-22.14.09:199][516]LogTexture: Display: Building textures: regresar_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:225][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:286][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\regresar_btn-Hover.png)
+[2022.10.13-22.14.09:314][516]LogTexture: Display: Building textures: regresar_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:338][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:402][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\regresar_btn-Pressed.png)
+[2022.10.13-22.14.09:430][516]LogTexture: Display: Building textures: regresar_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:454][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:520][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\resolucion_btn.png)
+[2022.10.13-22.14.09:547][516]LogTexture: Display: Building textures: resolucion_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:571][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:636][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\resolucion_btn-Hover.png)
+[2022.10.13-22.14.09:661][516]LogTexture: Display: Building textures: resolucion_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:687][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:753][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\resolucion_btn-Pressed.png)
+[2022.10.13-22.14.09:780][516]LogTexture: Display: Building textures: resolucion_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.09:801][516]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.09:869][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\elegirPersonaje_btn.png)
+[2022.10.13-22.14.09:905][516]LogTexture: Display: Building textures: elegirPersonaje_btn (OODLE_AutoDXT, 2500X968)
+[2022.10.13-22.14.09:938][516]LogTextureFormatOodle: Display: non-RDO encode 2500 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:138][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\si_btn.png)
+[2022.10.13-22.14.20:167][607]LogTexture: Display: Building textures: si_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:192][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:271][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\si_btn-Hover.png)
+[2022.10.13-22.14.20:299][607]LogTexture: Display: Building textures: si_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:322][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:387][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\si_btn-Pressed.png)
+[2022.10.13-22.14.20:415][607]LogTexture: Display: Building textures: si_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:439][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:504][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\siguiente_btn.png)
+[2022.10.13-22.14.20:532][607]LogTexture: Display: Building textures: siguiente_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:555][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:620][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\siguiente_btn-Hover.png)
+[2022.10.13-22.14.20:645][607]LogTexture: Display: Building textures: siguiente_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:671][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:737][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\siguiente_btn-Pressed.png)
+[2022.10.13-22.14.20:764][607]LogTexture: Display: Building textures: siguiente_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:785][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:854][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\unirse_btn.png)
+[2022.10.13-22.14.20:879][607]LogTexture: Display: Building textures: unirse_btn (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.20:905][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.20:971][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\unirse_btn-Hover.png)
+[2022.10.13-22.14.20:999][607]LogTexture: Display: Building textures: unirse_btn-Hover (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.21:023][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.21:087][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ESCUELA\NOVENO\Diseño de videojuegos\Botones\unirse_btn-Pressed.png)
+[2022.10.13-22.14.21:112][607]LogTexture: Display: Building textures: unirse_btn-Pressed (OODLE_AutoDXT, 1920X968)
+[2022.10.13-22.14.21:177][607]LogTextureFormatOodle: Display: non-RDO encode 1920 x 968 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.13-22.14.23:218][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.10.13-22.14.25:815][614]LogSlate: Window 'Save Content' being destroyed
+[2022.10.13-22.14.25:967][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/continuar_btnE7BCBBA245C09AD3D0DC589A2DC1CE43.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/continuar_btn.uasset'
+[2022.10.13-22.14.26:125][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/continuar_btn-Hover9F0A8B8F48137C0709E142B7B82FB74B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/continuar_btn-Hover.uasset'
+[2022.10.13-22.14.26:291][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/continuar_btn-PressedF0DBD2DF4F9443F7BF7F778F1EC97C1B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/continuar_btn-Pressed.uasset'
+[2022.10.13-22.14.26:435][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Botones/crear_btn" FILE="../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/crear_btn.uasset" SILENT=true
+[2022.10.13-22.14.26:455][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/crear_btnC43746DF4F462ED59C0160B0EC8F00DD.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/crear_btn.uasset'
+[2022.10.13-22.14.26:625][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/crear_btn-Hover4FCE11E44BEF71670E9C659CCFD5242A.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/crear_btn-Hover.uasset'
+[2022.10.13-22.14.26:779][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/crear_btn-PressedF667952E4AF32EDEBB0C36896EAE6FFB.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/crear_btn-Pressed.uasset'
+[2022.10.13-22.14.26:958][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/elegirPersonaje_btnC9C5388E4546F753516A18837E444DE4.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/elegirPersonaje_btn.uasset'
+[2022.10.13-22.14.27:131][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/elegirPersonaje_btn-Hover1B3F4C12404543CDB5756B98BA6B17B5.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/elegirPersonaje_btn-Hover.uasset'
+[2022.10.13-22.14.27:297][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/elegirPersonaje_btn-PressedF00D7E3E49EC25857E2579B09F15D696.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/elegirPersonaje_btn-Pressed.uasset'
+[2022.10.13-22.14.27:442][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Botones/enter_btn" FILE="../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/enter_btn.uasset" SILENT=true
+[2022.10.13-22.14.27:463][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/enter_btn16B088CB4CDC3CF4116BCE8E34C30D91.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/enter_btn.uasset'
+[2022.10.13-22.14.27:624][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/enter_btn-HoverF100135641B62FAD3620CBAF313CB5AA.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/enter_btn-Hover.uasset'
+[2022.10.13-22.14.27:790][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/enter_btn-Pressed285A382244DA3DD7C4A34094AFEFC8F9.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/enter_btn-Pressed.uasset'
+[2022.10.13-22.14.27:976][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/MainMenu_Widget435E2414410D3D3F726E169ED475D2FB.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/MainMenu_Widget.uasset'
+[2022.10.13-22.14.27:980][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Botones/no_btn" FILE="../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/no_btn.uasset" SILENT=true
+[2022.10.13-22.14.28:000][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/no_btn35D31E2B492D12EA61E47CA84CF60699.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/no_btn.uasset'
+[2022.10.13-22.14.28:156][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/no_btn-Hover30F5015B46FED022022E888C11209FEC.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/no_btn-Hover.uasset'
+[2022.10.13-22.14.28:323][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/no_btn-PressedF1593C6C40F2AD72D949B7BE75BC4A0B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/no_btn-Pressed.uasset'
+[2022.10.13-22.14.28:477][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/regresar_btnB5D0B9EA4B543B57F79C81AD3B6B25C7.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/regresar_btn.uasset'
+[2022.10.13-22.14.28:631][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/regresar_btn-Hover981698E144562A0C511CA887C4D8EFCD.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/regresar_btn-Hover.uasset'
+[2022.10.13-22.14.28:802][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/regresar_btn-Pressed5C8AA9BC44E3A8C5B76D2AAB078FA2AD.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/regresar_btn-Pressed.uasset'
+[2022.10.13-22.14.28:984][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/resolucion_btn0A790E4A45EC4EE1230FB899CAEB9498.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/resolucion_btn.uasset'
+[2022.10.13-22.14.29:152][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/resolucion_btn-HoverFF2C8EBC4CC7AA65CA68C480F08B75D5.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/resolucion_btn-Hover.uasset'
+[2022.10.13-22.14.29:299][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/resolucion_btn-Pressed808D7D0144150F1F833DE4B5FCDD1AC2.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/resolucion_btn-Pressed.uasset'
+[2022.10.13-22.14.29:426][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Botones/si_btn" FILE="../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/si_btn.uasset" SILENT=true
+[2022.10.13-22.14.29:446][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/si_btnD2CE1CBB42BC9975CE80BB80D4EB19C5.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/si_btn.uasset'
+[2022.10.13-22.14.29:631][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/si_btn-Hover698586884DB6A764EA02B68242ABE0BF.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/si_btn-Hover.uasset'
+[2022.10.13-22.14.29:789][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/si_btn-PressedEDF6C2664FF0864B134576B131036E43.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/si_btn-Pressed.uasset'
+[2022.10.13-22.14.29:947][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/siguiente_btn50A9C41D4484B85B8594FBBE4F705BF8.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/siguiente_btn.uasset'
+[2022.10.13-22.14.30:108][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/siguiente_btn-Hover7E3DDDD94FECAC1138DFFE89B3F35BF9.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/siguiente_btn-Hover.uasset'
+[2022.10.13-22.14.30:264][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/siguiente_btn-Pressed7BB6212D4B740A50E7FFA7A2F1C8263C.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/siguiente_btn-Pressed.uasset'
+[2022.10.13-22.14.30:402][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Botones/unirse_btn" FILE="../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/unirse_btn.uasset" SILENT=true
+[2022.10.13-22.14.30:423][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/unirse_btn097F095A4D284324DFBF5AB1C15E1BD1.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/unirse_btn.uasset'
+[2022.10.13-22.14.30:590][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/unirse_btn-Hover0536C27640794E2CDD13B2BC4473DFBB.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/unirse_btn-Hover.uasset'
+[2022.10.13-22.14.30:759][614]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/unirse_btn-Pressed8E506F874DD6B30A0542B4A4E77640E8.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Botones/unirse_btn-Pressed.uasset'
+[2022.10.13-22.14.30:914][614]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.13-22.14.30:914][614]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/MainMenu_Widget.MainMenu_Widget
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/unirse_btn-Pressed.unirse_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/unirse_btn-Hover.unirse_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/unirse_btn.unirse_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/siguiente_btn-Pressed.siguiente_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/siguiente_btn-Hover.siguiente_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/siguiente_btn.siguiente_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/si_btn-Pressed.si_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/si_btn-Hover.si_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/si_btn.si_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/elegirPersonaje_btn.elegirPersonaje_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/resolucion_btn-Pressed.resolucion_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/resolucion_btn-Hover.resolucion_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/resolucion_btn.resolucion_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/regresar_btn-Pressed.regresar_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/regresar_btn-Hover.regresar_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/regresar_btn.regresar_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/no_btn-Pressed.no_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/no_btn-Hover.no_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/no_btn.no_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/enter_btn-Pressed.enter_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/enter_btn-Hover.enter_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/enter_btn.enter_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/elegirPersonaje_btn-Pressed.elegirPersonaje_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/elegirPersonaje_btn-Hover.elegirPersonaje_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/crear_btn.crear_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/crear_btn-Pressed.crear_btn-Pressed
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/crear_btn-Hover.crear_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/continuar_btn-Hover.continuar_btn-Hover
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/continuar_btn.continuar_btn
+[2022.10.13-22.14.30:915][614]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Botones/continuar_btn-Pressed.continuar_btn-Pressed
+[2022.10.13-22.14.49:982][516]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.15.11:435][705]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.16.11:204][377]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.16.11:235][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.10.13-22.16.12:702][524]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetD13CA88C4AA7311C58B63288EB50A05F.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.16.12:712][524]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.16.12:712][524]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.16.43:772][175]LogEditorTransaction: Undo Rename Widget
+[2022.10.13-22.16.46:162][414]BlueprintLog: New page: Compile MainMenu_Widget
+[2022.10.13-22.16.46:195][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.10.13-22.16.47:315][532]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/MainMenu_Widget5B4ED824462B463D800D53B4FF48A04D.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/MainMenu_Widget.uasset'
+[2022.10.13-22.16.47:325][532]AssetCheck: New page: Asset Save: MainMenu_Widget
+[2022.10.13-22.16.47:325][532]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/MainMenu_Widget.MainMenu_Widget
+[2022.10.13-22.17.42:199][918]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.17.42:229][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.13-22.17.42:872][974]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget0DDBE45845745D1426F7758081F6C688.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.17.42:882][974]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.17.42:882][974]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.18.25:450][946]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.18.25:494][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.13-22.18.25:959][988]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetE7FD089C46BC8C776A83C1BD77EAB395.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.18.25:970][988]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.18.25:970][988]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.19.27:484][186]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.19.27:503][186]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.19.32:669][775]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.19.32:715][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.10.13-22.19.33:300][831]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetFC13F8F2435FFE296D20A5816711E36D.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.19.33:312][831]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.19.33:312][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.19.36:486][201]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.19.36:492][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.19.36:492][201]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:19:36 PM)
+[2022.10.13-22.19.36:492][201]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.19.36:493][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2022.10.13-22.19.36:494][201]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.19.36:494][201]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2022.10.13-22.19.36:494][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001995s)
+[2022.10.13-22.19.36:520][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.10.13-22.19.36:520][201]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.19.36:520][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.19.36:520][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.19.36:521][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.19.36:521][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.19.36:521][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.19.36:521][201]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.19.36:523][201]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.19.36:523][201]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.19.36:530][201]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.19.36:530][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.19.36:530][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.19.36:530][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.19.36:531][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.19.36:531][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.19.36:531][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.19.36:532][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.19.36:532][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.19.36:532][201]LogInit: FAudioDevice initialized.
+[2022.10.13-22.19.36:532][201]LogAudio: Display: Audio Device (ID: 46) registered with world 'MenuPrincipal'.
+[2022.10.13-22.19.36:588][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.19.36:588][201]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.19.36:589][201]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.19.36
+[2022.10.13-22.19.36:589][201]LogWorld: Bringing up level for play took: 0.000300
+[2022.10.13-22.19.36:589][201]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.10.13-22.19.36:591][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.19.36:594][201]PIE: Server logged in
+[2022.10.13-22.19.36:595][201]PIE: Play in editor total start time 0.104 seconds.
+[2022.10.13-22.19.44:744][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.19.44:757][173]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.19.44:758][173]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.19.44:789][173]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.19.44:789][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.19.44:799][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.19.44:804][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.19.44:826][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.19.44:826][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.19.44:827][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.19.44:832][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.10.13-22.19.44:847][174]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.13-22.20.02:696][244]BlueprintLog: New page: Compile MainMenu_Widget
+[2022.10.13-22.20.02:730][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.13-22.20.03:206][278]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/MainMenu_Widget36E1CEC24D5E4EFEB7218D9C4C65CC5A.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/MainMenu_Widget.uasset'
+[2022.10.13-22.20.03:217][278]AssetCheck: New page: Asset Save: MainMenu_Widget
+[2022.10.13-22.20.03:217][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/MainMenu_Widget.MainMenu_Widget
+[2022.10.13-22.20.09:039][938]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.20.09:071][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.13-22.20.09:934][  6]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-WidgetC6B980AA4FA715F0685000B91D2B53E9.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.20.09:944][  6]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.20.09:944][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.20.14:346][524]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.20.14:352][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.20.14:352][524]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:20:14 PM)
+[2022.10.13-22.20.14:352][524]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.20.14:353][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001052s)
+[2022.10.13-22.20.14:354][524]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.20.14:354][524]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2022.10.13-22.20.14:354][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001917s)
+[2022.10.13-22.20.14:380][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.10.13-22.20.14:380][524]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.20.14:380][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.20.14:380][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.20.14:381][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.20.14:381][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.20.14:381][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.20.14:381][524]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.20.14:383][524]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.20.14:383][524]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.20.14:389][524]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.20.14:389][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.20.14:390][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.20.14:390][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.20.14:390][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.20.14:390][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.20.14:390][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.20.14:391][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.20.14:391][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.20.14:391][524]LogInit: FAudioDevice initialized.
+[2022.10.13-22.20.14:391][524]LogAudio: Display: Audio Device (ID: 47) registered with world 'MenuPrincipal'.
+[2022.10.13-22.20.14:422][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.20.14:422][524]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.20.14:423][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.20.14
+[2022.10.13-22.20.14:423][524]LogWorld: Bringing up level for play took: 0.000338
+[2022.10.13-22.20.14:424][524]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.10.13-22.20.14:425][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.20.14:427][524]PIE: Server logged in
+[2022.10.13-22.20.14:428][524]PIE: Play in editor total start time 0.077 seconds.
+[2022.10.13-22.20.18:142][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.20.18:142][962]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.20.18:143][962]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.20.18:147][962]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.20.18:147][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.20.18:155][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.20.18:160][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.20.18:181][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.20.18:182][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.20.18:183][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.20.18:187][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.13-22.20.18:208][964]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.10.13-22.20.22:879][513]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.20.22:908][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.10.13-22.20.23:550][559]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget9D9767024BACA1F1EB70898F57A0561B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.20.23:561][559]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.20.23:561][559]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.20.23:955][605]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.20.23:959][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.20.23:960][605]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:20:23 PM)
+[2022.10.13-22.20.23:960][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.20.23:961][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000968s)
+[2022.10.13-22.20.23:961][605]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.20.23:961][605]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2022.10.13-22.20.23:961][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001846s)
+[2022.10.13-22.20.23:987][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.10.13-22.20.23:988][605]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.20.23:988][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.20.23:988][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.20.23:988][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.20.23:988][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.20.23:988][605]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.20.23:990][605]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.20.23:990][605]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.20.23:997][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.20.23:997][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.20.23:998][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.20.23:998][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.20.23:998][605]LogInit: FAudioDevice initialized.
+[2022.10.13-22.20.23:998][605]LogAudio: Display: Audio Device (ID: 48) registered with world 'MenuPrincipal'.
+[2022.10.13-22.20.24:038][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.20.24:038][605]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.20.24:039][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.20.24
+[2022.10.13-22.20.24:040][605]LogWorld: Bringing up level for play took: 0.000367
+[2022.10.13-22.20.24:040][605]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.10.13-22.20.24:041][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.20.24:044][605]PIE: Server logged in
+[2022.10.13-22.20.24:044][605]PIE: Play in editor total start time 0.085 seconds.
+[2022.10.13-22.20.34:826][895]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.20.34:845][895]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.20.34:869][895]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.20.34:869][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.20.34:874][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.20.34:879][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.20.34:901][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.20.34:901][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.20.34:902][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.20.34:907][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.10.13-22.20.34:929][897]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.10.13-22.20.52:618][985]LogContentBrowser: Deferred new asset file creation: InserName-Widget1
+[2022.10.13-22.20.52:629][985]LogContentBrowser: Creating deferred item: InserName-Widget1
+[2022.10.13-22.20.55:307][301]LogContentBrowser: Attempting asset rename: InserName-Widget1 -> InserName-Widget1
+[2022.10.13-22.20.55:401][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.10.13-22.20.55:502][301]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget1F949F042438AFF7B5518AD8904B54DFE.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget1.uasset'
+[2022.10.13-22.20.55:816][301]LogContentBrowser: End creating deferred item InserName-Widget1
+[2022.10.13-22.20.55:822][301]AssetCheck: New page: Asset Save: InserName-Widget1
+[2022.10.13-22.20.55:822][301]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget1.InserName-Widget1
+[2022.10.13-22.21.04:608][341]LogContentBrowser: Attempting asset rename: InserName-Widget1 -> InserName2-Widget
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.InserName2-Widget_C' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:PreConstruct' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:Construct' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:Tick' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:BndEvt__InserName-Widget_Siguiente_K2Node_ComponentBoundEvent_1_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:024][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:BndEvt__InserName-Widget_Siguiente_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:025][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:BndEvt__InserName-Widget_Volver_K2Node_ComponentBoundEvent_3_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:025][341]LogMetaData: Removing '/Game/Widgets/Menus/InserName2-Widget.SKEL_InserName2-Widget_C:BndEvt__InserName-Widget_Volver_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Widgets/Menus/InserName-Widget1.PackageMetaData'
+[2022.10.13-22.21.05:052][341]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName2-Widget6849C84A41E60E7150510793FFB65E2B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName2-Widget.uasset'
+[2022.10.13-22.21.05:535][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.10.13-22.21.05:563][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.13-22.21.05:584][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.13-22.21.05:685][341]SourceControl: rm 'ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget1.uasset'
+[2022.10.13-22.21.05:718][341]AssetCheck: New page: Asset Save: InserName2-Widget
+[2022.10.13-22.21.05:718][341]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName2-Widget.InserName2-Widget
+[2022.10.13-22.21.06:364][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.10.13-22.21.20:499][ 60]LogEditorTransaction: Undo Move Node
+[2022.10.13-22.21.23:206][324]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.21.23:225][324]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.21.29:598][925]BlueprintLog: New page: Compile MainMenu_Widget
+[2022.10.13-22.21.29:630][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.10.13-22.21.30:159][972]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/MainMenu_Widget5DD5C5774A0721393F63AB910B10FAE0.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/MainMenu_Widget.uasset'
+[2022.10.13-22.21.30:170][972]AssetCheck: New page: Asset Save: MainMenu_Widget
+[2022.10.13-22.21.30:170][972]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/MainMenu_Widget.MainMenu_Widget
+[2022.10.13-22.21.31:007][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.21.31:013][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.21.31:013][ 69]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:21:31 PM)
+[2022.10.13-22.21.31:013][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.21.31:014][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000916s)
+[2022.10.13-22.21.31:015][ 69]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.21.31:015][ 69]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.10.13-22.21.31:015][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001786s)
+[2022.10.13-22.21.31:041][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.10.13-22.21.31:041][ 69]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.21.31:041][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.21.31:041][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.21.31:042][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.21.31:042][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.21.31:042][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.21.31:042][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.21.31:044][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.21.31:044][ 69]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.21.31:050][ 69]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.21.31:050][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.21.31:050][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.21.31:051][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.21.31:051][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.21.31:051][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.21.31:051][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.21.31:052][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.21.31:052][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.21.31:052][ 69]LogInit: FAudioDevice initialized.
+[2022.10.13-22.21.31:052][ 69]LogAudio: Display: Audio Device (ID: 49) registered with world 'MenuPrincipal'.
+[2022.10.13-22.21.31:093][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.21.31:093][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.21.31:094][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.21.31
+[2022.10.13-22.21.31:094][ 69]LogWorld: Bringing up level for play took: 0.000378
+[2022.10.13-22.21.31:094][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.10.13-22.21.31:096][ 69]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.21.31:099][ 69]PIE: Server logged in
+[2022.10.13-22.21.31:099][ 69]PIE: Play in editor total start time 0.088 seconds.
+[2022.10.13-22.21.40:370][174]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.21.40:389][174]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.21.40:419][174]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.21.40:420][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.21.40:427][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.21.40:432][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.21.40:454][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.21.40:454][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.21.40:455][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.21.40:460][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.13-22.21.40:476][175]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.10.13-22.22.21:940][105]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.13-22.22.21:950][105]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.13-22.22.33:628][507]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CrearPartida-Widget
+[2022.10.13-22.22.33:694][507]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.13-22.22.41:778][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.22.56:178][ 84]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.23.10:996][660]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.11:430][672]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.11:838][711]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.12:177][748]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.12:533][787]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.12:847][821]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.13:145][853]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.13:544][897]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.13:733][916]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.13:905][933]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:021][ 63]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:252][ 87]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:433][105]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:572][118]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:736][134]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.15:894][149]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:025][161]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:156][173]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:321][189]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:468][203]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:633][219]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:780][233]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.16:944][249]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.17:100][264]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.17:273][281]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.17:429][296]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.17:585][311]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.17:749][327]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.18:697][437]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.18:837][450]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.19:443][519]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.19:574][531]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.19:705][543]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.19:811][552]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.19:925][562]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:057][574]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:163][583]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:278][593]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:401][604]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:507][613]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:638][625]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:762][636]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:877][646]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.20:991][656]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.21:106][666]LogEditorTransaction: Undo Nudge Widget
+[2022.10.13-22.23.21:229][677]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-22.23.21:354][685]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-22.23.21:469][695]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.13-22.23.21:600][707]LogEditorTransaction: Undo Paste clipboard contents
+[2022.10.13-22.23.25:478][150]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.24.31:905][ 43]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-Widget356B91B447581EBC0067E1B5575FE9A3.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.24.32:081][ 43]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.24.32:081][ 43]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.24.33:189][166]BlueprintLog: New page: Compile CrearPartida-Widget
+[2022.10.13-22.24.33:235][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.10.13-22.24.49:431][ 55]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.24.49:449][ 55]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.25.02:057][535]BlueprintLog: New page: Compile InserName-Widget
+[2022.10.13-22.25.02:097][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.10.13-22.25.02:764][598]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName-Widget21E6F5A54EFD17C567135BA8B5C5625B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName-Widget.uasset'
+[2022.10.13-22.25.02:774][598]AssetCheck: New page: Asset Save: InserName-Widget
+[2022.10.13-22.25.02:774][598]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName-Widget.InserName-Widget
+[2022.10.13-22.25.03:407][665]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.25.03:412][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.25.03:412][665]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:25:03 PM)
+[2022.10.13-22.25.03:412][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.25.03:413][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001054s)
+[2022.10.13-22.25.03:413][665]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.25.03:414][665]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.10.13-22.25.03:414][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001957s)
+[2022.10.13-22.25.03:444][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.10.13-22.25.03:444][665]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.25.03:444][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.25.03:444][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.25.03:445][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.25.03:445][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.25.03:445][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.25.03:445][665]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.25.03:448][665]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.25.03:448][665]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.25.03:455][665]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.25.03:456][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.25.03:456][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.25.03:456][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.25.03:456][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.25.03:456][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.25.03:456][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.25.03:457][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.25.03:457][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.25.03:457][665]LogInit: FAudioDevice initialized.
+[2022.10.13-22.25.03:457][665]LogAudio: Display: Audio Device (ID: 50) registered with world 'MenuPrincipal'.
+[2022.10.13-22.25.03:500][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.25.03:500][665]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.25.03:501][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.25.03
+[2022.10.13-22.25.03:501][665]LogWorld: Bringing up level for play took: 0.000347
+[2022.10.13-22.25.03:501][665]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.10.13-22.25.03:503][665]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.25.03:506][665]PIE: Server logged in
+[2022.10.13-22.25.03:507][665]PIE: Play in editor total start time 0.096 seconds.
+[2022.10.13-22.25.08:503][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.25.08:503][244]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.25.08:503][244]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.25.08:508][244]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.25.08:508][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.25.08:517][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.25.08:522][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.25.08:545][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.25.08:545][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.25.08:546][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.25.08:551][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.13-22.25.08:568][245]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.10.13-22.25.44:589][380]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.25.44:607][380]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.25.59:462][120]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-Widget3882C19C43EEEEC27B9372B1029A639B.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.25.59:474][120]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.25.59:474][120]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.26.22:242][756]BlueprintLog: New page: Compile CrearPartida-Widget
+[2022.10.13-22.26.22:289][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.10.13-22.26.26:646][246]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-Widget8C20AE434BBF987F70BA88B8091A7D2A.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.26.26:657][246]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.26.26:657][246]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.26.44:148][283]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-Widget77B0F19B406F105F0808D49BA13B68F2.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.26.44:159][283]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.26.44:159][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.26.57:099][780]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-WidgetCB0C3504487B71D1B4C8428D3DBABF68.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.26.57:110][780]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.26.57:110][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.26.57:518][828]BlueprintLog: New page: Compile CrearPartida-Widget
+[2022.10.13-22.26.57:569][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.10.13-22.26.57:982][862]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/CrearPartida-Widget056AADDF406D430BB697DA97D3731158.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/CrearPartida-Widget.uasset'
+[2022.10.13-22.26.57:993][862]AssetCheck: New page: Asset Save: CrearPartida-Widget
+[2022.10.13-22.26.57:993][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/CrearPartida-Widget.CrearPartida-Widget
+[2022.10.13-22.27.00:944][198]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.27.00:949][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.27.00:949][198]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:27:00 PM)
+[2022.10.13-22.27.00:949][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.27.00:950][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001015s)
+[2022.10.13-22.27.00:951][198]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.27.00:951][198]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.10.13-22.27.00:951][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001922s)
+[2022.10.13-22.27.00:979][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.10.13-22.27.00:980][198]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.27.00:980][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.27.00:980][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.27.00:980][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.27.00:980][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.27.00:980][198]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.27.00:983][198]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.27.00:983][198]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.27.00:989][198]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.27.00:990][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.27.00:990][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.27.00:990][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.27.00:990][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.27.00:990][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.27.00:990][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.27.00:991][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.27.00:991][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.27.00:991][198]LogInit: FAudioDevice initialized.
+[2022.10.13-22.27.00:991][198]LogAudio: Display: Audio Device (ID: 51) registered with world 'MenuPrincipal'.
+[2022.10.13-22.27.01:038][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.27.01:038][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.27.01:038][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.27.01
+[2022.10.13-22.27.01:038][198]LogWorld: Bringing up level for play took: 0.000265
+[2022.10.13-22.27.01:039][198]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.10.13-22.27.01:040][198]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.27.01:043][198]PIE: Server logged in
+[2022.10.13-22.27.01:043][198]PIE: Play in editor total start time 0.094 seconds.
+[2022.10.13-22.27.23:798][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.27.23:811][919]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.27.23:811][919]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.27.23:839][919]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.27.23:840][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.27.23:849][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.27.23:854][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.27.23:879][919]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.27.23:879][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.27.23:880][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.27.23:885][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.13-22.27.23:899][920]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.10.13-22.27.57:713][912]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.27.57:732][912]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.28.10:120][379]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.28.10:120][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.28.10:127][379]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.28.10:127][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.28.15:609][ 16]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Menus/InserName2-Widget.InserName2-Widget
+[2022.10.13-22.28.37:946][595]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.13-22.28.37:957][595]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.13-22.28.45:136][457]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UnirPartida
+[2022.10.13-22.28.45:208][457]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.13-22.28.56:758][825]LogContentBrowser: Attempting asset rename: UnirPartida -> UnirPartida-Widget
+[2022.10.13-22.28.57:175][825]LogMetaData: Removing '/Game/Widgets/Menus/UnirPartida-Widget.SKEL_UnirPartida-Widget_C' ref from Metadata '/Game/Widgets/Menus/UnirPartida.PackageMetaData'
+[2022.10.13-22.28.57:175][825]LogMetaData: Removing '/Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget_C' ref from Metadata '/Game/Widgets/Menus/UnirPartida.PackageMetaData'
+[2022.10.13-22.28.57:175][825]LogMetaData: Removing '/Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/Menus/UnirPartida.PackageMetaData'
+[2022.10.13-22.28.57:175][825]LogMetaData: Removing '/Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/Menus/UnirPartida.PackageMetaData'
+[2022.10.13-22.28.57:175][825]LogMetaData: Removing '/Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/Menus/UnirPartida.PackageMetaData'
+[2022.10.13-22.28.57:196][825]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UnirPartida-WidgetF0BD88BF40C3ECCA942D36AA84380A29.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/UnirPartida-Widget.uasset'
+[2022.10.13-22.28.57:620][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.10.13-22.28.57:651][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.13-22.28.57:675][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.13-22.28.57:704][825]AssetCheck: New page: Asset Save: UnirPartida-Widget
+[2022.10.13-22.28.57:704][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget
+[2022.10.13-22.28.59:527][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.10.13-22.29.01:897][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.13-22.29.03:659][527]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget
+[2022.10.13-22.29.17:643][ 80]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.29.19:927][354]LogEditorTransaction: Undo Paste clipboard contents
+[2022.10.13-22.29.24:574][845]SourceControl: Error: fatal: Invalid path 'D:/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.10.13-22.30.05:574][688]BlueprintLog: New page: Compile UnirPartida-Widget
+[2022.10.13-22.30.05:607][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.10.13-22.30.06:401][764]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UnirPartida-WidgetA29ECDE9418939D4C9CB38A7EBC60BA0.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/UnirPartida-Widget.uasset'
+[2022.10.13-22.30.06:412][764]AssetCheck: New page: Asset Save: UnirPartida-Widget
+[2022.10.13-22.30.06:412][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget
+[2022.10.13-22.31.02:509][267]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UnirPartida-WidgetCB05E3D348A48287D89E35A63A1F34D5.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/UnirPartida-Widget.uasset'
+[2022.10.13-22.31.02:519][267]AssetCheck: New page: Asset Save: UnirPartida-Widget
+[2022.10.13-22.31.02:519][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget
+[2022.10.13-22.31.14:821][696]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.31.14:840][696]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.31.21:564][488]BlueprintLog: New page: Compile UnirPartida-Widget
+[2022.10.13-22.31.21:612][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.10.13-22.31.22:159][535]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/UnirPartida-WidgetD6C103DD47A954E72190BBAE78F197DE.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/UnirPartida-Widget.uasset'
+[2022.10.13-22.31.22:170][535]AssetCheck: New page: Asset Save: UnirPartida-Widget
+[2022.10.13-22.31.22:170][535]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/UnirPartida-Widget.UnirPartida-Widget
+[2022.10.13-22.31.23:828][722]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.31.23:833][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.31.23:833][722]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:31:23 PM)
+[2022.10.13-22.31.23:833][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.31.23:834][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2022.10.13-22.31.23:835][722]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.31.23:835][722]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.10.13-22.31.23:835][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001807s)
+[2022.10.13-22.31.23:864][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.10.13-22.31.23:864][722]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.31.23:864][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.31.23:864][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.31.23:865][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.31.23:865][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.31.23:865][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.31.23:865][722]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.31.23:867][722]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.31.23:867][722]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.31.23:874][722]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.31.23:874][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.31.23:874][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.31.23:874][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.31.23:875][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.31.23:875][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.31.23:875][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.31.23:876][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.31.23:876][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.31.23:876][722]LogInit: FAudioDevice initialized.
+[2022.10.13-22.31.23:876][722]LogAudio: Display: Audio Device (ID: 52) registered with world 'MenuPrincipal'.
+[2022.10.13-22.31.23:931][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.31.23:931][722]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.31.23:932][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.31.23
+[2022.10.13-22.31.23:932][722]LogWorld: Bringing up level for play took: 0.000273
+[2022.10.13-22.31.23:932][722]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.10.13-22.31.23:933][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.31.23:936][722]PIE: Server logged in
+[2022.10.13-22.31.23:936][722]PIE: Play in editor total start time 0.104 seconds.
+[2022.10.13-22.31.32:954][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.31.32:954][793]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.31.32:954][793]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.31.32:959][793]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.31.32:959][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.31.32:969][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.31.32:975][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.31.33:000][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.31.33:001][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.31.33:002][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.31.33:007][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.10.13-22.31.33:023][794]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.10.13-22.31.48:513][604]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.13-22.31.48:532][604]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-22.31.53:007][119]BlueprintLog: New page: Compile InserName2-Widget
+[2022.10.13-22.31.53:050][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.13-22.31.53:611][171]LogSavePackage: Moving '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/InserName2-Widget607B03D542EA09B4196758841D09E8EE.tmp' to '../../../../ESCUELA/NOVENO/Diseño de videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Widgets/Menus/InserName2-Widget.uasset'
+[2022.10.13-22.31.53:625][171]AssetCheck: New page: Asset Save: InserName2-Widget
+[2022.10.13-22.31.53:625][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menus/InserName2-Widget.InserName2-Widget
+[2022.10.13-22.31.54:214][240]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.13-22.31.54:219][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-22.31.54:219][240]PIE: New page: PIE session: MenuPrincipal (Oct 13, 2022, 12:31:54 PM)
+[2022.10.13-22.31.54:219][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.31.54:220][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2022.10.13-22.31.54:221][240]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.10.13-22.31.54:221][240]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2022.10.13-22.31.54:221][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuPrincipal.MenuPrincipal to /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.001816s)
+[2022.10.13-22.31.54:251][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.10.13-22.31.54:251][240]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.13-22.31.54:251][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-22.31.54:251][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-22.31.54:252][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-22.31.54:252][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-22.31.54:252][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-22.31.54:252][240]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.13-22.31.54:254][240]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.13-22.31.54:254][240]LogAudioMixer: Display: 1: FrontRight
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.13-22.31.54:261][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.13-22.31.54:261][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.13-22.31.54:262][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.13-22.31.54:262][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.13-22.31.54:262][240]LogInit: FAudioDevice initialized.
+[2022.10.13-22.31.54:262][240]LogAudio: Display: Audio Device (ID: 53) registered with world 'MenuPrincipal'.
+[2022.10.13-22.31.54:315][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.31.54:315][240]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.13-22.31.54:316][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.10.13-17.31.54
+[2022.10.13-22.31.54:316][240]LogWorld: Bringing up level for play took: 0.000341
+[2022.10.13-22.31.54:316][240]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.10.13-22.31.54:318][240]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.13-22.31.54:321][240]PIE: Server logged in
+[2022.10.13-22.31.54:321][240]PIE: Play in editor total start time 0.102 seconds.
+[2022.10.13-22.32.02:042][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-22.32.02:054][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuPrincipal
+[2022.10.13-22.32.02:055][154]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.13-22.32.02:091][154]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-22.32.02:091][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.32.02:096][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-22.32.02:101][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-22.32.02:127][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-22.32.02:127][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.32.02:128][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.13-22.32.02:133][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.10.13-22.32.02:149][155]LogPlayLevel: Display: Destroying online subsystem :Context_66
