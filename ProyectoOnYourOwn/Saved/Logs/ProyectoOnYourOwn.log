@@ -2710,3 +2710,1257 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.11-05.36.11:009][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared17)
 [2022.11.11-05.36.45:918][167]Cmd: SELECT NONE
 [2022.11.11-05.36.47:470][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared9)
+[2022.11.11-05.38.24:695][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-05.38.24:704][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.11-05.38.24:751][268]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_EspacialE732193543FB1D4EC71D81B42B433F7E.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-05.38.24:763][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-05.38.24:776][268]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltDataB6271C0648F0C80F21906DB26F571842.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-05.38.24:789][268]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-05.38.24:789][268]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-05.38.24:789][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.11-05.38.34:780][ 60]LogEditorViewport: Clicking Background
+[2022.11.11-05.39.05:955][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared5)
+[2022.11.11-05.55.44:215][221]LogTexture: Display: Building textures: bartable01 (OODLE_AutoDXT, 1024X1024)
+[2022.11.11-05.55.44:215][221]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.11-05.55.44:215][221]LogMaterial: Display: Missing cached shadermap for phongE8 in PCD3D_SM5, Default, SM5 (DDC key hash: 48EEE4779E1752ECAD8B46F866EECA2187D97F9F), compiling. 
+[2022.11.11-05.55.44:231][221]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.11-05.55.44:232][221]LogStaticMesh: Building static mesh barTable00...
+[2022.11.11-05.55.44:243][221]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.11.11-05.55.44:243][221]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2022.11.11-05.55.44:243][221]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.11.11-05.55.44:243][221]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.11.11-05.55.44:259][221]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/CHAIRS_TABLES/bartable/barTable00.barTable00
+[2022.11.11-05.55.44:477][231]LogActorFactory: Actor Factory created barTable00
+[2022.11.11-05.55.45:760][321]LogActorFactory: Actor Factory created barTable00
+[2022.11.11-05.55.50:086][576]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.11-05.55.50:086][576]LogShaderCompilers: Display: Total job queries 1504, among them cache hits 1074 (71.41%)
+[2022.11.11-05.55.50:086][576]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 132 distinct outputs (49.81%)
+[2022.11.11-05.55.50:087][576]LogShaderCompilers: Display: RAM used: 0.81 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.11.11-05.55.50:087][576]LogShaderCompilers: Display: ================================================
+[2022.11.11-05.56.59:182][925]LogEditorViewport: Clicking Background
+[2022.11.11-05.57.05:670][573]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-05.57.05:677][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-05.57.05:677][573]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 5:57:05 PM)
+[2022.11.11-05.57.05:677][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.57.05:699][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022046s)
+[2022.11.11-05.57.05:701][573]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-05.57.05:701][573]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2022.11.11-05.57.05:701][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.023842s)
+[2022.11.11-05.57.05:711][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.11-05.57.05:714][573]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-05.57.05:714][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-05.57.05:714][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-05.57.05:715][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-05.57.05:715][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-05.57.05:715][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-05.57.05:715][573]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-05.57.05:755][573]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-05.57.05:755][573]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-05.57.05:772][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-05.57.05:772][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-05.57.05:774][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-05.57.05:774][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-05.57.05:774][573]LogInit: FAudioDevice initialized.
+[2022.11.11-05.57.05:774][573]LogAudio: Display: Audio Device (ID: 7) registered with world 'Estacion_Espacial'.
+[2022.11.11-05.57.05:782][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-05.57.05:788][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.10-23.57.05
+[2022.11.11-05.57.05:789][573]LogWorld: Bringing up level for play took: 0.005841
+[2022.11.11-05.57.05:789][573]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.11.11-05.57.05:794][573]PIE: Server logged in
+[2022.11.11-05.57.05:794][573]PIE: Play in editor total start time 0.119 seconds.
+[2022.11.11-05.57.27:508][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.57.27:508][125]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.57.27:509][125]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-05.57.27:510][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.57.27:522][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-05.57.27:525][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.57.27:534][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-05.57.27:534][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.57.27:535][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.57.27:544][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.57.27:547][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.11-05.57.27:571][126]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.11-05.57.28:729][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barTable00)
+[2022.11.11-05.57.39:240][488]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-05.57.39:248][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-05.57.39:248][488]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 5:57:39 PM)
+[2022.11.11-05.57.39:248][488]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.57.39:262][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013484s)
+[2022.11.11-05.57.39:263][488]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-05.57.39:263][488]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2022.11.11-05.57.39:263][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015075s)
+[2022.11.11-05.57.39:273][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.11-05.57.39:274][488]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-05.57.39:274][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-05.57.39:275][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-05.57.39:275][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-05.57.39:275][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-05.57.39:275][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-05.57.39:275][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-05.57.39:275][488]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-05.57.39:277][488]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-05.57.39:277][488]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-05.57.39:293][488]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-05.57.39:293][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-05.57.39:293][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-05.57.39:293][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-05.57.39:294][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-05.57.39:294][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-05.57.39:294][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-05.57.39:295][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-05.57.39:295][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-05.57.39:295][488]LogInit: FAudioDevice initialized.
+[2022.11.11-05.57.39:295][488]LogAudio: Display: Audio Device (ID: 8) registered with world 'Estacion_Espacial'.
+[2022.11.11-05.57.39:304][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-05.57.39:310][488]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.10-23.57.39
+[2022.11.11-05.57.39:310][488]LogWorld: Bringing up level for play took: 0.005613
+[2022.11.11-05.57.39:311][488]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.11.11-05.57.39:315][488]PIE: Server logged in
+[2022.11.11-05.57.39:315][488]PIE: Play in editor total start time 0.069 seconds.
+[2022.11.11-05.58.14:558][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.58.14:558][664]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.58.14:558][664]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-05.58.14:559][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.58.14:570][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-05.58.14:587][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.58.14:595][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-05.58.14:595][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.58.14:597][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.58.14:600][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.58.14:603][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.11-05.58.14:637][666]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.11-05.58.24:964][865]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-05.58.24:971][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-05.58.24:971][865]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 5:58:24 PM)
+[2022.11.11-05.58.24:971][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.58.24:984][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012908s)
+[2022.11.11-05.58.24:985][865]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-05.58.24:985][865]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2022.11.11-05.58.24:986][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.014402s)
+[2022.11.11-05.58.24:994][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.11-05.58.24:995][865]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-05.58.24:996][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-05.58.24:996][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-05.58.24:996][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-05.58.24:996][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-05.58.24:996][865]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-05.58.24:998][865]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-05.58.24:998][865]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-05.58.25:015][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-05.58.25:015][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-05.58.25:016][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-05.58.25:016][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-05.58.25:016][865]LogInit: FAudioDevice initialized.
+[2022.11.11-05.58.25:016][865]LogAudio: Display: Audio Device (ID: 9) registered with world 'Estacion_Espacial'.
+[2022.11.11-05.58.25:023][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-05.58.25:029][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.10-23.58.25
+[2022.11.11-05.58.25:029][865]LogWorld: Bringing up level for play took: 0.005487
+[2022.11.11-05.58.25:029][865]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.11.11-05.58.25:033][865]PIE: Server logged in
+[2022.11.11-05.58.25:034][865]PIE: Play in editor total start time 0.065 seconds.
+[2022.11.11-05.58.49:757][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.58.49:757][715]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.58.49:758][715]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-05.58.49:759][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.58.49:772][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-05.58.49:790][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.58.49:799][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-05.58.49:799][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.58.49:801][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.58.49:803][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.58.49:806][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.11-05.58.49:838][716]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.11-05.59.04:394][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-05.59.04:401][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-05.59.04:401][421]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 5:59:04 PM)
+[2022.11.11-05.59.04:447][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.59.04:460][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013292s)
+[2022.11.11-05.59.04:462][421]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-05.59.04:463][421]LogPlayLevel: PIE: World Init took: (0.002457s)
+[2022.11.11-05.59.04:463][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.016063s)
+[2022.11.11-05.59.04:482][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.11-05.59.04:484][421]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-05.59.04:484][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-05.59.04:484][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-05.59.04:485][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-05.59.04:485][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-05.59.04:485][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-05.59.04:485][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-05.59.04:490][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-05.59.04:490][421]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-05.59.04:506][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-05.59.04:506][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-05.59.04:508][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-05.59.04:508][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-05.59.04:508][421]LogInit: FAudioDevice initialized.
+[2022.11.11-05.59.04:508][421]LogAudio: Display: Audio Device (ID: 10) registered with world 'Estacion_Espacial'.
+[2022.11.11-05.59.04:518][421]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-05.59.04:524][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.10-23.59.04
+[2022.11.11-05.59.04:525][421]LogWorld: Bringing up level for play took: 0.005968
+[2022.11.11-05.59.04:525][421]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.11.11-05.59.04:529][421]PIE: Server logged in
+[2022.11.11-05.59.04:530][421]PIE: Play in editor total start time 0.13 seconds.
+[2022.11.11-05.59.24:798][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.59.24:798][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-05.59.24:798][810]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-05.59.24:799][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.59.24:809][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-05.59.24:826][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-05.59.24:835][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-05.59.24:836][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.59.24:837][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-05.59.24:839][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-05.59.24:842][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.11-05.59.24:875][811]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.11-05.59.43:737][943]LogStaticMesh: Building static mesh barStool00...
+[2022.11.11-05.59.43:772][943]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/CHAIRS_TABLES/barstool/barStool00.barStool00
+[2022.11.11-05.59.43:858][943]LogTexture: Display: Building textures: barstool01 (OODLE_AutoDXT, 1024X1024)
+[2022.11.11-05.59.43:858][943]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.11-05.59.43:858][943]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 506775CA16A8D8097CF3349671DA9B7F24F18130), compiling. 
+[2022.11.11-05.59.43:874][943]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.11-05.59.43:877][943]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-05.59.43:877][943]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-05.59.43:877][943]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.11.11-05.59.43:877][943]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-05.59.43:877][943]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-05.59.44:210][974]LogActorFactory: Actor Factory created barStool00
+[2022.11.11-05.59.44:893][ 44]LogActorFactory: Actor Factory created barStool00
+[2022.11.11-05.59.45:020][ 54]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.11.11-05.59.45:020][ 54]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-05.59.45:035][ 54]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.11-05.59.45:036][ 54]LogShaderCompilers: Display: Total job queries 1520, among them cache hits 1074 (70.66%)
+[2022.11.11-05.59.45:036][ 54]LogShaderCompilers: Display: Tracking 278 distinct input hashes that result in 140 distinct outputs (50.36%)
+[2022.11.11-05.59.45:036][ 54]LogShaderCompilers: Display: RAM used: 0.85 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.11.11-05.59.45:036][ 54]LogShaderCompilers: Display: ================================================
+[2022.11.11-05.59.45:962][151]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-05.59.45:962][151]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-05.59.46:672][227]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.11.11-05.59.46:672][227]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-05.59.48:248][396]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.11.11-05.59.48:248][396]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-05.59.49:075][480]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.11.11-05.59.49:075][480]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-05.59.49:657][529]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-05.59.49:657][529]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.00.13:503][335]Cmd: TRANSACTION UNDO
+[2022.11.11-06.00.13:503][335]LogEditorTransaction: Undo Scale Actors
+[2022.11.11-06.00.13:516][335]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: 7095A4F106B38FAC808A2DB26C78EFF9F3066122), compiling. 
+[2022.11.11-06.00.13:525][335]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: CF60F382799A50EFB1D41553E1921B71C92A9EBC), compiling. 
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.13:534][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.13:683][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.35:689][925]Cmd: TRANSACTION UNDO
+[2022.11.11-06.00.35:689][925]LogEditorTransaction: Undo Scale Actors
+[2022.11.11-06.00.35:691][925]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: AB16D524563B8D7FCD338EA555F86EBB468EB20E), compiling. 
+[2022.11.11-06.00.35:694][925]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: 368B134858BFE814F1F2A109DD41969A5D2D7F65), compiling. 
+[2022.11.11-06.00.35:700][925]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.35:701][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.35:701][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.35:701][925]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.35:701][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.35:701][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.35:859][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.45:523][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.00.55:727][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool00)
+[2022.11.11-06.00.59:669][659]Cmd: TRANSACTION UNDO
+[2022.11.11-06.00.59:669][659]LogEditorTransaction: Undo Scale Actors
+[2022.11.11-06.00.59:671][659]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: 771D6A3B6DF9AA5FF459CF4E63C49C159796037E), compiling. 
+[2022.11.11-06.00.59:674][659]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: C5FB0A7A3087A8080054BB71140B23CF866EE813), compiling. 
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.59:680][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.00.59:822][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.01.10:876][943]Cmd: TRANSACTION UNDO
+[2022.11.11-06.01.10:876][943]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.01.10:878][943]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: 8872CD4EF6B76F1CCEAEBD1F68EDE3FF9342C9A5), compiling. 
+[2022.11.11-06.01.10:881][943]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: E04C9B261A00E898CABFB616204A8955C8E0FCFC), compiling. 
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.01.10:887][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.01.11:044][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.01.20:684][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.01.20:691][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.01.20:691][ 37]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:01:20 PM)
+[2022.11.11-06.01.20:691][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.01.20:704][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013520s)
+[2022.11.11-06.01.20:705][ 37]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.01.20:706][ 37]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2022.11.11-06.01.20:706][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015009s)
+[2022.11.11-06.01.20:716][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.11-06.01.20:719][ 37]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.01.20:719][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.01.20:719][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.01.20:719][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.01.20:719][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.01.20:719][ 37]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.01.20:722][ 37]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.01.20:722][ 37]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.01.20:738][ 37]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.01.20:739][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.01.20:741][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.01.20:741][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.01.20:741][ 37]LogInit: FAudioDevice initialized.
+[2022.11.11-06.01.20:741][ 37]LogAudio: Display: Audio Device (ID: 11) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.01.20:749][ 37]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.01.20:754][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.01.20
+[2022.11.11-06.01.20:755][ 37]LogWorld: Bringing up level for play took: 0.005567
+[2022.11.11-06.01.20:755][ 37]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.11.11-06.01.20:759][ 37]PIE: Server logged in
+[2022.11.11-06.01.20:760][ 37]PIE: Play in editor total start time 0.07 seconds.
+[2022.11.11-06.01.39:667][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.01.39:667][264]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.01.39:668][264]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.01.39:669][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.01.39:680][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.01.39:698][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.01.39:707][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-06.01.39:707][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.01.39:708][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.01.39:711][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.01.39:714][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.11-06.01.39:747][265]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.11-06.01.41:138][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-06.01.41:148][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.11-06.01.41:194][408]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_EspacialD80067484A1901C7A6E786B364CEE62D.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-06.01.41:207][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-06.01.41:222][408]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData995AB3AF47D46F45ACD7888078CF666B.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-06.01.41:235][408]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-06.01.41:235][408]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-06.01.41:235][408]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.11-06.01.42:290][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-06.01.42:298][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.11-06.01.42:345][502]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial49B47846420A0FC3F3193781720D02A1.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-06.01.42:357][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-06.01.42:371][502]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData5B50E4DF41C020F4166963A6AE67EDE7.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-06.01.42:381][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-06.01.42:381][502]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-06.01.42:381][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.11-06.01.51:153][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool00)
+[2022.11.11-06.01.52:344][801]Cmd: EDIT COPY
+[2022.11.11-06.01.53:162][899]Cmd: EDIT PASTE
+[2022.11.11-06.02.26:710][  1]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.31:294][419]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.33:536][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.11.11-06.02.34:358][616]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.35:759][715]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.36:914][797]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.38:915][935]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.39:685][998]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.43:221][279]LogEditorViewport: Clicking Background
+[2022.11.11-06.02.53:086][124]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.06:280][362]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.13:853][ 54]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.14:149][ 73]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.23:228][876]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.28:032][340]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.43:860][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool1)
+[2022.11.11-06.03.47:840][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool00)
+[2022.11.11-06.03.51:701][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.03.52:938][156]LogEditorViewport: Clicking Background
+[2022.11.11-06.03.54:606][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool1)
+[2022.11.11-06.03.58:115][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool00)
+[2022.11.11-06.04.14:181][664]Cmd: EDIT COPY
+[2022.11.11-06.04.14:696][723]Cmd: EDIT PASTE
+[2022.11.11-06.05.04:879][415]Cmd: EDIT COPY
+[2022.11.11-06.05.05:391][474]Cmd: EDIT PASTE
+[2022.11.11-06.05.13:568][390]LogEditorViewport: Clicking Background
+[2022.11.11-06.05.17:742][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared40)
+[2022.11.11-06.05.31:292][969]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.05.31:299][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.05.31:299][969]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:05:31 PM)
+[2022.11.11-06.05.31:299][969]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.05.31:313][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013996s)
+[2022.11.11-06.05.31:314][969]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.05.31:314][969]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2022.11.11-06.05.31:314][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015455s)
+[2022.11.11-06.05.31:325][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.11-06.05.31:327][969]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.05.31:327][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.05.31:327][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.05.31:327][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.05.31:328][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.05.31:328][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.05.31:328][969]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.05.31:330][969]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.05.31:331][969]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.05.31:347][969]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.05.31:347][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.05.31:347][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.05.31:347][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.05.31:348][969]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.05.31:348][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.05.31:348][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.05.31:349][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.05.31:349][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.05.31:349][969]LogInit: FAudioDevice initialized.
+[2022.11.11-06.05.31:349][969]LogAudio: Display: Audio Device (ID: 12) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.05.31:361][969]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.05.31:367][969]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.05.31
+[2022.11.11-06.05.31:368][969]LogWorld: Bringing up level for play took: 0.005644
+[2022.11.11-06.05.31:368][969]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.11.11-06.05.31:372][969]PIE: Server logged in
+[2022.11.11-06.05.31:372][969]PIE: Play in editor total start time 0.075 seconds.
+[2022.11.11-06.06.15:858][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.06.15:858][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.06.15:859][201]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.06.15:860][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.06.15:872][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.06.15:890][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.06.15:900][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-06.06.15:901][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.06.15:902][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.06.15:904][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.06.15:907][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.11-06.06.15:942][202]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.11-06.06.18:223][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-06.06.18:232][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.11-06.06.18:280][467]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_EspacialA07DAE584F2380ECC047AEB36623B818.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-06.06.18:292][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-06.06.18:306][467]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData181D37A9479280157DBC2FB6B91A22BE.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-06.06.18:316][467]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-06.06.18:316][467]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-06.06.18:316][467]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.11-06.07.43:605][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.07.50:917][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared30)
+[2022.11.11-06.07.51:871][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool4)
+[2022.11.11-06.07.55:429][382]Cmd: EDIT COPY
+[2022.11.11-06.07.55:888][430]Cmd: EDIT PASTE
+[2022.11.11-06.08.04:536][306]LogEditorViewport: Clicking Background
+[2022.11.11-06.08.06:541][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.11.11-06.08.08:002][642]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor56)
+[2022.11.11-06.08.14:699][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.08.16:197][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool6)
+[2022.11.11-06.08.17:705][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor56)
+[2022.11.11-06.08.19:045][649]LogEditorViewport: Clicking Background
+[2022.11.11-06.08.19:939][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barTable2)
+[2022.11.11-06.08.20:855][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.08.21:465][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.08.21:958][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool6)
+[2022.11.11-06.08.35:881][301]Cmd: EDIT COPY
+[2022.11.11-06.08.36:281][343]Cmd: EDIT PASTE
+[2022.11.11-06.08.39:619][703]Cmd: EDIT COPY
+[2022.11.11-06.08.40:028][748]Cmd: EDIT PASTE
+[2022.11.11-06.10.31:728][334]LogStaticMesh: Building static mesh med_box1...
+[2022.11.11-06.10.31:753][334]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/curativos/medicinebox/med_box1.med_box1
+[2022.11.11-06.10.32:675][334]LogTexture: Display: Building textures: box_low_lambert1_Glossiness (OODLE_AutoDXT, 2048X2048)
+[2022.11.11-06.10.32:676][334]LogTexture: Display: Building textures: box_low_lambert1_Diffuse (OODLE_AutoDXT, 2048X2048)
+[2022.11.11-06.10.32:676][334]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.11-06.10.32:676][334]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.11-06.10.32:676][334]LogTexture: Display: Building textures: box_low_lambert1_Specular (OODLE_AutoDXT, 2048X2048)
+[2022.11.11-06.10.32:676][334]LogTexture: Display: Building textures: box_low_lambert1_Normal (OODLE_BC5, 2048X2048)
+[2022.11.11-06.10.32:676][334]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.11-06.10.32:676][334]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: AF6170939ED1466CC159AAB544EA7BCAB78E1AE2), compiling. 
+[2022.11.11-06.10.32:695][334]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.11-06.10.32:710][334]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-06.10.32:710][334]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-06.10.32:710][334]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.11.11-06.10.32:710][334]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.32:710][334]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.32:714][334]LogActorFactory: Actor Factory created med_box1
+[2022.11.11-06.10.33:913][456]LogActorFactory: Actor Factory created med_box1
+[2022.11.11-06.10.35:032][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.11.11-06.10.35:032][559]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.35:052][559]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.11-06.10.35:052][559]LogShaderCompilers: Display: Total job queries 1616, among them cache hits 1154 (71.41%)
+[2022.11.11-06.10.35:052][559]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 141 distinct outputs (47.96%)
+[2022.11.11-06.10.35:052][559]LogShaderCompilers: Display: RAM used: 0.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.11.11-06.10.35:052][559]LogShaderCompilers: Display: ================================================
+[2022.11.11-06.10.36:703][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-06.10.36:703][721]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.37:035][755]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/Estacion_Espacial.Estacion_Espacial:PersistentLevel.med_box1_24.StaticMeshComponent0)
+[2022.11.11-06.10.37:036][755]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/Estacion_Espacial.Estacion_Espacial:PersistentLevel.med_box1_24.StaticMeshComponent0)
+[2022.11.11-06.10.37:912][842]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.11.11-06.10.37:912][842]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.39:607][971]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.11.11-06.10.39:607][971]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.40:061][  6]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.11.11-06.10.40:061][  6]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.40:916][ 68]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.11.11-06.10.40:916][ 68]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.44:437][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.10.52:419][137]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/curativos/medicinebox/box2.box2
+[2022.11.11-06.10.52:420][137]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E29B8019CF826FD1163DDF36F93AAAC68C2668F), compiling. 
+[2022.11.11-06.10.52:526][137]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: D4504E5FD8F26ACDB32149522059968AA7E5813F), compiling. 
+[2022.11.11-06.10.52:529][137]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: 103C99B100041DDC5BA5A844190E7A110A0AA7BA), compiling. 
+[2022.11.11-06.10.52:531][137]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 180DD20C8B31676AA5EB44CF4EDEA2A1AF1CE860), compiling. 
+[2022.11.11-06.10.52:533][137]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 06EAF04AE82D39C5ADE0C032984C6479B8C159E3), compiling. 
+[2022.11.11-06.10.52:534][137]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D94404C3FDBBA6D414A7C72B3368097680469BF1), compiling. 
+[2022.11.11-06.10.52:535][137]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EB02A191FE8B916B8A267159F3606C3136870C3), compiling. 
+[2022.11.11-06.10.52:550][137]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.10.52:550][137]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.10.52:550][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.10.52:627][138]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.11.11-06.10.52:628][138]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.54:696][260]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.11.11-06.10.54:696][260]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.10.55:240][294]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.55:818][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-06.10.55:818][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.55:834][334]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.10.55:834][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.10.55:834][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.10.56:599][379]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.10.57:956][461]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.11.11-06.10.57:956][461]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.11.00:780][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-06.11.00:780][634]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.11.01:291][662]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.11.11-06.11.01:291][662]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.11.02:379][727]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.11.11-06.11.02:379][727]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.11.05:303][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.11.05:736][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.06:568][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.09:766][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.11.19:518][ 28]Cmd: TRANSACTION UNDO
+[2022.11.11-06.11.19:518][ 28]LogEditorTransaction: Undo Scale Actors
+[2022.11.11-06.11.19:529][ 28]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: 94874E0FA0B7A03655E41AA4718952E384489B93), compiling. 
+[2022.11.11-06.11.19:532][ 28]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: 56BE3DFDA8F83B877E586131BFDFEDD2A4D9A1EA), compiling. 
+[2022.11.11-06.11.19:540][ 28]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CB16138BABDFEE063A26959B1B9B7B241C832B7), compiling. 
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.19:548][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.19:674][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.19:725][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.21:256][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.11.11-06.11.24:661][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.11.47:925][269]Cmd: TRANSACTION UNDO
+[2022.11.11-06.11.47:925][269]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.11.47:940][269]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: BB7F20BF0F38C910C1749804A9FD3D794558F146), compiling. 
+[2022.11.11-06.11.47:943][269]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: 8C9CA1D3E36B0E5EACBE1C0460076D8F82CE751E), compiling. 
+[2022.11.11-06.11.47:945][269]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: C2B286A143EB8BC8C6D5C8FF03FBE2BA1DA82DB6), compiling. 
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.47:953][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.48:074][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.48:126][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.48:127][272]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.48:127][272]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.48:127][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.48:127][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:556][449]Cmd: TRANSACTION UNDO
+[2022.11.11-06.11.50:556][449]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.11.50:570][449]LogMaterial: Display: Missing cached shadermap for Walls_Straight in PCD3D_SM5, Default, SM5 (DDC key hash: C1B0BE1145874949A01AC1C665F015161B714CCC), compiling. 
+[2022.11.11-06.11.50:573][449]LogMaterial: Display: Missing cached shadermap for Platforms in PCD3D_SM5, Default, SM5 (DDC key hash: 75305FAD2DA3E207BFB82C1FC47BB45F60D497BF), compiling. 
+[2022.11.11-06.11.50:576][449]LogMaterial: Display: Missing cached shadermap for box2 in PCD3D_SM5, Default, SM5 (DDC key hash: B05394ED276B229482D9FFCF00C653774810A62E), compiling. 
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.50:582][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:611][451]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.11.50:611][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.50:611][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.11.11-06.11.50:656][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.11-06.11.50:700][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.11-06.11.55:285][675]LogSlate: Window 'Message' being destroyed
+[2022.11.11-06.11.55:290][675]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/walls/Walls_Straight.Walls_Straight
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.11-06.11.57:494][675]LogSlate: Window 'Message' being destroyed
+[2022.11.11-06.11.57:498][675]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/FLOOR/Platforms.Platforms
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.11-06.11.58:378][675]LogSlate: Window 'Message' being destroyed
+[2022.11.11-06.11.58:382][675]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/curativos/medicinebox/box2.box2
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.11-06.11.58:393][675]LogSlate: Window 'box2' being destroyed
+[2022.11.11-06.11.58:395][675]LogSlate: Window 'box2' being destroyed
+[2022.11.11-06.11.58:405][675]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.11.58:405][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.11.58:449][675]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.11.58:449][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.11.58:475][675]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.11.58:475][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.12.22:583][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.12.23:939][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.12.30:895][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.12.32:241][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.12.34:974][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.12.35:701][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared36)
+[2022.11.11-06.12.50:446][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.12.52:903][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barStool6)
+[2022.11.11-06.12.55:096][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.12.56:761][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.12.57:492][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.13.05:586][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.13.06:944][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.13.09:051][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.13.16:982][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.13.17:973][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.13.22:325][290]Cmd: EDIT COPY
+[2022.11.11-06.13.22:847][343]Cmd: EDIT PASTE
+[2022.11.11-06.13.35:989][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.13.37:303][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared36)
+[2022.11.11-06.13.38:932][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box2)
+[2022.11.11-06.13.40:133][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.13.49:542][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box1)
+[2022.11.11-06.13.50:882][163]Cmd: EDIT COPY
+[2022.11.11-06.13.51:542][232]Cmd: EDIT PASTE
+[2022.11.11-06.13.54:084][486]Cmd: TRANSACTION UNDO
+[2022.11.11-06.13.54:084][486]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.14.19:119][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.14.19:989][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared30)
+[2022.11.11-06.14.20:688][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box3)
+[2022.11.11-06.14.21:615][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.14.22:274][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor55)
+[2022.11.11-06.14.24:353][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared30)
+[2022.11.11-06.15.27:881][803]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.15.27:888][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.15.27:888][803]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:15:27 PM)
+[2022.11.11-06.15.27:888][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.15.27:903][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014701s)
+[2022.11.11-06.15.27:904][803]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.15.27:904][803]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2022.11.11-06.15.27:904][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.016278s)
+[2022.11.11-06.15.27:917][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.11-06.15.27:926][803]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.15.27:926][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.15.27:926][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.15.27:926][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.15.27:927][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.15.27:927][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.15.27:927][803]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.15.27:930][803]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.15.27:930][803]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.15.27:948][803]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.15.27:948][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.15.27:949][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.15.27:949][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.15.27:949][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.15.27:949][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.15.27:949][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.15.27:950][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.15.27:950][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.15.27:950][803]LogInit: FAudioDevice initialized.
+[2022.11.11-06.15.27:950][803]LogAudio: Display: Audio Device (ID: 13) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.15.27:962][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.15.27:969][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.15.27
+[2022.11.11-06.15.27:969][803]LogWorld: Bringing up level for play took: 0.006345
+[2022.11.11-06.15.27:969][803]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.11.11-06.15.27:974][803]PIE: Server logged in
+[2022.11.11-06.15.27:974][803]PIE: Play in editor total start time 0.088 seconds.
+[2022.11.11-06.16.02:068][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.16.02:068][832]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.16.02:068][832]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.16.02:069][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.16.02:077][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.16.02:093][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.16.02:102][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-06.16.02:103][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.16.02:104][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.16.02:107][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.16.02:111][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.11-06.16.02:145][833]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.11.11-06.16.13:248][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (med_box3)
+[2022.11.11-06.16.34:349][351]Cmd: TRANSACTION UNDO
+[2022.11.11-06.16.34:349][351]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.16.38:467][784]Cmd: TRANSACTION UNDO
+[2022.11.11-06.16.38:467][784]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.16.41:501][ 94]Cmd: TRANSACTION UNDO
+[2022.11.11-06.16.41:501][ 94]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.16.44:728][429]Cmd: TRANSACTION UNDO
+[2022.11.11-06.16.44:728][429]LogEditorTransaction: Undo Move Actors
+[2022.11.11-06.17.20:874][307]LogTexture: Display: Building textures: wallpanel01 (OODLE_DXT1, 1024X1024)
+[2022.11.11-06.17.20:874][307]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.11-06.17.20:874][307]LogMaterial: Display: Missing cached shadermap for phongE3 in PCD3D_SM5, Default, SM5 (DDC key hash: 21335CA0CD0B3EFF55C6F9322A9A03030BB00C72), compiling. 
+[2022.11.11-06.17.20:891][307]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.11-06.17.20:892][307]LogStaticMesh: Building static mesh wallPanel00...
+[2022.11.11-06.17.20:915][307]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.11.11-06.17.20:915][307]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2022.11.11-06.17.20:915][307]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.11.11-06.17.20:915][307]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.11.11-06.17.20:935][307]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/wallpanel/wallPanel00.wallPanel00
+[2022.11.11-06.17.21:355][345]LogActorFactory: Actor Factory created wallPanel00
+[2022.11.11-06.17.22:373][437]LogActorFactory: Actor Factory created wallPanel00
+[2022.11.11-06.17.25:641][720]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.11-06.17.25:641][720]LogShaderCompilers: Display: Total job queries 1779, among them cache hits 1287 (72.34%)
+[2022.11.11-06.17.25:641][720]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 153 distinct outputs (46.79%)
+[2022.11.11-06.17.25:641][720]LogShaderCompilers: Display: RAM used: 0.93 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2022.11.11-06.17.25:641][720]LogShaderCompilers: Display: ================================================
+[2022.11.11-06.17.38:654][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wallPanel00)
+[2022.11.11-06.17.39:406][297]Cmd: DELETE
+[2022.11.11-06.17.39:406][297]Cmd: ACTOR DELETE
+[2022.11.11-06.17.39:411][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.11-06.17.39:421][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.11-06.17.39:427][297]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.11.11-06.19.18:710][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.11-06.19.18:764][844]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_Auto40290A1D8465E954BA9F75C90A796FB0E.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Maps/Estacion_Espacial_Auto4.umap'
+[2022.11.11-06.19.18:797][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Estacion_Espacial' took 0.097
+[2022.11.11-06.19.18:797][844]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.11.11-06.19.36:551][961]LogEditorViewport: Clicking Background
+[2022.11.11-06.20.08:731][487]LogStaticMesh: Building static mesh couch00...
+[2022.11.11-06.20.08:753][487]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/couchs/bigcouch/couch00.couch00
+[2022.11.11-06.20.08:827][487]LogTexture: Display: Building textures: couch01 (OODLE_AutoDXT, 1024X1024)
+[2022.11.11-06.20.08:827][487]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.11-06.20.08:827][487]LogMaterial: Display: Missing cached shadermap for phongE13 in PCD3D_SM5, Default, SM5 (DDC key hash: 66370799D8F707476CC9E0731B754A1D16C9A049), compiling. 
+[2022.11.11-06.20.08:844][487]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.11-06.20.08:874][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-06.20.08:874][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.11-06.20.08:874][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.11.11-06.20.08:874][487]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.20.08:874][487]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.20.09:891][596]LogActorFactory: Actor Factory created couch00
+[2022.11.11-06.20.10:644][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.11-06.20.10:645][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.20.11:861][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.11.11-06.20.11:861][795]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.11-06.20.12:558][835]LogActorFactory: Actor Factory created couch00
+[2022.11.11-06.20.12:762][852]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.11.11-06.20.12:762][852]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.20.13:004][867]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.11.11-06.20.13:004][867]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.20.13:909][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.11.11-06.20.13:909][928]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.20.14:377][956]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.11.11-06.20.14:377][956]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.11-06.20.19:480][423]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/couchs/bigcouch/couch01.couch01
+[2022.11.11-06.20.23:180][765]LogSlate: Window 'couch01' being destroyed
+[2022.11.11-06.20.23:185][765]LogSlate: Window 'couch01' being destroyed
+[2022.11.11-06.20.48:210][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.20.48:218][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.20.48:218][421]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:20:48 PM)
+[2022.11.11-06.20.48:218][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.20.48:234][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015340s)
+[2022.11.11-06.20.48:235][421]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.20.48:235][421]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2022.11.11-06.20.48:235][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.016864s)
+[2022.11.11-06.20.48:245][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.11-06.20.48:251][421]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.20.48:251][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.20.48:251][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.20.48:252][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.20.48:252][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.20.48:252][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.20.48:252][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.20.48:254][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.20.48:254][421]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.20.48:271][421]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.20.48:271][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.20.48:271][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.20.48:271][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.20.48:272][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.20.48:272][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.20.48:272][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.20.48:273][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.20.48:273][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.20.48:273][421]LogInit: FAudioDevice initialized.
+[2022.11.11-06.20.48:273][421]LogAudio: Display: Audio Device (ID: 14) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.20.48:280][421]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.20.48:286][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.20.48
+[2022.11.11-06.20.48:286][421]LogWorld: Bringing up level for play took: 0.006035
+[2022.11.11-06.20.48:286][421]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.11.11-06.20.48:291][421]PIE: Server logged in
+[2022.11.11-06.20.48:292][421]PIE: Play in editor total start time 0.076 seconds.
+[2022.11.11-06.21.10:818][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.21.10:818][ 78]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.21.10:818][ 78]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.21.10:819][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.21.10:832][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.21.10:849][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.21.10:859][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-06.21.10:859][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.21.10:860][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.21.10:864][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.21.10:867][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.11-06.21.10:901][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.11-06.21.27:304][  0]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.21.27:311][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.21.27:311][  0]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:21:27 PM)
+[2022.11.11-06.21.27:357][  0]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.21.27:372][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014028s)
+[2022.11.11-06.21.27:373][  0]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.21.27:373][  0]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2022.11.11-06.21.27:373][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015541s)
+[2022.11.11-06.21.27:382][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.11-06.21.27:385][  0]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.21.27:385][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.21.27:386][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.21.27:386][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.21.27:386][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.21.27:386][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.21.27:386][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.21.27:386][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.21.27:390][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.21.27:390][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.21.27:407][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.21.27:407][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.21.27:407][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.21.27:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.21.27:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.21.27:408][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.21.27:408][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.21.27:409][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.21.27:409][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.21.27:409][  0]LogInit: FAudioDevice initialized.
+[2022.11.11-06.21.27:409][  0]LogAudio: Display: Audio Device (ID: 15) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.21.27:419][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.21.27:426][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.21.27
+[2022.11.11-06.21.27:426][  0]LogWorld: Bringing up level for play took: 0.006322
+[2022.11.11-06.21.27:426][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.11.11-06.21.27:430][  0]PIE: Server logged in
+[2022.11.11-06.21.27:431][  0]PIE: Play in editor total start time 0.121 seconds.
+[2022.11.11-06.21.59:519][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.21.59:519][780]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.21.59:520][780]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.21.59:521][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.21.59:529][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.21.59:546][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.21.59:556][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.21.59:556][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.21.59:557][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.21.59:563][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.11-06.21.59:597][781]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.11.11-06.22.08:310][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch00)
+[2022.11.11-06.22.19:386][ 11]Cmd: EDIT COPY
+[2022.11.11-06.22.19:812][ 62]Cmd: EDIT PASTE
+[2022.11.11-06.22.36:664][714]LogActorFactory: Actor Factory created couch01
+[2022.11.11-06.22.38:301][877]LogActorFactory: Actor Factory created couch01
+[2022.11.11-06.23.49:378][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.23.50:507][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch01)
+[2022.11.11-06.23.51:892][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor57)
+[2022.11.11-06.23.58:212][382]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.23.58:219][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.23.58:219][382]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:23:58 PM)
+[2022.11.11-06.23.58:247][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.23.58:261][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013869s)
+[2022.11.11-06.23.58:262][382]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.23.58:263][382]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2022.11.11-06.23.58:263][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015937s)
+[2022.11.11-06.23.58:272][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.11-06.23.58:277][382]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.11-06.23.58:277][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.23.58:277][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.23.58:277][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.23.58:277][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.23.58:277][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.23.58:278][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.23.58:278][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.23.58:278][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.23.58:278][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.23.58:278][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.23.58:278][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.23.58:278][382]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.23.58:281][382]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.23.58:281][382]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.23.58:298][382]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.23.58:298][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.23.58:298][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.23.58:298][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.23.58:299][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.23.58:299][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.23.58:299][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.23.58:300][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.23.58:300][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.23.58:300][382]LogInit: FAudioDevice initialized.
+[2022.11.11-06.23.58:300][382]LogAudio: Display: Audio Device (ID: 16) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.23.58:309][382]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.23.58:316][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.23.58
+[2022.11.11-06.23.58:316][382]LogWorld: Bringing up level for play took: 0.006391
+[2022.11.11-06.23.58:316][382]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.11.11-06.23.58:321][382]PIE: Server logged in
+[2022.11.11-06.23.58:322][382]PIE: Play in editor total start time 0.104 seconds.
+[2022.11.11-06.24.19:488][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.24.19:488][875]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.24.19:489][875]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.24.19:490][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.24.19:501][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.24.19:518][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.24.19:529][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-06.24.19:529][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.24.19:530][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.24.19:533][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.24.19:536][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.11-06.24.19:569][876]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.11-06.24.20:733][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch01)
+[2022.11.11-06.24.45:047][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared36)
+[2022.11.11-06.24.58:592][904]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.24.58:599][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.24.58:599][904]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:24:58 PM)
+[2022.11.11-06.24.58:599][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.24.58:614][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014666s)
+[2022.11.11-06.24.58:615][904]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.24.58:615][904]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2022.11.11-06.24.58:615][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.016187s)
+[2022.11.11-06.24.58:625][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.11-06.24.58:629][904]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.24.58:629][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.24.58:629][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.24.58:630][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.24.58:630][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.24.58:630][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.24.58:630][904]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.24.58:633][904]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.24.58:633][904]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.24.58:650][904]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.24.58:650][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.24.58:650][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.24.58:650][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.24.58:651][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.24.58:651][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.24.58:651][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.24.58:652][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.24.58:652][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.24.58:652][904]LogInit: FAudioDevice initialized.
+[2022.11.11-06.24.58:652][904]LogAudio: Display: Audio Device (ID: 17) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.24.58:664][904]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.24.58:670][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.24.58
+[2022.11.11-06.24.58:671][904]LogWorld: Bringing up level for play took: 0.006185
+[2022.11.11-06.24.58:671][904]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.11.11-06.24.58:675][904]PIE: Server logged in
+[2022.11.11-06.24.58:675][904]PIE: Play in editor total start time 0.078 seconds.
+[2022.11.11-06.25.22:628][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.25.22:628][722]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.25.22:628][722]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.25.22:630][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.25.22:638][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.25.22:655][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.25.22:665][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.25.22:666][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.25.22:667][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.25.22:672][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.11-06.25.22:704][723]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.11-06.25.23:413][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch01)
+[2022.11.11-06.25.41:804][963]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.25.41:810][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.25.41:810][963]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:25:41 PM)
+[2022.11.11-06.25.41:838][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.25.41:852][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013985s)
+[2022.11.11-06.25.41:853][963]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.25.41:853][963]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2022.11.11-06.25.41:853][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.015426s)
+[2022.11.11-06.25.41:862][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.11-06.25.41:866][963]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.25.41:866][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.25.41:866][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.25.41:866][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.25.41:866][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.25.41:866][963]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.25.41:869][963]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.25.41:869][963]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.25.41:885][963]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.25.41:886][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.25.41:886][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.25.41:886][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.25.41:886][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.25.41:886][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.25.41:886][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.25.41:887][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.25.41:887][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.25.41:887][963]LogInit: FAudioDevice initialized.
+[2022.11.11-06.25.41:887][963]LogAudio: Display: Audio Device (ID: 18) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.25.41:898][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.25.41:905][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.25.41
+[2022.11.11-06.25.41:905][963]LogWorld: Bringing up level for play took: 0.005978
+[2022.11.11-06.25.41:905][963]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.11.11-06.25.41:909][963]PIE: Server logged in
+[2022.11.11-06.25.41:910][963]PIE: Play in editor total start time 0.101 seconds.
+[2022.11.11-06.26.01:788][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.26.01:788][296]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.26.01:789][296]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.26.01:790][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.26.01:801][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.26.01:819][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.26.01:828][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.26.01:828][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.26.01:830][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.26.01:835][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.11-06.26.01:905][297]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.11.11-06.26.04:843][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared36)
+[2022.11.11-06.26.08:522][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch01)
+[2022.11.11-06.26.09:125][ 79]Cmd: EDIT COPY
+[2022.11.11-06.26.09:522][119]Cmd: EDIT PASTE
+[2022.11.11-06.26.21:665][341]Cmd: EDIT COPY
+[2022.11.11-06.26.22:205][395]Cmd: EDIT PASTE
+[2022.11.11-06.27.08:199][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch3)
+[2022.11.11-06.27.08:743][617]Cmd: EDIT COPY
+[2022.11.11-06.27.09:214][656]Cmd: EDIT PASTE
+[2022.11.11-06.27.30:023][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch4)
+[2022.11.11-06.27.30:783][706]Cmd: EDIT COPY
+[2022.11.11-06.27.31:230][750]Cmd: EDIT PASTE
+[2022.11.11-06.27.57:494][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (couch5)
+[2022.11.11-06.27.57:902][407]Cmd: EDIT COPY
+[2022.11.11-06.27.58:363][453]Cmd: EDIT PASTE
+[2022.11.11-06.28.11:997][801]LogEditorViewport: Clicking Background
+[2022.11.11-06.28.16:937][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-06.28.16:946][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.11-06.28.17:002][265]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial94CB26C74451B47FCDE7678E035C570C.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-06.28.17:015][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-06.28.17:029][265]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltDataEE2D794D4643E65B3D5C81856CE15CD9.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-06.28.17:039][265]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-06.28.17:039][265]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-06.28.17:039][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.11-06.28.20:731][693]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.11-06.28.20:737][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.11-06.28.20:738][693]PIE: New page: PIE session: Estacion_Espacial (Nov 10, 2022, 6:28:20 PM)
+[2022.11.11-06.28.20:738][693]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.28.20:753][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014619s)
+[2022.11.11-06.28.20:754][693]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.11-06.28.20:754][693]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2022.11.11-06.28.20:754][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.016101s)
+[2022.11.11-06.28.20:765][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.11-06.28.20:766][693]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-06.28.20:766][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-06.28.20:766][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-06.28.20:767][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-06.28.20:767][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-06.28.20:767][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-06.28.20:767][693]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-06.28.20:769][693]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-06.28.20:769][693]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-06.28.20:786][693]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.11-06.28.20:786][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-06.28.20:787][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-06.28.20:787][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-06.28.20:787][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-06.28.20:788][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-06.28.20:788][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-06.28.20:789][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-06.28.20:789][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-06.28.20:789][693]LogInit: FAudioDevice initialized.
+[2022.11.11-06.28.20:789][693]LogAudio: Display: Audio Device (ID: 19) registered with world 'Estacion_Espacial'.
+[2022.11.11-06.28.20:799][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.11-06.28.20:806][693]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.11-00.28.20
+[2022.11.11-06.28.20:806][693]LogWorld: Bringing up level for play took: 0.006566
+[2022.11.11-06.28.20:806][693]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.11.11-06.28.20:811][693]PIE: Server logged in
+[2022.11.11-06.28.20:811][693]PIE: Play in editor total start time 0.075 seconds.
+[2022.11.11-06.29.11:698][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.29.11:698][651]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.11-06.29.11:699][651]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-06.29.11:700][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.29.11:712][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.11-06.29.11:715][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-06.29.11:725][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-06.29.11:725][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.29.11:726][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.11-06.29.11:732][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.11-06.29.11:792][653]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.11.11-06.33.13:563][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.11.11-06.35.13:449][824]Cmd: SELECT NONE
+[2022.11.11-06.35.16:832][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.11-06.35.16:842][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.11-06.35.16:898][ 65]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial7763D1CF4DB16159304CA38F496D5351.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.11-06.35.16:910][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.11-06.35.16:924][ 65]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData2B0D3FEF4CFA0CAF1D755BB1D23C76CC.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.11-06.35.16:933][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-06.35.16:933][ 65]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.11-06.35.16:933][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
