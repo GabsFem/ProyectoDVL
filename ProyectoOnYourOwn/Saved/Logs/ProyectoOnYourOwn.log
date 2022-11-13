@@ -7925,3 +7925,183 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.13-04.34.45:485][707]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.13-04.34.45:485][707]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
 [2022.11.13-04.34.45:485][707]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.13-04.36.23:415][727]LogEditorViewport: Clicking Background
+[2022.11.13-04.36.56:052][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor131)
+[2022.11.13-04.36.57:300][534]Cmd: TRANSACTION UNDO
+[2022.11.13-04.36.57:300][534]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.13-04.37.11:676][  4]Cmd: TRANSACTION UNDO
+[2022.11.13-04.37.11:676][  4]LogEditorTransaction: Undo Move Actors
+[2022.11.13-04.37.29:627][672]LogEditorViewport: Clicking Background
+[2022.11.13-04.37.31:649][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-04.37.31:671][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.13-04.37.31:767][893]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial625E42FB467AD52212454E86F7B47AED.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.13-04.37.31:780][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.13-04.37.32:316][893]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltDataFD1A053F421155CD9408BCA026B977B9.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.13-04.37.32:359][893]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.13-04.37.32:359][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.13-04.37.32:359][893]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.13-04.38.10:775][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-04.38.10:798][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.13-04.38.10:889][124]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_EspacialA122FFE541B91FFCECD0DE880C8E5148.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.13-04.38.10:896][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.13-04.38.11:441][124]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData9354FDA24875B18F4F31859A1FB29314.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.13-04.38.11:481][124]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.13-04.38.11:481][124]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.13-04.38.11:481][124]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.11.13-04.38.13:273][334]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.11.13-04.38.13:312][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-04.38.13:312][334]PIE: New page: PIE session: Estacion_Espacial (Nov 12, 2022, 4:38:13 PM)
+[2022.11.13-04.38.13:313][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.13-04.38.13:336][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023294s)
+[2022.11.13-04.38.13:337][334]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.13-04.38.13:338][334]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2022.11.13-04.38.13:338][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.025203s)
+[2022.11.13-04.38.13:363][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.13-04.38.13:363][334]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2022.11.13-04.38.13:363][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-04.38.13:363][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-04.38.13:363][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-04.38.13:363][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-04.38.13:364][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-04.38.13:364][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-04.38.13:364][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-04.38.13:364][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-04.38.13:364][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-04.38.13:364][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-04.38.13:364][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-04.38.13:364][334]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-04.38.13:368][334]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-04.38.13:368][334]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-04.38.13:388][334]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.13-04.38.13:389][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-04.38.13:389][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-04.38.13:389][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-04.38.13:389][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-04.38.13:389][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-04.38.13:389][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-04.38.13:391][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-04.38.13:391][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-04.38.13:391][334]LogInit: FAudioDevice initialized.
+[2022.11.13-04.38.13:391][334]LogAudio: Display: Audio Device (ID: 66) registered with world 'Estacion_Espacial'.
+[2022.11.13-04.38.13:446][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-04.38.13:446][334]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.13-04.38.13:458][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.12-22.38.13
+[2022.11.13-04.38.13:458][334]LogWorld: Bringing up level for play took: 0.011355
+[2022.11.13-04.38.13:459][334]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2022.11.13-04.38.13:461][334]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.13-04.38.13:463][334]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.11.13-04.38.13:463][334]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.11.13-04.38.13:463][334]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.11.13-04.38.13:463][334]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.11.13-04.38.13:463][334]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.13-04.38.13:463][334]LogNet: GameNetDriver IpNetDriver_64 IpNetDriver listening on port 17777
+[2022.11.13-04.38.13:466][334]PIE: Server logged in
+[2022.11.13-04.38.13:467][334]PIE: Play in editor total start time 0.157 seconds.
+[2022.11.13-04.38.13:469][334]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-04.38.13:469][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-04.38.13:469][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-04.38.13:470][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-04.38.13:470][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-04.38.13:470][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-04.38.13:470][334]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-04.38.13:473][334]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-04.38.13:473][334]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-04.38.13:487][334]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.11.13-04.38.13:488][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-04.38.13:488][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-04.38.13:488][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-04.38.13:488][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-04.38.13:489][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-04.38.13:489][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-04.38.13:490][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-04.38.13:490][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-04.38.13:490][334]LogInit: FAudioDevice initialized.
+[2022.11.13-04.38.13:490][334]LogAudio: Display: Audio Device (ID: 67) registered with world 'Untitled'.
+[2022.11.13-04.38.13:529][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-04.38.13:529][334]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MenuPrincipal
+[2022.11.13-04.38.13:530][334]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.11.13-04.38.13:530][334]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.11.13-04.38.13:530][334]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.13-04.38.13:530][334]LogNet: Game client on port 17777, rate 100000
+[2022.11.13-04.38.13:532][334]PIE: Client logged in
+[2022.11.13-04.38.13:533][334]PIE: Play in editor total start time 0.223 seconds.
+[2022.11.13-04.38.14:544][423]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56281
+[2022.11.13-04.38.14:544][423]LogHandshake: SendConnectChallenge. Timestamp: 1.280903, Cookie: 120114115120104143178044150101059062219057225021100114055131
+[2022.11.13-04.38.14:546][423]LogHandshake: SendChallengeResponse. Timestamp: 1.280903, Cookie: 120114115120104143178044150101059062219057225021100114055131
+[2022.11.13-04.38.14:553][424]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56281
+[2022.11.13-04.38.14:553][424]LogHandshake: SendChallengeAck. InCookie: 120114115120104143178044150101059062219057225021100114055131
+[2022.11.13-04.38.14:553][424]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56281
+[2022.11.13-04.38.14:553][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.13-04.38.14:553][424]LogNet: NotifyAcceptedConnection: Name: Estacion_Espacial, TimeStamp: 11/12/22 22:38:14, [UNetConnection] RemoteAddr: 127.0.0.1:56281, Name: IpConnection_65, Driver: GameNetDriver IpNetDriver_64, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.13-04.38.14:553][424]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56281, Name: IpConnection_65, Driver: GameNetDriver IpNetDriver_64, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.13-04.38.14:555][424]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_64, Driver: PendingNetDriver IpNetDriver_65, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.13-04.38.14:562][425]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial: Accepted
+[2022.11.13-04.38.14:562][425]LogNet: Remote platform little endian=1
+[2022.11.13-04.38.14:562][425]LogNet: This platform little endian=1
+[2022.11.13-04.38.14:564][425]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2022.11.13-04.38.14:571][426]LogNet: Login request: ?Name=DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2 userId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2 platform: NULL
+[2022.11.13-04.38.14:573][426]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Estacion_Espacial, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2022.11.13-04.38.14:573][426]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Estacion_Espacial?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2022.11.13-04.38.14:573][426]LogWorld: BeginTearingDown for /Temp/Untitled_33
+[2022.11.13-04.38.14:573][426]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-04.38.14:573][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-04.38.14:597][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-04.38.14:600][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.11.13-04.38.14:624][426]LogAudio: Display: Audio Device (ID: 67) registered with world 'Estacion_Espacial'.
+[2022.11.13-04.38.14:625][426]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.11.13-04.38.14:631][426]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.11.12-22.38.14
+[2022.11.13-04.38.14:631][426]LogWorld: Bringing up level for play took: 0.005302
+[2022.11.13-04.38.14:633][426]LogLoad: Took 0.059411 seconds to LoadMap(/Game/Maps/UEDPIE_0_Estacion_Espacial)
+[2022.11.13-04.38.14:633][426]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.11.13-04.38.14:685][427]LogNet: Client netspeed is 100000
+[2022.11.13-04.38.14:685][427]LogNet: Join request: /Game/Maps/MenuPrincipal?Name=DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2?SplitscreenCount=1
+[2022.11.13-04.38.14:685][427]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.11.13-04.38.14:687][427]LogNet: Join succeeded: DESKTOP-3O1OFNC-DDB9
+[2022.11.13-04.38.14:689][427]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.13-04.38.14:705][428]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.11.13-04.38.14:719][429]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.11.13-04.38.25:032][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-04.38.25:032][123]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Estacion_Espacial
+[2022.11.13-04.38.25:034][123]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.11.13-04.38.25:037][123]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-04.38.25:040][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-04.38.25:051][123]LogNet: World NetDriver shutdown IpNetDriver_65 [GameNetDriver]
+[2022.11.13-04.38.25:051][123]LogNet: DestroyNamedNetDriver IpNetDriver_65 [GameNetDriver]
+[2022.11.13-04.38.25:051][123]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_64, Driver: GameNetDriver IpNetDriver_65, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2, Channels: 11, Time: 2022.11.13-04.38.25
+[2022.11.13-04.38.25:051][123]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_64, Driver: GameNetDriver IpNetDriver_65, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2
+[2022.11.13-04.38.25:051][123]LogExit: GameNetDriver IpNetDriver_65 shut down
+[2022.11.13-04.38.25:053][123]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.11.13-04.38.25:053][123]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.11.13-04.38.25:053][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-04.38.25:053][123]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2022.11.13-04.38.25:058][123]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-04.38.25:060][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-04.38.25:069][123]LogNet: World NetDriver shutdown IpNetDriver_64 [GameNetDriver]
+[2022.11.13-04.38.25:069][123]LogNet: DestroyNamedNetDriver IpNetDriver_64 [GameNetDriver]
+[2022.11.13-04.38.25:069][123]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56281, Name: IpConnection_65, Driver: GameNetDriver IpNetDriver_64, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2
+[2022.11.13-04.38.25:069][123]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56281, Name: IpConnection_65, Driver: GameNetDriver IpNetDriver_64, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2, Channels: 11, Time: 2022.11.13-04.38.25
+[2022.11.13-04.38.25:069][123]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56281, Name: IpConnection_65, Driver: GameNetDriver IpNetDriver_64, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-3O1OFNC-DDB9CD07484D0E3941F8C38E9B9E52E2
+[2022.11.13-04.38.25:069][123]LogExit: GameNetDriver IpNetDriver_64 shut down
+[2022.11.13-04.38.25:070][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-04.38.25:075][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-04.38.25:101][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-04.38.25:103][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-04.38.25:107][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-04.38.25:108][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-04.38.25:118][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.11.13-04.38.25:140][124]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2022.11.13-04.38.25:140][124]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.11.13-04.38.26:071][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-04.38.26:095][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.13-04.38.26:178][229]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial9FB084134C0C13A35BC64AB671E745C6.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.11.13-04.38.26:190][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Estacion_Espacial_BuiltData" FILE="../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset" SILENT=true
+[2022.11.13-04.38.26:731][229]LogSavePackage: Moving '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_BuiltData286B3F754C0409D7DD60F284CC98A7DD.tmp' to '../../../../Videojuegos/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial_BuiltData.uasset'
+[2022.11.13-04.38.26:779][229]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.13-04.38.26:779][229]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Estacion_Espacial_BuiltData.Estacion_Espacial_BuiltData
+[2022.11.13-04.38.26:780][229]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
