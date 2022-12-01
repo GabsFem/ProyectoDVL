@@ -10704,3 +10704,1304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-06.30.01:188][636]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonGameMode773790D743C27C28ADBA20BA3AB76A6A.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
 [2022.12.01-06.30.01:207][636]AssetCheck: New page: Asset Save: ThirdPersonGameMode
 [2022.12.01-06.30.01:207][636]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.12.01-06.33.02:766][813]LogRenderer: Reallocating scene render targets to support 1084x592 Format 9 NumSamples 1 (Frame:3424).
+[2022.12.01-06.33.21:588][488]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-06.33.21:595][488]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.12.01-06.33.29:486][488]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.01-06.33.29:505][488]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.01-06.33.29:544][488]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.01-06.33.32:571][667]LogContentBrowser: Attempting asset rename: NewBlueprint -> SaveFile
+[2022.12.01-06.33.32:686][667]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.01-06.33.34:551][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SaveFile.SaveFile
+[2022.12.01-06.33.59:648][148]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.01-06.34.03:047][255]BlueprintLog: New page: Compile SaveFile
+[2022.12.01-06.34.03:124][255]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.12.01-06.34.03:276][255]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/SaveFileD033FE9E41B0410F57B2F2AE887975A0.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/SaveFile.uasset'
+[2022.12.01-06.34.03:528][255]AssetCheck: New page: Asset Save: SaveFile
+[2022.12.01-06.34.03:528][255]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SaveFile.SaveFile
+[2022.12.01-06.34.26:857][492]BlueprintLog: New page: Compile SaveFile
+[2022.12.01-06.34.26:920][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.12.01-06.34.27:061][492]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/SaveFileF267774E462A663C6515BB8688C35663.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/SaveFile.uasset'
+[2022.12.01-06.34.27:082][492]AssetCheck: New page: Asset Save: SaveFile
+[2022.12.01-06.34.27:082][492]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SaveFile.SaveFile
+[2022.12.01-06.35.32:482][283]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.01-06.35.40:237][725]SourceControl: fatal: /Script: '/Script' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-06.37.26:323][984]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.37.26:561][984]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2022.12.01-06.37.27:222][984]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacter69C87B88487AF814C37AFAA443B961E6.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-06.37.27:245][984]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-06.37.27:245][984]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-06.38.01:447][987]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.01-06.38.01:480][987]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-06.39.25:266][344]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2022.12.01-06.39.25:267][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MenuPrincipal' took 0.073
+[2022.12.01-06.39.25:269][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([4] browsable assets)...
+[2022.12.01-06.39.25:280][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.01-06.39.25:291][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.01-06.39.25:291][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.12.01-06.39.25:570][344]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacter_Auto257841DF84CA45D6C736BCBB2DDC82D10.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.12.01-06.39.25:572][344]LogFileHelpers: Auto-saving content packages took 0.303
+[2022.12.01-06.40.53:510][ 18]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.40.53:714][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.12.01-06.40.54:292][ 18]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacter30053BF8485C4056D33FE29A065D94DB.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-06.40.54:312][ 18]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-06.40.54:312][ 18]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-06.41.13:656][946]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.41.13:873][946]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2022.12.01-06.41.14:513][946]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacterCD6FB6CB4A15C0F74B55A1A1A5C24FF2.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-06.41.14:535][946]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-06.41.14:535][946]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-06.44.53:023][986]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.44.53:089][986]LogBlueprint: Error: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SaveFile_C, therefore ' Target ' must have a connection.
+[2022.12.01-06.44.53:089][986]LogBlueprint: Error: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SaveFile_C, therefore ' Target ' must have a connection.
+[2022.12.01-06.44.53:094][986]LogBlueprint: Error: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Variable node  Set AmountFA  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.01-06.44.53:098][986]LogBlueprint: Error: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Variable node  Set HP  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.01-06.44.53:236][986]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2022.12.01-06.44.59:366][316]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.44.59:572][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.12.01-06.45.00:218][316]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacterB0D9AD7F4228D5C9FD1C809AA2A08A3A.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-06.45.00:240][316]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-06.45.00:240][316]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-06.46.01:041][298]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-06.46.01:274][298]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2022.12.01-06.46.01:924][298]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacterF912AE6043DE26F35C1E4FA7BB258177.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-06.46.01:954][298]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-06.46.01:954][298]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-06.46.28:079][567]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.46.28:079][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.12:576][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.12.01-06.47.13:707][223]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-06.47.13:938][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2022.12.01-06.47.13:948][223]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Streaming1941374534763298DBD0B2E982AAE4991.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Streaming1.umap'
+[2022.12.01-06.47.13:952][223]LogFileHelpers: Saving map 'Streaming1' took 0.077
+[2022.12.01-06.47.14:067][223]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.12.01-06.47.14:067][223]Cmd: MAP LOAD FILE="../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-06.47.14:067][223]LightingResults: New page: Lighting Build
+[2022.12.01-06.47.14:069][223]LoadErrors: New page: Loading map: Estacion_Espacial.umap
+[2022.12.01-06.47.14:093][223]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.47.14:093][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.14:094][223]MapCheck: New page: Map Check
+[2022.12.01-06.47.14:094][223]LightingResults: New page: Lighting Build
+[2022.12.01-06.47.14:151][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-06.47.14:158][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.12.01-06.47.14:219][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.12.01-06.47.14:279][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.12.01-06.47.14:279][223]LogAudio: Display: Audio Device (ID: 1) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.47.14:317][223]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Streaming2) is flushing async loading
+[2022.12.01-06.47.14:317][223]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.12.01-06.47.14:325][223]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Streaming1) is flushing async loading
+[2022.12.01-06.47.14:635][223]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-06.47.14:635][223]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.47.14:700][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.12.01-06.47.14:710][223]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-06.47.14:710][223]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.12.01-06.47.14:710][223]LogFileHelpers: Loading map 'Estacion_Espacial' took 0.643
+[2022.12.01-06.47.14:751][223]AssetCheck: New page: Asset Save: Streaming1
+[2022.12.01-06.47.14:751][223]LogContentValidation: Display: Validating World /Game/Maps/Streaming1.Streaming1
+[2022.12.01-06.47.17:948][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-06.47.17:969][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-06.47.17:969][413]PIE: New page: PIE session: Estacion_Espacial (Nov 30, 2022, 6:47:17 PM)
+[2022.12.01-06.47.17:969][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.47.18:003][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034835s)
+[2022.12.01-06.47.18:004][413]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.47.18:005][413]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2022.12.01-06.47.18:005][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.036836s)
+[2022.12.01-06.47.18:064][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.12.01-06.47.18:066][413]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.47.18:066][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.47.18:067][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.47.18:067][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.47.18:067][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.47.18:067][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.47.18:067][413]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.47.18:072][413]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.47.18:072][413]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.47.18:088][413]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.47.18:089][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.47.18:089][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.47.18:089][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.47.18:090][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.47.18:090][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.47.18:090][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.47.18:091][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.47.18:091][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.47.18:091][413]LogInit: FAudioDevice initialized.
+[2022.12.01-06.47.18:091][413]LogAudio: Display: Audio Device (ID: 72) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.47.18:124][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.47.18:125][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.01-06.47.18:142][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.47.18
+[2022.12.01-06.47.18:143][413]LogWorld: Bringing up level for play took: 0.017425
+[2022.12.01-06.47.18:144][413]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2022.12.01-06.47.18:148][413]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.47.18:180][413]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.12.01-06.47.18:180][413]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.12.01-06.47.18:180][413]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.12.01-06.47.18:180][413]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.12.01-06.47.18:180][413]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.47.18:181][413]LogNet: GameNetDriver IpNetDriver_71 IpNetDriver listening on port 17777
+[2022.12.01-06.47.18:184][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.47.18:184][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.47.18:192][413]PIE: Server logged in
+[2022.12.01-06.47.18:195][413]PIE: Play in editor total start time 0.237 seconds.
+[2022.12.01-06.47.18:197][413]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.47.18:197][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.47.18:197][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.47.18:198][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.47.18:198][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.47.18:198][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.47.18:198][413]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.47.18:204][413]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.47.18:204][413]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.47.18:219][413]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.47.18:219][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.47.18:220][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.47.18:220][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.47.18:221][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.47.18:221][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.47.18:221][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.47.18:223][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.47.18:223][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.47.18:223][413]LogInit: FAudioDevice initialized.
+[2022.12.01-06.47.18:223][413]LogAudio: Display: Audio Device (ID: 73) registered with world 'Untitled'.
+[2022.12.01-06.47.18:261][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.47.18:261][413]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MenuPrincipal
+[2022.12.01-06.47.18:262][413]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.12.01-06.47.18:262][413]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.12.01-06.47.18:262][413]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.47.18:262][413]LogNet: Game client on port 17777, rate 100000
+[2022.12.01-06.47.18:265][413]PIE: Client logged in
+[2022.12.01-06.47.18:268][413]PIE: Play in editor total start time 0.311 seconds.
+[2022.12.01-06.47.19:288][465]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50142
+[2022.12.01-06.47.19:288][465]LogHandshake: SendConnectChallenge. Timestamp: 1.355304, Cookie: 042084060183091106080027188225188051075148022006137155102167
+[2022.12.01-06.47.19:291][465]LogHandshake: SendChallengeResponse. Timestamp: 1.355304, Cookie: 042084060183091106080027188225188051075148022006137155102167
+[2022.12.01-06.47.19:305][466]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50142
+[2022.12.01-06.47.19:305][466]LogHandshake: SendChallengeAck. InCookie: 042084060183091106080027188225188051075148022006137155102167
+[2022.12.01-06.47.19:306][466]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50142
+[2022.12.01-06.47.19:306][466]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.47.19:306][466]LogNet: NotifyAcceptedConnection: Name: Estacion_Espacial, TimeStamp: 12/01/22 00:47:19, [UNetConnection] RemoteAddr: 127.0.0.1:50142, Name: IpConnection_71, Driver: GameNetDriver IpNetDriver_71, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.47.19:306][466]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50142, Name: IpConnection_71, Driver: GameNetDriver IpNetDriver_71, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.47.19:308][466]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_70, Driver: PendingNetDriver IpNetDriver_72, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.47.19:321][467]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial: Accepted
+[2022.12.01-06.47.19:322][467]LogNet: Remote platform little endian=1
+[2022.12.01-06.47.19:322][467]LogNet: This platform little endian=1
+[2022.12.01-06.47.19:325][467]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2022.12.01-06.47.19:339][468]LogNet: Login request: ?Name=LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A userId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A platform: NULL
+[2022.12.01-06.47.19:341][468]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Estacion_Espacial, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2022.12.01-06.47.19:341][468]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Estacion_Espacial?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2022.12.01-06.47.19:341][468]LogWorld: BeginTearingDown for /Temp/Untitled_38
+[2022.12.01-06.47.19:341][468]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.47.19:342][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.19:398][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-06.47.19:403][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.12.01-06.47.19:438][468]LogAudio: Display: Audio Device (ID: 73) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.47.19:439][468]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.47.19:447][468]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.47.19
+[2022.12.01-06.47.19:448][468]LogWorld: Bringing up level for play took: 0.006768
+[2022.12.01-06.47.19:449][468]LogLoad: Took 0.108004 seconds to LoadMap(/Game/Maps/UEDPIE_0_Estacion_Espacial)
+[2022.12.01-06.47.19:449][468]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.01-06.47.19:496][469]LogNet: Client netspeed is 100000
+[2022.12.01-06.47.19:496][469]LogNet: Join request: /Game/Maps/MenuPrincipal?Name=LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A?SplitscreenCount=1
+[2022.12.01-06.47.19:497][469]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.47.19:500][469]LogNet: Join succeeded: LAPTOP-74NAGPRS-E8D4
+[2022.12.01-06.47.19:503][469]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.47.19:557][470]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.47.19:559][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.47.19:559][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.47.19:560][470]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.47.22:419][631]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_0 NOT Supported.
+[2022.12.01-06.47.22:640][643]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.12.01-06.47.22:972][661]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.47.23:193][673]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.47.23:416][685]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.12.01-06.47.23:417][685]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.47.23:417][685]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.47.23:548][692]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.47.23:620][696]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.47.23:620][696]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.47.23:620][696]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.47.23:792][705]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.12.01-06.47.23:966][715]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.47.23:966][715]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.47.23:966][715]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.12.01-06.47.24:180][727]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.47.24:181][727]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.12.01-06.47.24:524][746]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.12.01-06.47.28:904][991]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.12.01-06.47.29:233][  9]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.12.01-06.47.29:889][ 44]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.12.01-06.47.31:310][125]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.47.31:352][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.47.31:778][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.47.33:739][261]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_8 NOT Supported.
+[2022.12.01-06.47.34:070][279]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_9 NOT Supported.
+[2022.12.01-06.47.34:293][291]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.47.34:756][317]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_9 NOT Supported.
+[2022.12.01-06.47.34:756][317]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.47.35:074][335]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.47.36:626][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.47.37:155][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.47.48:090][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.47.48:091][ 68]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Estacion_Espacial
+[2022.12.01-06.47.48:091][ 68]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.47.48:096][ 68]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.47.48:099][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.48:109][ 68]LogNet: World NetDriver shutdown IpNetDriver_72 [GameNetDriver]
+[2022.12.01-06.47.48:109][ 68]LogNet: DestroyNamedNetDriver IpNetDriver_72 [GameNetDriver]
+[2022.12.01-06.47.48:109][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_70, Driver: GameNetDriver IpNetDriver_72, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A, Channels: 19, Time: 2022.12.01-06.47.48
+[2022.12.01-06.47.48:109][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_70, Driver: GameNetDriver IpNetDriver_72, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A
+[2022.12.01-06.47.48:109][ 68]LogExit: GameNetDriver IpNetDriver_72 shut down
+[2022.12.01-06.47.48:110][ 68]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.47.48:111][ 68]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.12.01-06.47.48:111][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.47.48:111][ 68]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.47.48:122][ 68]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.47.48:125][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.48:139][ 68]LogNet: World NetDriver shutdown IpNetDriver_71 [GameNetDriver]
+[2022.12.01-06.47.48:139][ 68]LogNet: DestroyNamedNetDriver IpNetDriver_71 [GameNetDriver]
+[2022.12.01-06.47.48:140][ 68]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50142, Name: IpConnection_71, Driver: GameNetDriver IpNetDriver_71, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A
+[2022.12.01-06.47.48:140][ 68]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50142, Name: IpConnection_71, Driver: GameNetDriver IpNetDriver_71, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A, Channels: 19, Time: 2022.12.01-06.47.48
+[2022.12.01-06.47.48:140][ 68]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50142, Name: IpConnection_71, Driver: GameNetDriver IpNetDriver_71, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-E8D4FA2B4209E9547A2FC59110474A1A
+[2022.12.01-06.47.48:140][ 68]LogExit: GameNetDriver IpNetDriver_71 shut down
+[2022.12.01-06.47.48:141][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-06.47.48:156][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.47.48:233][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.47.48:235][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.47.48:244][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.47.48:246][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.47.48:272][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2022.12.01-06.47.48:303][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2022.12.01-06.47.48:303][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.12.01-06.47.48:363][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.12.01-06.47.52:259][269]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.01-06.48.16:803][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-06.48.16:822][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-06.48.16:822][704]PIE: New page: PIE session: Estacion_Espacial (Nov 30, 2022, 6:48:16 PM)
+[2022.12.01-06.48.16:822][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.48.16:855][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033326s)
+[2022.12.01-06.48.16:857][704]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.48.16:857][704]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2022.12.01-06.48.16:857][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.035152s)
+[2022.12.01-06.48.16:914][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.12.01-06.48.16:918][704]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.48.16:918][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.48.16:918][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.48.16:919][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.48.16:919][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.48.16:919][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.48.16:919][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.48.16:924][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.48.16:924][704]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.48.16:940][704]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.48.16:941][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.48.16:941][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.48.16:941][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.48.16:941][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.48.16:941][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.48.16:941][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.48.16:943][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.48.16:943][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.48.16:943][704]LogInit: FAudioDevice initialized.
+[2022.12.01-06.48.16:943][704]LogAudio: Display: Audio Device (ID: 74) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.48.16:971][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.16:971][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.01-06.48.16:987][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.48.16
+[2022.12.01-06.48.16:988][704]LogWorld: Bringing up level for play took: 0.014816
+[2022.12.01-06.48.16:988][704]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.12.01-06.48.16:991][704]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.48.17:027][704]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.12.01-06.48.17:027][704]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.12.01-06.48.17:028][704]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.12.01-06.48.17:028][704]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.12.01-06.48.17:028][704]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.17:028][704]LogNet: GameNetDriver IpNetDriver_73 IpNetDriver listening on port 17777
+[2022.12.01-06.48.17:032][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.17:032][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.17:042][704]PIE: Server logged in
+[2022.12.01-06.48.17:043][704]PIE: Play in editor total start time 0.231 seconds.
+[2022.12.01-06.48.17:046][704]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.48.17:046][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.48.17:046][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.48.17:047][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.48.17:047][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.48.17:047][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.48.17:047][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.48.17:053][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.48.17:053][704]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.48.17:069][704]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.48.17:069][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.48.17:069][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.48.17:070][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.48.17:070][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.48.17:070][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.48.17:070][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.48.17:071][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.48.17:071][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.48.17:071][704]LogInit: FAudioDevice initialized.
+[2022.12.01-06.48.17:071][704]LogAudio: Display: Audio Device (ID: 75) registered with world 'Untitled'.
+[2022.12.01-06.48.17:107][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.17:107][704]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MenuPrincipal
+[2022.12.01-06.48.17:108][704]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.12.01-06.48.17:108][704]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.12.01-06.48.17:108][704]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.17:108][704]LogNet: Game client on port 17777, rate 100000
+[2022.12.01-06.48.17:111][704]PIE: Client logged in
+[2022.12.01-06.48.17:114][704]PIE: Play in editor total start time 0.301 seconds.
+[2022.12.01-06.48.18:141][757]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62952
+[2022.12.01-06.48.18:141][757]LogHandshake: SendConnectChallenge. Timestamp: 1.350743, Cookie: 047069221035102153185250056213113097142210235135036172136124
+[2022.12.01-06.48.18:143][757]LogHandshake: SendChallengeResponse. Timestamp: 1.350743, Cookie: 047069221035102153185250056213113097142210235135036172136124
+[2022.12.01-06.48.18:156][758]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62952
+[2022.12.01-06.48.18:156][758]LogHandshake: SendChallengeAck. InCookie: 047069221035102153185250056213113097142210235135036172136124
+[2022.12.01-06.48.18:157][758]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62952
+[2022.12.01-06.48.18:157][758]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.18:157][758]LogNet: NotifyAcceptedConnection: Name: Estacion_Espacial, TimeStamp: 12/01/22 00:48:18, [UNetConnection] RemoteAddr: 127.0.0.1:62952, Name: IpConnection_73, Driver: GameNetDriver IpNetDriver_73, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.18:157][758]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62952, Name: IpConnection_73, Driver: GameNetDriver IpNetDriver_73, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.18:159][758]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_72, Driver: PendingNetDriver IpNetDriver_74, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.18:173][759]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial: Accepted
+[2022.12.01-06.48.18:173][759]LogNet: Remote platform little endian=1
+[2022.12.01-06.48.18:173][759]LogNet: This platform little endian=1
+[2022.12.01-06.48.18:175][759]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2022.12.01-06.48.18:189][760]LogNet: Login request: ?Name=LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC userId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC platform: NULL
+[2022.12.01-06.48.18:192][760]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Estacion_Espacial, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2022.12.01-06.48.18:192][760]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Estacion_Espacial?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2022.12.01-06.48.18:192][760]LogWorld: BeginTearingDown for /Temp/Untitled_39
+[2022.12.01-06.48.18:192][760]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.18:192][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.18:252][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-06.48.18:257][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.12.01-06.48.18:296][760]LogAudio: Display: Audio Device (ID: 75) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.48.18:297][760]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.48.18:307][760]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.48.18
+[2022.12.01-06.48.18:308][760]LogWorld: Bringing up level for play took: 0.007896
+[2022.12.01-06.48.18:310][760]LogLoad: Took 0.118202 seconds to LoadMap(/Game/Maps/UEDPIE_0_Estacion_Espacial)
+[2022.12.01-06.48.18:310][760]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.01-06.48.18:365][761]LogNet: Client netspeed is 100000
+[2022.12.01-06.48.18:366][761]LogNet: Join request: /Game/Maps/MenuPrincipal?Name=LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC?SplitscreenCount=1
+[2022.12.01-06.48.18:366][761]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.18:369][761]LogNet: Join succeeded: LAPTOP-74NAGPRS-3AB1
+[2022.12.01-06.48.18:373][761]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.48.18:427][762]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.18:430][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.18:430][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.18:432][762]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.20:243][862]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_0 NOT Supported.
+[2022.12.01-06.48.20:474][875]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.12.01-06.48.20:806][893]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.48.21:047][906]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.48.21:266][918]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.12.01-06.48.21:266][918]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.48.21:266][918]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.48.21:381][924]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.48.21:467][929]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.12.01-06.48.21:467][929]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.48.21:467][929]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.48.21:793][948]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.12.01-06.48.21:793][948]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.48.22:036][962]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.12.01-06.48.26:116][192]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.12.01-06.48.26:360][206]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.12.01-06.48.26:682][223]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.12.01-06.48.27:083][245]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.12.01-06.48.27:083][245]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.12.01-06.48.27:344][260]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.12.01-06.48.28:664][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.48.30:494][437]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_8 NOT Supported.
+[2022.12.01-06.48.30:735][450]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_9 NOT Supported.
+[2022.12.01-06.48.31:055][468]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.48.31:301][482]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_11 NOT Supported.
+[2022.12.01-06.48.31:486][492]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_9 NOT Supported.
+[2022.12.01-06.48.31:486][492]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.48.31:486][492]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_11 NOT Supported.
+[2022.12.01-06.48.31:749][507]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_10 NOT Supported.
+[2022.12.01-06.48.31:749][507]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_11 NOT Supported.
+[2022.12.01-06.48.32:042][522]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_11 NOT Supported.
+[2022.12.01-06.48.33:970][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.48.34:325][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.48.35:150][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: ThirdPersonCharacter1
+[2022.12.01-06.48.36:800][784]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial:PersistentLevel.ThirdPersonCharacter_C_0.ParticleSystemComponent_12 NOT Supported.
+[2022.12.01-06.48.41:449][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.41:449][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Estacion_Espacial
+[2022.12.01-06.48.41:451][ 48]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.48.41:465][ 48]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.41:468][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.41:479][ 48]LogNet: World NetDriver shutdown IpNetDriver_74 [GameNetDriver]
+[2022.12.01-06.48.41:479][ 48]LogNet: DestroyNamedNetDriver IpNetDriver_74 [GameNetDriver]
+[2022.12.01-06.48.41:479][ 48]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_72, Driver: GameNetDriver IpNetDriver_74, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC, Channels: 20, Time: 2022.12.01-06.48.41
+[2022.12.01-06.48.41:479][ 48]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_72, Driver: GameNetDriver IpNetDriver_74, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC
+[2022.12.01-06.48.41:480][ 48]LogExit: GameNetDriver IpNetDriver_74 shut down
+[2022.12.01-06.48.41:481][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.48.41:482][ 48]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.12.01-06.48.41:482][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.41:482][ 48]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.48.41:495][ 48]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.41:501][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.41:514][ 48]LogNet: World NetDriver shutdown IpNetDriver_73 [GameNetDriver]
+[2022.12.01-06.48.41:515][ 48]LogNet: DestroyNamedNetDriver IpNetDriver_73 [GameNetDriver]
+[2022.12.01-06.48.41:515][ 48]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62952, Name: IpConnection_73, Driver: GameNetDriver IpNetDriver_73, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC
+[2022.12.01-06.48.41:515][ 48]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62952, Name: IpConnection_73, Driver: GameNetDriver IpNetDriver_73, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC, Channels: 20, Time: 2022.12.01-06.48.41
+[2022.12.01-06.48.41:515][ 48]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62952, Name: IpConnection_73, Driver: GameNetDriver IpNetDriver_73, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-3AB1A9CB4CC77D62191A7E9C5862E3DC
+[2022.12.01-06.48.41:516][ 48]LogExit: GameNetDriver IpNetDriver_73 shut down
+[2022.12.01-06.48.41:517][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-06.48.41:530][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.41:601][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-06.48.41:604][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.41:605][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.41:612][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.41:615][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.41:636][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.12.01-06.48.41:667][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.12.01-06.48.41:667][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.12.01-06.48.41:725][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.12.01-06.48.45:109][248]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-06.48.45:127][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-06.48.45:127][248]PIE: New page: PIE session: Estacion_Espacial (Nov 30, 2022, 6:48:45 PM)
+[2022.12.01-06.48.45:127][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.48.45:161][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033481s)
+[2022.12.01-06.48.45:162][248]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.48.45:163][248]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2022.12.01-06.48.45:163][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.035391s)
+[2022.12.01-06.48.45:219][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.12.01-06.48.45:220][248]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.12.01-06.48.45:220][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.48.45:220][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.48.45:220][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.48.45:221][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.48.45:221][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.48.45:221][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.48.45:221][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.48.45:221][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.48.45:221][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.48.45:221][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.48.45:221][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.48.45:221][248]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.48.45:226][248]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.48.45:226][248]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.48.45:244][248]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.48.45:244][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.48.45:244][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.48.45:245][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.48.45:245][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.48.45:245][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.48.45:245][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.48.45:246][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.48.45:247][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.48.45:247][248]LogInit: FAudioDevice initialized.
+[2022.12.01-06.48.45:247][248]LogAudio: Display: Audio Device (ID: 76) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.48.45:277][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.45:277][248]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.01-06.48.45:293][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.48.45
+[2022.12.01-06.48.45:294][248]LogWorld: Bringing up level for play took: 0.015725
+[2022.12.01-06.48.45:295][248]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2022.12.01-06.48.45:299][248]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.48.45:335][248]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.12.01-06.48.45:335][248]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.12.01-06.48.45:335][248]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.12.01-06.48.45:335][248]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.12.01-06.48.45:336][248]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.45:336][248]LogNet: GameNetDriver IpNetDriver_75 IpNetDriver listening on port 17777
+[2022.12.01-06.48.45:339][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.45:339][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.45:346][248]PIE: Server logged in
+[2022.12.01-06.48.45:348][248]PIE: Play in editor total start time 0.229 seconds.
+[2022.12.01-06.48.45:349][248]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.12.01-06.48.45:349][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-06.48.45:349][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-06.48.45:349][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-06.48.45:349][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-06.48.45:349][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-06.48.45:350][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-06.48.45:350][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-06.48.45:350][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-06.48.45:351][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-06.48.45:351][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-06.48.45:351][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-06.48.45:351][248]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-06.48.45:357][248]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-06.48.45:357][248]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-06.48.45:371][248]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-06.48.45:371][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-06.48.45:371][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-06.48.45:371][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-06.48.45:372][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-06.48.45:372][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-06.48.45:372][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-06.48.45:374][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-06.48.45:374][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-06.48.45:374][248]LogInit: FAudioDevice initialized.
+[2022.12.01-06.48.45:374][248]LogAudio: Display: Audio Device (ID: 77) registered with world 'Untitled'.
+[2022.12.01-06.48.45:421][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.45:423][248]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MenuPrincipal
+[2022.12.01-06.48.45:423][248]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.12.01-06.48.45:424][248]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.12.01-06.48.45:424][248]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.45:424][248]LogNet: Game client on port 17777, rate 100000
+[2022.12.01-06.48.45:427][248]PIE: Client logged in
+[2022.12.01-06.48.45:430][248]PIE: Play in editor total start time 0.312 seconds.
+[2022.12.01-06.48.46:452][301]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50737
+[2022.12.01-06.48.46:453][301]LogHandshake: SendConnectChallenge. Timestamp: 1.358013, Cookie: 046075012019161084162022017107045205204233139144174205202167
+[2022.12.01-06.48.46:455][301]LogHandshake: SendChallengeResponse. Timestamp: 1.358013, Cookie: 046075012019161084162022017107045205204233139144174205202167
+[2022.12.01-06.48.46:469][302]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50737
+[2022.12.01-06.48.46:470][302]LogHandshake: SendChallengeAck. InCookie: 046075012019161084162022017107045205204233139144174205202167
+[2022.12.01-06.48.46:470][302]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50737
+[2022.12.01-06.48.46:470][302]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-06.48.46:470][302]LogNet: NotifyAcceptedConnection: Name: Estacion_Espacial, TimeStamp: 12/01/22 00:48:46, [UNetConnection] RemoteAddr: 127.0.0.1:50737, Name: IpConnection_75, Driver: GameNetDriver IpNetDriver_75, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.46:471][302]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50737, Name: IpConnection_75, Driver: GameNetDriver IpNetDriver_75, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.46:473][302]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_74, Driver: PendingNetDriver IpNetDriver_76, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-06.48.46:486][303]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial: Accepted
+[2022.12.01-06.48.46:486][303]LogNet: Remote platform little endian=1
+[2022.12.01-06.48.46:486][303]LogNet: This platform little endian=1
+[2022.12.01-06.48.46:488][303]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2022.12.01-06.48.46:501][304]LogNet: Login request: ?Name=LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443 userId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443 platform: NULL
+[2022.12.01-06.48.46:504][304]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Estacion_Espacial, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2022.12.01-06.48.46:505][304]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Estacion_Espacial?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2022.12.01-06.48.46:505][304]LogWorld: BeginTearingDown for /Temp/Untitled_40
+[2022.12.01-06.48.46:505][304]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.46:505][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.46:560][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-06.48.46:566][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.12.01-06.48.46:602][304]LogAudio: Display: Audio Device (ID: 77) registered with world 'Estacion_Espacial'.
+[2022.12.01-06.48.46:603][304]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-06.48.46:612][304]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 60) at 2022.12.01-00.48.46
+[2022.12.01-06.48.46:612][304]LogWorld: Bringing up level for play took: 0.007453
+[2022.12.01-06.48.46:614][304]LogLoad: Took 0.108754 seconds to LoadMap(/Game/Maps/UEDPIE_0_Estacion_Espacial)
+[2022.12.01-06.48.46:614][304]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.01-06.48.46:662][305]LogNet: Client netspeed is 100000
+[2022.12.01-06.48.46:662][305]LogNet: Join request: /Game/Maps/MenuPrincipal?Name=LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443?SplitscreenCount=1
+[2022.12.01-06.48.46:662][305]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.46:665][305]LogNet: Join succeeded: LAPTOP-74NAGPRS-0AAC
+[2022.12.01-06.48.46:669][305]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-06.48.46:720][306]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.46:723][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.46:723][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-06.48.46:724][306]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-06.48.54:445][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.54:445][739]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Estacion_Espacial
+[2022.12.01-06.48.54:446][739]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.48.54:459][739]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.54:462][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.54:477][739]LogNet: World NetDriver shutdown IpNetDriver_76 [GameNetDriver]
+[2022.12.01-06.48.54:477][739]LogNet: DestroyNamedNetDriver IpNetDriver_76 [GameNetDriver]
+[2022.12.01-06.48.54:477][739]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_74, Driver: GameNetDriver IpNetDriver_76, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443, Channels: 20, Time: 2022.12.01-06.48.54
+[2022.12.01-06.48.54:478][739]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_74, Driver: GameNetDriver IpNetDriver_76, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443
+[2022.12.01-06.48.54:478][739]LogExit: GameNetDriver IpNetDriver_76 shut down
+[2022.12.01-06.48.54:480][739]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-06.48.54:481][739]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.12.01-06.48.54:481][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-06.48.54:481][739]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2022.12.01-06.48.54:496][739]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.48.54:500][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.54:512][739]LogNet: World NetDriver shutdown IpNetDriver_75 [GameNetDriver]
+[2022.12.01-06.48.54:512][739]LogNet: DestroyNamedNetDriver IpNetDriver_75 [GameNetDriver]
+[2022.12.01-06.48.54:512][739]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50737, Name: IpConnection_75, Driver: GameNetDriver IpNetDriver_75, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443
+[2022.12.01-06.48.54:513][739]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50737, Name: IpConnection_75, Driver: GameNetDriver IpNetDriver_75, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443, Channels: 20, Time: 2022.12.01-06.48.54
+[2022.12.01-06.48.54:513][739]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50737, Name: IpConnection_75, Driver: GameNetDriver IpNetDriver_75, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-0AAC6B3C46F06B4F7BDE2CA68779A443
+[2022.12.01-06.48.54:513][739]LogExit: GameNetDriver IpNetDriver_75 shut down
+[2022.12.01-06.48.54:515][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-06.48.54:527][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.48.54:603][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.54:605][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.54:610][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.54:613][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-06.48.54:633][739]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2022.12.01-06.48.54:664][740]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2022.12.01-06.48.54:665][740]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2022.12.01-06.48.54:723][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.12.01-06.50.37:393][286]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.50.37:393][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.50.40:082][440]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.01-06.50.40:082][440]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-06.50.40:082][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-06.51.14:147][130]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.01-06.59.44:187][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor79)
+[2022.12.01-06.59.47:709][315]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.12.01-07.03.13:540][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor78)
+[2022.12.01-07.03.14:836][280]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.12.01-07.04.16:477][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.12.01-07.04.16:661][ 80]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_Auto338FB1F4941BBF49C36D6E280311254C3.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Maps/Estacion_Espacial_Auto3.umap'
+[2022.12.01-07.04.16:664][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Estacion_Espacial' took 0.269
+[2022.12.01-07.04.16:665][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.269
+[2022.12.01-07.07.51:217][188]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.12.01-07.08.56:142][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared3)
+[2022.12.01-07.09.12:427][990]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.12.01-07.09.25:405][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.12.01-07.09.27:415][ 92]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.09.33:547][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2022.12.01-07.10.24:179][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (alarmlamp7)
+[2022.12.01-07.10.28:478][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (alarmlamp7)
+[2022.12.01-07.10.34:480][ 51]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.12.01-07.10.47:071][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.48:405][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.49:129][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.49:681][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.50:179][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.50:736][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.10.50:938][218]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.12.01-07.10.54:110][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared43)
+[2022.12.01-07.10.56:182][582]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.11.03:569][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.12.01-07.11.12:022][709]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.11.19:878][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared35)
+[2022.12.01-07.11.21:702][378]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.11.24:105][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (alarmlamp6)
+[2022.12.01-07.11.34:562][267]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.12.01-07.11.41:510][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.11.42:015][781]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.11.53:410][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.12.01-07.11.57:013][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.11.58:429][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.06:553][561]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.12.01-07.12.19:403][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.20:316][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.20:788][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.21:251][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.21:794][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor95)
+[2022.12.01-07.12.22:325][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared42)
+[2022.12.01-07.12.23:312][772]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.12.29:643][202]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.12.01-07.12.49:157][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared32)
+[2022.12.01-07.12.52:264][804]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2022.12.01-07.13.05:706][786]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.12.01-07.13.10:842][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared50)
+[2022.12.01-07.13.14:297][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared50)
+[2022.12.01-07.13.14:859][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared50)
+[2022.12.01-07.13.15:340][480]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.12.01-07.13.15:414][481]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor97)
+[2022.12.01-07.13.16:229][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared50)
+[2022.12.01-07.13.16:856][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared51)
+[2022.12.01-07.13.17:389][605]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.12.01-07.13.39:250][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.12.01-07.14.10:381][424]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.12.01-07.14.38:951][470]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.12.01-07.14.39:117][470]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial_Auto4111A7BB64726A794C6644BBFA4A6F288.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Autosaves/Game/Maps/Estacion_Espacial_Auto4.umap'
+[2022.12.01-07.14.39:119][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Estacion_Espacial' took 0.231
+[2022.12.01-07.14.39:119][470]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.231
+[2022.12.01-07.14.50:641][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared66)
+[2022.12.01-07.14.51:927][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor84)
+[2022.12.01-07.14.53:063][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor84)
+[2022.12.01-07.14.53:597][508]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.12.01-07.15.00:540][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.12.01-07.15.02:012][ 95]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.12.01-07.15.10:205][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor60)
+[2022.12.01-07.15.13:123][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2022.12.01-07.15.13:594][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2022.12.01-07.15.14:427][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2022.12.01-07.15.14:858][ 35]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2022.12.01-07.15.20:051][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.12.01-07.15.22:595][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2022.12.01-07.15.23:574][669]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2022.12.01-07.15.35:532][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.12.01-07.15.36:963][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2022.12.01-07.15.37:734][761]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2022.12.01-07.15.54:486][885]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.12.01-07.16.04:844][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor60)
+[2022.12.01-07.16.08:548][949]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.12.01-07.16.19:370][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor64)
+[2022.12.01-07.16.21:050][926]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.12.01-07.16.26:696][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor64)
+[2022.12.01-07.16.28:107][495]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.12.01-07.16.32:593][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor21)
+[2022.12.01-07.16.33:778][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor102)
+[2022.12.01-07.16.34:274][962]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.12.01-07.16.48:290][993]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2022.12.01-07.16.55:794][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor34)
+[2022.12.01-07.16.56:929][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor126)
+[2022.12.01-07.16.57:652][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor126)
+[2022.12.01-07.16.58:043][762]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2022.12.01-07.16.58:108][763]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor126)
+[2022.12.01-07.16.59:657][873]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2022.12.01-07.17.09:681][597]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.12.01-07.17.17:084][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor38)
+[2022.12.01-07.17.18:385][284]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.12.01-07.17.23:864][674]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2022.12.01-07.17.31:405][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor40)
+[2022.12.01-07.17.37:203][692]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2022.12.01-07.17.46:917][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor46)
+[2022.12.01-07.17.50:786][767]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2022.12.01-07.17.56:631][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor39)
+[2022.12.01-07.17.57:829][300]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2022.12.01-07.18.01:444][546]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.12.01-07.18.06:322][887]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (_fire_ps)
+[2022.12.01-07.18.07:356][962]Cmd: DELETE
+[2022.12.01-07.18.07:357][962]Cmd: ACTOR DELETE
+[2022.12.01-07.18.07:371][962]LogEditorActor: Deleted Actor: NiagaraActor
+[2022.12.01-07.18.07:429][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.01-07.18.07:439][962]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2022.12.01-07.18.13:615][539]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight22)
+[2022.12.01-07.18.21:264][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor51)
+[2022.12.01-07.18.22:542][284]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight22)
+[2022.12.01-07.18.26:711][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared129)
+[2022.12.01-07.18.29:307][776]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2022.12.01-07.18.37:042][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared129)
+[2022.12.01-07.18.38:554][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (elevator_Elevator_00_Single_Platform1)
+[2022.12.01-07.18.39:137][615]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight22)
+[2022.12.01-07.18.43:685][958]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight12)
+[2022.12.01-07.18.48:067][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared115)
+[2022.12.01-07.18.58:403][161]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2022.12.01-07.19.03:768][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared123)
+[2022.12.01-07.19.05:027][715]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2022.12.01-07.19.09:019][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor42)
+[2022.12.01-07.19.09:044][ 43]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.12.01-07.19.34:002][ 99]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.01-07.19.42:742][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared127)
+[2022.12.01-07.19.45:146][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared127)
+[2022.12.01-07.19.51:396][572]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2022.12.01-07.20.17:259][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pared127)
+[2022.12.01-07.20.24:165][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.01-07.20.25:105][281]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-07.20.25:340][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.01-07.20.25:495][281]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_EspacialF8883EBB46F96BA7EBD2B085F023DF28.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.12.01-07.20.25:509][281]LogFileHelpers: Saving map 'Estacion_Espacial' took 0.218
+[2022.12.01-07.20.25:559][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.12.01-07.20.25:565][281]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Streaming28F31678C478DF5F1430CBEBA9BEEDA12.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Streaming2.umap'
+[2022.12.01-07.20.25:566][281]LogFileHelpers: Saving map 'Streaming2' took 0.058
+[2022.12.01-07.20.25:585][281]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-07.20.25:585][281]LogContentValidation: Display: Validating World /Game/Maps/Streaming2.Streaming2
+[2022.12.01-07.20.25:585][281]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.12.01-07.21.18:555][152]LogMaterial: Display: Missing cached shadermap for m_fire in PCD3D_SM5, Default, SM5 (DDC key hash: 1013207C2F81199641F196C060D695FD532A646D), compiling. 
+[2022.12.01-07.21.18:681][152]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 68
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.12.01-07.21.18:687][152]LogShaderCompilers: Display: Started 78 'Local' shader compile jobs with 'Low' priority
+[2022.12.01-07.21.18:710][152]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/Assets/bigTorch/m_fire.m_fire
+[2022.12.01-07.21.18:713][152]LogMaterial: Display: Missing cached shadermap for m_fire in PCD3D_SM5, Default, SM5 (DDC key hash: 9E8BA541E2C1A82CE4A895EE43C5B2BBCF94A6CA), compiling. 
+[2022.12.01-07.21.18:748][152]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.12.01-07.21.18:940][152]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.01-07.21.19:303][152]LogMaterial: Display: Missing cached shadermap for m_fire in PCD3D_SM5, Default, SM5 (DDC key hash: ECF73F4EB206497BF41503231E0F6EB7D6611858), compiling. 
+[2022.12.01-07.21.19:310][152]LogMaterial: Display: Missing cached shadermap for m_fire in PCD3D_SM5, Default, SM5 (DDC key hash: 2B8164AC9A94765F80C41106DF6BC0A05E75C6FD), compiling. 
+[2022.12.01-07.21.19:314][152]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C44F2B4A4292559707D3970665B36C5A6FAF9346), compiling. 
+[2022.12.01-07.21.19:318][152]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EFBEF24ED566FEDA4D73F39CB793CE3FE777DEB), compiling. 
+[2022.12.01-07.21.19:362][152]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.01-07.21.19:362][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.21.19:362][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.21.21:337][232]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.25:098][412]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.25:281][421]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.12.01-07.21.25:282][421]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.25:295][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.01-07.21.25:295][421]LogShaderCompilers: Display: Total job queries 115, among them cache hits 0 (0.00%)
+[2022.12.01-07.21.25:295][421]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2022.12.01-07.21.25:296][421]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.01-07.21.25:296][421]LogShaderCompilers: Display: ================================================
+[2022.12.01-07.21.25:725][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.12.01-07.21.25:725][440]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.25:758][441]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.01-07.21.25:759][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.21.25:759][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.21.26:338][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.12.01-07.21.26:338][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.26:680][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.12.01-07.21.26:680][482]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.21.29:352][628]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.21.29:352][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.21.42:230][544]LogMaterial: Display: Missing cached shadermap for fiesta in PCD3D_SM5, Default, SM5 (DDC key hash: A804747C69A49C358F65D0FA8EE77580164FBE18), compiling. 
+[2022.12.01-07.21.42:231][544]LogMaterial: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\fiesta.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.21.42:231][544]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.21.42:260][544]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/fiesta.fiesta
+[2022.12.01-07.21.42:263][544]LogMaterial: Display: Missing cached shadermap for fiesta in PCD3D_SM5, Default, SM5 (DDC key hash: 3CFEADF2ED3012CDCC20ECBF4E62B8FBCA6B7605), compiling. 
+[2022.12.01-07.21.42:263][544]LogMaterial: Warning: [AssetLog] /Engine/Transient.fiesta (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.21.42:263][544]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.21.42:414][544]LogMaterial: Display: Missing cached shadermap for fiesta in PCD3D_SM5, Default, SM5 (DDC key hash: 9A06CF81FA7EBCC26D4112131C4E74AD5819C8E8), compiling. 
+[2022.12.01-07.21.42:415][544]LogMaterial: Warning: [AssetLog] /Engine/Transient.fiesta (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.21.42:415][544]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.21.42:417][544]LogMaterial: Display: Missing cached shadermap for fiesta in PCD3D_SM5, Default, SM5 (DDC key hash: CEE26343294890FEF7725E5B4DCE5F7B7D21AA0D), compiling. 
+[2022.12.01-07.21.42:418][544]LogMaterial: Warning: [AssetLog] /Engine/Transient.fiesta (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.21.42:418][544]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.21.42:419][544]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D04B5679853A8D82FCAC33BB86E78962CA41D6B3), compiling. 
+[2022.12.01-07.21.42:434][544]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.22.16:418][314]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.22.16:418][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.22.22:581][774]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/fiesta.fiesta
+[2022.12.01-07.22.22:583][774]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 130D193ECE5E50D1307B4837A2A9EB8CB96D4BC3), compiling. 
+[2022.12.01-07.22.22:584][774]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.22.22:584][774]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.22.22:734][774]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31322A968D016A1C8C4653E20D2EC04FF127E4F7), compiling. 
+[2022.12.01-07.22.22:735][774]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.22.22:735][774]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.22.22:737][774]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B51A8323A80928C2798C150EA903D289AA30E31), compiling. 
+[2022.12.01-07.22.22:738][774]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.22.22:738][774]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.22.22:739][774]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F60CA1F7C5DE26C85D3D18CF273C3C7F02BFFA5), compiling. 
+[2022.12.01-07.22.22:756][774]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.01-07.22.33:525][702]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.33:525][702]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles: 'K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.33:525][702]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.33:525][702]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineResources: 'K:/EpicGames/UE_4.27/Engine/Content/EngineResources' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.37:833][146]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.39:353][288]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineMaterials: 'K:/EpicGames/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.39:353][288]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintFunctionLibrary_64x.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintFunctionLibrary_64x.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.39:353][288]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.45:678][807]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.45:678][807]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles: 'K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.45:678][807]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.45:679][807]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineResources: 'K:/EpicGames/UE_4.27/Engine/Content/EngineResources' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.22.46:688][901]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A3EED62AF1E51A415035AF1190019A9840EB9F57), compiling. 
+[2022.12.01-07.22.46:691][901]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 07D2921D915ED8600491B5527FEE22672DA4FE6E), compiling. 
+[2022.12.01-07.22.46:694][901]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D7FD7A25DB098D6E831755955D8A8B13334FB28), compiling. 
+[2022.12.01-07.22.46:702][901]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.01-07.22.46:702][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.12.01-07.22.46:702][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.22.46:726][902]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.46:726][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.22.46:726][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.22.46:726][902]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.46:739][903]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.46:739][903]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.12.01-07.22.46:739][903]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.12.01-07.22.46:739][903]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.47:851][981]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.01-07.22.47:851][981]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.12.01-07.22.47:851][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.22.48:415][ 32]LogMaterialEditor: Saving and Compiling material fiesta
+[2022.12.01-07.22.48:934][ 32]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A3EA4AC207114186509AE017F2E0DC0002648B4), compiling. 
+[2022.12.01-07.22.48:984][ 32]LogMaterial: Display: Missing cached shadermap for fiesta in PCD3D_SM5, Default, SM5 (DDC key hash: 9E3EA6C00CCD34DE4CBA14FDC03CD78A13F1AF9D), compiling. 
+[2022.12.01-07.22.49:061][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.12.01-07.22.49:080][ 32]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.49:487][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.22.49:487][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.22.49:487][ 32]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.49:551][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.12.01-07.22.49:723][ 32]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.49:730][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.22.49:730][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.22.49:730][ 32]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.22.49:734][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParticleEffects/fiesta" FILE="../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/fiesta.uasset" SILENT=true
+[2022.12.01-07.22.49:741][ 32]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/fiestaE34F7704426D6E432512BCAE7BD1029B.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/fiesta.uasset'
+[2022.12.01-07.22.49:762][ 32]AssetCheck: New page: Asset Save: fiesta
+[2022.12.01-07.22.49:763][ 32]LogContentValidation: Display: Validating Material /Game/ParticleEffects/fiesta.fiesta
+[2022.12.01-07.22.49:764][ 32]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.01-07.22.49:764][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.12.01-07.22.49:765][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.22.50:644][104]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.01-07.22.50:644][104]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.12.01-07.22.50:644][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.01-07.22.55:349][455]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Fiesta.PS_Fiesta
+[2022.12.01-07.22.55:385][455]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2022.12.01-07.23.01:858][ 63]LogCascade: Quitting Cascade. FXSystem=0x000002324C45F790
+[2022.12.01-07.23.01:870][ 63]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.23.01:870][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.23.03:950][233]LogMaterialEditor: Saving and Compiling material fiesta
+[2022.12.01-07.23.04:074][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParticleEffects/fiesta" FILE="../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/fiesta.uasset" SILENT=true
+[2022.12.01-07.23.04:076][233]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/fiesta26A1A6734A19E26E5C4C55BF6B7914DC.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/fiesta.uasset'
+[2022.12.01-07.23.04:099][233]AssetCheck: New page: Asset Save: fiesta
+[2022.12.01-07.23.04:099][233]LogContentValidation: Display: Validating Material /Game/ParticleEffects/fiesta.fiesta
+[2022.12.01-07.23.05:293][334]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.23.05:293][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.25.53:384][510]LogContentBrowser: Attempting asset rename: ThirdPersonBP -> ThirdPersonBP
+[2022.12.01-07.25.56:019][719]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Particles\Fire.uasset: Failed to load '/Game/ThirdPersonBP/Materials/Fire': Can't find file.
+[2022.12.01-07.25.56:019][719]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Particles\Fire.uasset: Failed to load '/Game/ThirdPersonBP/Materials/Fire': Can't find file.
+[2022.12.01-07.25.56:019][719]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Particles\Fire.uasset: Failed to load '/Game/ThirdPersonBP/Materials/Fire': Can't find file.
+[2022.12.01-07.25.56:021][719]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Particles\Fire.uasset: Failed to load '/Game/ThirdPersonBP/Materials/Fire': Can't find file.
+[2022.12.01-07.25.56:021][719]LoadErrors: Failed to load /Game/ThirdPersonBP/Materials/Fire.Fire Referenced by ParticleModuleRequired_0
+[2022.12.01-07.26.00:235][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (machine3)
+[2022.12.01-07.26.00:930][109]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor42)
+[2022.12.01-07.26.01:994][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-07.26.01:994][174]PIE: New page: PIE session: Estacion_Espacial (Nov 30, 2022, 7:26:01 PM)
+[2022.12.01-07.26.01:994][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-07.26.02:047][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052308s)
+[2022.12.01-07.26.02:049][174]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-07.26.02:049][174]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2022.12.01-07.26.02:049][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Estacion_Espacial.Estacion_Espacial to /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial (0.054564s)
+[2022.12.01-07.26.02:330][174]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2022.12.01-07.26.02:336][174]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.12.01-07.26.02:336][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-07.26.02:336][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-07.26.02:336][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-07.26.02:336][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-07.26.02:336][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-07.26.02:337][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-07.26.02:337][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-07.26.02:337][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-07.26.02:337][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-07.26.02:337][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-07.26.02:337][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-07.26.02:337][174]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-07.26.02:343][174]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-07.26.02:343][174]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-07.26.02:364][174]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-07.26.02:365][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-07.26.02:365][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-07.26.02:365][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-07.26.02:365][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-07.26.02:366][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-07.26.02:366][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-07.26.02:367][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-07.26.02:367][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-07.26.02:367][174]LogInit: FAudioDevice initialized.
+[2022.12.01-07.26.02:367][174]LogAudio: Display: Audio Device (ID: 78) registered with world 'Estacion_Espacial'.
+[2022.12.01-07.26.02:382][174]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.01-07.26.02:398][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.12.01-01.26.02
+[2022.12.01-07.26.02:399][174]LogWorld: Bringing up level for play took: 0.015635
+[2022.12.01-07.26.02:399][174]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2022.12.01-07.26.02:402][174]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-07.26.02:422][174]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.12.01-07.26.02:422][174]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.12.01-07.26.02:422][174]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.12.01-07.26.02:422][174]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.12.01-07.26.02:422][174]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-07.26.02:423][174]LogNet: GameNetDriver IpNetDriver_77 IpNetDriver listening on port 17777
+[2022.12.01-07.26.02:425][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-07.26.02:425][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-07.26.02:425][174]PIE: Server logged in
+[2022.12.01-07.26.02:426][174]PIE: Play in editor total start time 0.442 seconds.
+[2022.12.01-07.26.02:430][174]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-07.26.02:430][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-07.26.02:431][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-07.26.02:431][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-07.26.02:431][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-07.26.02:432][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-07.26.02:432][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-07.26.02:432][174]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-07.26.02:437][174]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-07.26.02:437][174]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-07.26.02:452][174]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.01-07.26.02:452][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-07.26.02:453][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-07.26.02:453][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-07.26.02:453][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-07.26.02:453][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-07.26.02:453][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-07.26.02:455][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-07.26.02:455][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-07.26.02:455][174]LogInit: FAudioDevice initialized.
+[2022.12.01-07.26.02:455][174]LogAudio: Display: Audio Device (ID: 79) registered with world 'Untitled'.
+[2022.12.01-07.26.02:491][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-07.26.02:491][174]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MenuPrincipal
+[2022.12.01-07.26.02:491][174]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.12.01-07.26.02:492][174]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.12.01-07.26.02:492][174]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-07.26.02:492][174]LogNet: Game client on port 17777, rate 100000
+[2022.12.01-07.26.02:494][174]PIE: Client logged in
+[2022.12.01-07.26.02:495][174]PIE: Play in editor total start time 0.511 seconds.
+[2022.12.01-07.26.03:510][248]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61248
+[2022.12.01-07.26.03:510][248]LogHandshake: SendConnectChallenge. Timestamp: 1.556608, Cookie: 069162046109070023251193220101200243084222069244245049157239
+[2022.12.01-07.26.03:512][248]LogHandshake: SendChallengeResponse. Timestamp: 1.556608, Cookie: 069162046109070023251193220101200243084222069244245049157239
+[2022.12.01-07.26.03:521][249]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61248
+[2022.12.01-07.26.03:521][249]LogHandshake: SendChallengeAck. InCookie: 069162046109070023251193220101200243084222069244245049157239
+[2022.12.01-07.26.03:521][249]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61248
+[2022.12.01-07.26.03:522][249]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.01-07.26.03:522][249]LogNet: NotifyAcceptedConnection: Name: Estacion_Espacial, TimeStamp: 12/01/22 01:26:03, [UNetConnection] RemoteAddr: 127.0.0.1:61248, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_77, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-07.26.03:522][249]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61248, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_77, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-07.26.03:524][249]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: PendingNetDriver IpNetDriver_78, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.01-07.26.03:537][250]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Estacion_Espacial.Estacion_Espacial: Accepted
+[2022.12.01-07.26.03:537][250]LogNet: Remote platform little endian=1
+[2022.12.01-07.26.03:537][250]LogNet: This platform little endian=1
+[2022.12.01-07.26.03:540][250]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2022.12.01-07.26.03:551][251]LogNet: Login request: ?Name=LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14 userId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14 platform: NULL
+[2022.12.01-07.26.03:553][251]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Estacion_Espacial, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2022.12.01-07.26.03:553][251]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_Estacion_Espacial?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2022.12.01-07.26.03:553][251]LogWorld: BeginTearingDown for /Temp/Untitled_41
+[2022.12.01-07.26.03:553][251]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.26.03:553][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.26.03:609][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-07.26.03:697][251]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2022.12.01-07.26.03:736][251]LogAudio: Display: Audio Device (ID: 79) registered with world 'Estacion_Espacial'.
+[2022.12.01-07.26.03:737][251]LogAIModule: Creating AISystem for world Estacion_Espacial
+[2022.12.01-07.26.03:746][251]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Estacion_Espacial.Estacion_Espacial up for play (max tick rate 0) at 2022.12.01-01.26.03
+[2022.12.01-07.26.03:747][251]LogWorld: Bringing up level for play took: 0.007642
+[2022.12.01-07.26.03:748][251]LogLoad: Took 0.195002 seconds to LoadMap(/Game/Maps/UEDPIE_0_Estacion_Espacial)
+[2022.12.01-07.26.03:749][251]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.01-07.26.03:820][252]LogNet: Client netspeed is 100000
+[2022.12.01-07.26.03:820][252]LogNet: Join request: /Game/Maps/MenuPrincipal?Name=LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14?SplitscreenCount=1
+[2022.12.01-07.26.03:821][252]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-07.26.03:823][252]LogNet: Join succeeded: LAPTOP-74NAGPRS-FABC
+[2022.12.01-07.26.03:826][252]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-07.26.03:886][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-07.26.03:886][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Widgets/AmmoCounter.AmmoCounter_C:ExecuteUbergraph_AmmoCounter'!
+[2022.12.01-07.26.03:887][254]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-07.26.03:904][255]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.01-07.26.06:813][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-07.26.06:813][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Estacion_Espacial
+[2022.12.01-07.26.06:815][457]LogSlate: Window 'ProyectoOnYourOwn Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.12.01-07.26.06:823][457]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.26.06:825][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.26.06:835][457]LogNet: World NetDriver shutdown IpNetDriver_78 [GameNetDriver]
+[2022.12.01-07.26.06:836][457]LogNet: DestroyNamedNetDriver IpNetDriver_78 [GameNetDriver]
+[2022.12.01-07.26.06:836][457]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: GameNetDriver IpNetDriver_78, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14, Channels: 11, Time: 2022.12.01-07.26.06
+[2022.12.01-07.26.06:836][457]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: GameNetDriver IpNetDriver_78, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14
+[2022.12.01-07.26.06:836][457]LogExit: GameNetDriver IpNetDriver_78 shut down
+[2022.12.01-07.26.06:838][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Estacion_Espacial
+[2022.12.01-07.26.06:838][457]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.12.01-07.26.06:839][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-07.26.06:840][457]LogWorld: UWorld::CleanupWorld for Estacion_Espacial, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.26.06:843][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.26.06:855][457]LogNet: World NetDriver shutdown IpNetDriver_77 [GameNetDriver]
+[2022.12.01-07.26.06:855][457]LogNet: DestroyNamedNetDriver IpNetDriver_77 [GameNetDriver]
+[2022.12.01-07.26.06:856][457]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61248, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_77, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14
+[2022.12.01-07.26.06:856][457]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61248, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_77, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14, Channels: 11, Time: 2022.12.01-07.26.06
+[2022.12.01-07.26.06:856][457]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61248, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_77, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-74NAGPRS-FABCA4DB4E6EFEC3974C89B9667ECA14
+[2022.12.01-07.26.06:856][457]LogExit: GameNetDriver IpNetDriver_77 shut down
+[2022.12.01-07.26.06:858][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-07.26.06:889][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.26.06:950][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-07.26.06:950][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-07.26.06:952][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-07.26.06:957][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-07.26.06:957][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-07.26.06:958][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-07.26.06:978][457]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.12.01-07.26.07:031][458]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2022.12.01-07.26.07:031][458]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2022.12.01-07.26.07:085][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.12.01-07.26.12:875][921]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/ThirdPersonBP/Particles/Fire.Fire
+[2022.12.01-07.26.32:945][973]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.26.34:517][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:518][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:518][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:519][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:519][108]LoadErrors: Failed to load /Game/fire.fire Referenced by Fire
+[2022.12.01-07.26.34:519][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:520][108]LogLinker: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to load '/Game/fire': Can't find file.
+[2022.12.01-07.26.34:520][108]LoadErrors: Failed to load /Game/fire.fire Referenced by MaterialExpressionTextureSampleParameterSubUV_0
+[2022.12.01-07.26.34:522][108]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 300F5E831AD6A6F26626DE4250B3CA3E1CC5BD44), compiling. 
+[2022.12.01-07.26.34:525][108]LogMaterial: Warning: [AssetLog] K:\Facu\Videojuegos en linea\Proyecto\ProyectoDVL\ProyectoOnYourOwn\Content\ParticleEffects\ThirdPersonBP\Materials\Fire.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.26.34:525][108]LogMaterial: Display: 	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+[2022.12.01-07.26.36:922][347]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Fire7940E83A435BE5C35AF7D9B0EB0F75F9.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/ThirdPersonBP/Particles/Fire.uasset'
+[2022.12.01-07.26.36:942][347]AssetCheck: New page: Asset Save: Fire
+[2022.12.01-07.26.36:942][347]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/ThirdPersonBP/Particles/Fire.Fire
+[2022.12.01-07.26.51:479][738]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/ThirdPersonBP/Materials/Fire.Fire
+[2022.12.01-07.26.51:481][738]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 81508534E75E6E35CAEDA171A44C8E6E1743D052), compiling. 
+[2022.12.01-07.26.51:481][738]LogMaterial: Warning: [AssetLog] /Engine/Transient.Fire (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.26.51:482][738]LogMaterial: Display: 	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+[2022.12.01-07.26.51:627][738]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 26DCCE622E663FE6EBC753F71E04007EDBE8FAFE), compiling. 
+[2022.12.01-07.26.51:628][738]LogMaterial: Warning: [AssetLog] /Engine/Transient.Fire (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.26.51:628][738]LogMaterial: Display: 	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+[2022.12.01-07.26.51:629][738]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: FBBA018F79626ED5498A7D347BC2D5A77ACCE3B8), compiling. 
+[2022.12.01-07.26.51:630][738]LogMaterial: Warning: [AssetLog] /Engine/Transient.Fire (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.01-07.26.51:630][738]LogMaterial: Display: 	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+[2022.12.01-07.26.51:632][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DBC2B5AFA948D4C1321D05E3146639006C75742), compiling. 
+[2022.12.01-07.26.51:656][738]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+[2022.12.01-07.27.06:973][125]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.27.06:973][125]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles: 'K:/EpicGames/UE_4.27/Engine/Content/EngineLightProfiles' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.27.06:973][125]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.27.06:973][125]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineResources: 'K:/EpicGames/UE_4.27/Engine/Content/EngineResources' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.27.08:503][240]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.27.09:597][327]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: AB7660E9F7FA437A043C9E1855FCCDB896E5C35C), compiling. 
+[2022.12.01-07.27.09:601][327]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F52870B42CAA16BFC5F6D1FF6EBF0A657281C80), compiling. 
+[2022.12.01-07.27.09:604][327]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: BBFC63FD6ED641A2383571A4766A0E236BE89BCB), compiling. 
+[2022.12.01-07.27.09:612][327]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.01-07.27.09:613][327]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.27.09:653][328]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.09:653][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.27.09:653][328]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.27.09:653][328]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.09:666][329]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.09:667][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.12.01-07.27.09:667][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.12.01-07.27.09:667][329]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.10:592][387]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.01-07.27.10:592][387]LogShaderCompilers: Display: Total job queries 129, among them cache hits 2 (1.55%)
+[2022.12.01-07.27.10:592][387]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 56 distinct outputs (61.54%)
+[2022.12.01-07.27.10:592][387]LogShaderCompilers: Display: RAM used: 0.36 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.12.01-07.27.10:592][387]LogShaderCompilers: Display: ================================================
+[2022.12.01-07.27.10:705][394]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.01-07.27.10:705][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.27.11:031][422]LogMaterialEditor: Saving and Compiling material Fire
+[2022.12.01-07.27.11:490][422]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 3B7CDA8B70F7DA40156A93499313DA4DD12F3DF5), compiling. 
+[2022.12.01-07.27.11:538][422]LogMaterial: Display: Missing cached shadermap for Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 1C8DC114892BD368FB3937FF24C4C33D9B0D5FAB), compiling. 
+[2022.12.01-07.27.11:610][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.12.01-07.27.11:629][422]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.12:036][422]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.27.12:036][422]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.27.12:036][422]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.12:087][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.01-07.27.12:271][422]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Fire084EDD044B5D52467A6338BEE66BDF83.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/ThirdPersonBP/Materials/Fire.uasset'
+[2022.12.01-07.27.12:295][422]AssetCheck: New page: Asset Save: Fire
+[2022.12.01-07.27.12:296][422]LogContentValidation: Display: Validating Material /Game/ParticleEffects/ThirdPersonBP/Materials/Fire.Fire
+[2022.12.01-07.27.12:629][450]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.12:629][450]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.27.12:629][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.27.12:629][450]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.13:847][524]MaterialEditorStats: Texture samplers: 8/16
+[2022.12.01-07.27.13:847][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.27.18:942][948]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.18:952][949]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.12.01-07.27.18:952][949]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Submitted 29 shader compile jobs with 'Normal' priority
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.12.01-07.27.18:988][949]LogShaderCompilers: Display: Started 28 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.27.20:335][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.12.01-07.27.20:336][ 32]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.27.23:033][239]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.12.01-07.27.23:034][239]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.12.01-07.27.23:034][239]MaterialEditorStats: Texture samplers: 8/16
+[2022.12.01-07.27.23:034][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.27.35:313][595]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Fire1A82D81D428CDEAA0AB11994DF49532D.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/ThirdPersonBP/Particles/Fire.uasset'
+[2022.12.01-07.27.35:330][595]AssetCheck: New page: Asset Save: Fire
+[2022.12.01-07.27.35:330][595]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/ThirdPersonBP/Particles/Fire.Fire
+[2022.12.01-07.28.11:681][610]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire)
+[2022.12.01-07.28.35:537][626]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.01-07.28.35:582][626]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-07.29.31:057][673]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/FireE5787F6049848F62EEE8EE90E2EDAAF6.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/ThirdPersonBP/Particles/Fire.uasset'
+[2022.12.01-07.29.31:078][673]AssetCheck: New page: Asset Save: Fire
+[2022.12.01-07.29.31:078][673]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/ThirdPersonBP/Particles/Fire.Fire
+[2022.12.01-07.29.37:137][160]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (Smoke_NS)
+[2022.12.01-07.29.42:158][539]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/Smoke/Smoke_MAT.Smoke_MAT
+[2022.12.01-07.29.42:159][539]LogMaterial: Display: Missing cached shadermap for Smoke_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 3874AC4446756F897EE6AFA6941C6018E872AA65), compiling. 
+[2022.12.01-07.29.42:182][539]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Normal' priority
+[2022.12.01-07.29.42:326][539]LogMaterial: Display: Missing cached shadermap for Smoke_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: A81EDE4314AB23B996B59CFE228BC05D1630986B), compiling. 
+[2022.12.01-07.29.42:329][539]LogMaterial: Display: Missing cached shadermap for Smoke_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 2292B095A9988156AA25FD1E287D5AB6C2C6951A), compiling. 
+[2022.12.01-07.29.42:354][539]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.01-07.29.42:354][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.12.01-07.29.42:447][540]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.01-07.29.43:422][607]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.01-07.29.43:422][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.29.43:619][623]MaterialEditorStats: Texture samplers: 3/16
+[2022.12.01-07.29.43:619][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.29.46:576][871]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.29.46:576][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.29.48:378][  2]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/ParticleEffects/Smoke/Smoke_NS.Smoke_NS
+[2022.12.01-07.29.49:092][  8]78724_Smoke_NS_MessageLog: System successfully compiled.
+[2022.12.01-07.30.36:830][626]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.36:830][626]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.36:830][626]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset: 'K:/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.36:830][626]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EditorLandscapeResources: 'K:/EpicGames/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.36:830][626]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.38:012][705]LogMaterial: Display: Material /Game/ParticleEffects/Smoke/Testing_MAT.Testing_MAT needed to have new flag set bUsedWithNiagaraSprites !
+[2022.12.01-07.30.38:056][705]LogMaterial: Display: Missing cached shadermap for Testing_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: E3C4E2C4337234AEE0162415551F9CF5B1727DC0), compiling. 
+[2022.12.01-07.30.38:151][705]LogShaderCompilers: Display: Submitted 63 shader compile jobs with 'Low' priority
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 63
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.12.01-07.30.38:196][706]LogShaderCompilers: Display: Started 63 'Local' shader compile jobs with 'Low' priority
+[2022.12.01-07.30.46:199][ 20]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParticleEffects/Smoke/Testing_MAT.Testing_MAT
+[2022.12.01-07.30.46:203][ 20]LogMaterial: Display: Missing cached shadermap for Testing_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 5941D9F7412B2B00118AE32E89AD5881FE4860F0), compiling. 
+[2022.12.01-07.30.46:459][ 20]LogMaterial: Display: Missing cached shadermap for Testing_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 86DD90D90561C3DEBF205F7A352A6A2E12EFF035), compiling. 
+[2022.12.01-07.30.46:465][ 20]LogMaterial: Display: Missing cached shadermap for Testing_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 43ABD5E6A8FECA7361591C23EAF68A5F83500BB3), compiling. 
+[2022.12.01-07.30.46:497][ 20]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.01-07.30.46:497][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.30.47:401][ 60]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.01-07.30.47:401][ 60]LogShaderCompilers: Display: Total job queries 275, among them cache hits 8 (2.91%)
+[2022.12.01-07.30.47:402][ 60]LogShaderCompilers: Display: Tracking 139 distinct input hashes that result in 95 distinct outputs (68.35%)
+[2022.12.01-07.30.47:402][ 60]LogShaderCompilers: Display: RAM used: 0.61 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.12.01-07.30.47:402][ 60]LogShaderCompilers: Display: ================================================
+[2022.12.01-07.30.48:789][132]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.01-07.30.48:790][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.12.01-07.30.58:174][790]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/VREditor/Teleport: 'K:/EpicGames/UE_4.27/Engine/Content/VREditor/Teleport' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.58:174][790]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/EngineDebugMaterials/TerrainCollisionMaterial.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/EngineDebugMaterials/TerrainCollisionMaterial.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.58:174][790]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.58:174][790]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.30.59:292][862]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset: 'K:/EpicGames/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.31.01:569][988]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Smoke_NS09B34B5F450E06B746A8C5A519ACCF9B.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/Smoke/Smoke_NS.uasset'
+[2022.12.01-07.31.01:590][988]AssetCheck: New page: Asset Save: Smoke_NS
+[2022.12.01-07.31.01:590][988]LogContentValidation: Display: Validating NiagaraSystem /Game/ParticleEffects/Smoke/Smoke_NS.Smoke_NS
+[2022.12.01-07.31.02:812][ 72]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire)
+[2022.12.01-07.31.03:645][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor42)
+[2022.12.01-07.31.05:321][245]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.31.05:321][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.31.06:261][307]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.31.06:261][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.31.06:280][307]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.31.06:280][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.31.06:376][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.12.01-07.31.27:414][889]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/GUN2.GUN2
+[2022.12.01-07.31.32:117][252]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.31.32:117][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.32.19:975][827]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-07.32.20:189][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.12.01-07.32.20:870][827]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacterF98888FA4E130F06325F82B7EE05CF69.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-07.32.20:893][827]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-07.32.20:893][827]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-07.33.05:304][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/GUN2.GUN2
+[2022.12.01-07.33.38:467][797]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.01-07.33.38:497][797]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-07.34.44:152][765]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/DirectionalBurst.uasset: 'K:/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/DirectionalBurst.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.34.57:245][740]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/ParticleEffects/Laser/FX/laser_impact.laser_impact
+[2022.12.01-07.34.57:271][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:276][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:575][740]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.12.01-07.34.57:575][740]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.34.57:575][740]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:579][740]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.01-07.34.57:579][740]LogShaderCompilers: Display: Total job queries 277, among them cache hits 8 (2.89%)
+[2022.12.01-07.34.57:579][740]LogShaderCompilers: Display: Tracking 197 distinct input hashes that result in 121 distinct outputs (61.42%)
+[2022.12.01-07.34.57:579][740]LogShaderCompilers: Display: RAM used: 0.84 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.12.01-07.34.57:579][740]LogShaderCompilers: Display: ================================================
+[2022.12.01-07.34.57:586][740]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.337781 sec (time since issued), 0.621579 sec (combined shader worker time).
+[2022.12.01-07.34.57:965][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:975][740]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.12.01-07.34.57:975][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:975][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:980][740]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.12.01-07.34.57:980][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:980][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:996][740]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.12.01-07.34.57:996][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.57:996][740]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.58:189][740]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.12.01-07.34.58:189][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.01-07.34.58:383][741]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.600989 sec (time since issued), 1.591265 sec (combined shader worker time).
+[2022.12.01-07.34.58:811][748]93051_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2022.12.01-07.35.01:444][926]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.35.01:444][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.35.01:457][926]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.35.01:457][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.35.01:569][926]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2022.12.01-07.35.04:682][145]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/ParticleEffects/Laser/FX/laser_impact_System.laser_impact_System
+[2022.12.01-07.35.05:298][151]148917_laser_impact_System_MessageLog: System successfully compiled.
+[2022.12.01-07.35.07:798][340]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.35.07:798][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.35.07:813][340]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.35.07:813][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.35.07:909][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.12.01-07.36.49:962][785]SourceControl: fatal: K:/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/DirectionalBurst.uasset: 'K:/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/DirectionalBurst.uasset' is outside repository at 'K:/Facu/Videojuegos en linea/Proyecto/ProyectoDVL'
+[2022.12.01-07.37.02:109][706]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-07.37.02:313][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.12.01-07.37.02:903][706]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacter0A7B367A4441400511902DB68D524234.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-07.37.02:924][706]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-07.37.02:924][706]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-07.37.06:630][940]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/ThirdPersonCharacterEF1474A140AEA061559F328ADFEB2AFD.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-07.37.06:655][940]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-07.37.06:655][940]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-07.37.10:215][187]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-07.37.10:215][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
