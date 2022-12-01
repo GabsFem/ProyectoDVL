@@ -12005,3 +12005,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-07.37.06:655][940]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2022.12.01-07.37.10:215][187]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2022.12.01-07.37.10:215][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-07.40.13:012][986]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2022.12.01-07.40.14:400][986]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-07.40.14:774][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.12.01-07.40.14:927][986]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Estacion_Espacial328971F14AE756B4A0EEE0AF21BF2081.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Estacion_Espacial.umap'
+[2022.12.01-07.40.14:939][986]LogFileHelpers: Saving map 'Estacion_Espacial' took 0.220
+[2022.12.01-07.40.15:092][986]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/laser_impact_System6E2F217E4C2F2F3626264F9CEB6FC12B.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/Laser/FX/laser_impact_System.uasset'
+[2022.12.01-07.40.15:149][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.12.01-07.40.15:159][986]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Streaming13347BBE147278127A77346957D4D1DB1.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/Maps/Streaming1.umap'
+[2022.12.01-07.40.15:160][986]LogFileHelpers: Saving map 'Streaming1' took 0.066
+[2022.12.01-07.40.15:179][986]LogSavePackage: Moving '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Saved/Testing_MAT6B6CCBE3463C3E066EC02E8C82507505.tmp' to '../../../../../Facu/Videojuegos en linea/Proyecto/ProyectoDVL/ProyectoOnYourOwn/Content/ParticleEffects/Smoke/Testing_MAT.uasset'
+[2022.12.01-07.40.15:196][986]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-07.40.15:196][986]LogContentValidation: Display: Validating World /Game/Maps/Streaming1.Streaming1
+[2022.12.01-07.40.15:196][986]LogContentValidation: Display: Validating Material /Game/ParticleEffects/Smoke/Testing_MAT.Testing_MAT
+[2022.12.01-07.40.15:196][986]LogContentValidation: Display: Validating World /Game/Maps/Estacion_Espacial.Estacion_Espacial
+[2022.12.01-07.40.15:196][986]LogContentValidation: Display: Validating NiagaraSystem /Game/ParticleEffects/Laser/FX/laser_impact_System.laser_impact_System
